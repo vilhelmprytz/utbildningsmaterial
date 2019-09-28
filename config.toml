@@ -1,0 +1,5 @@
+baseURL = "http://utb.vilhelmprytz.se/"
+languageCode = "sv"
+title = "Vilhelm Prytz - Utbildningsmaterial"
+
+theme = "book"
