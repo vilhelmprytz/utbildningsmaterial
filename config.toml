@@ -3,3 +3,6 @@ languageCode = "sv"
 title = "Vilhelm Prytz - Utbildningsmaterial"
 
 theme = "book"
+
+[params]
+    BookSearch = false
