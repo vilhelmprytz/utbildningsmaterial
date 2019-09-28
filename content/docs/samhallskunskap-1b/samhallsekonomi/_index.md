@@ -4,3 +4,7 @@ title: Samhällsekonomi
 ---
 
 # Samhällsekonomi
+
+## Begreppslista
+
+Kommer snart.

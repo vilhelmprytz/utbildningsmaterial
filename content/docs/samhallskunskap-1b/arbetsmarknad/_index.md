@@ -4,3 +4,7 @@ title: Arbetsmarknad
 ---
 
 # Arbetsmarknad
+
+## Begreppslista
+
+Kommer snart.
