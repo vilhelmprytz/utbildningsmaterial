@@ -11,7 +11,7 @@ Kommer snart.
 
 ## Fysikformler
 
-Rörelse
+### Rörelse
 
 {{< columns >}}
 {{< katex >}}
@@ -53,7 +53,7 @@ a = \dfrac{dv}{dt}
 {{< /katex >}}
 {{< /columns >}}
 
-Likformig rörsle
+### Likformig rörsle
 
 {{< columns >}}
 {{< katex >}}
@@ -65,7 +65,7 @@ v = s * t
 {{< /katex >}}
 {{< /columns >}}
 
-Likformigt accelererad rörelse
+### Likformigt accelererad rörelse
 
 {{< columns >}}
 {{< katex >}}
@@ -104,8 +104,8 @@ v_m \text{ är medelhastigheten}
 {{< /katex >}}
 {{< /columns >}}
 
+### Kraftekvation
 
-Kraftekvation
 {{< columns >}}
 {{< katex >}}
 F = m * a
@@ -113,5 +113,37 @@ F = m * a
 <--->
 {{< katex >}}
 F = \dfrac{d(mv)}{dt}
+{{< /katex >}}
+{{< /columns >}}
+
+## Newtons kraftlagar
+
+### Newtons första lag
+
+{{< columns >}}
+{{< katex >}}
+F_R = 0 \Rightarrow a = 0
+{{< /katex >}}
+<--->
+{{< /columns >}}
+
+### Newtons andra lag
+
+{{< columns >}}
+{{< katex >}}
+F_R \neq 0 \Rightarrow F_R = m * a
+{{< /katex >}}
+<--->
+{{< /columns >}}
+
+### Newtons tredje lag
+
+{{< columns >}}
+{{< katex >}}
+kraft - motkraft
+{{< /katex >}}
+<--->
+{{< katex >}}
+\text{Beskriver på två objekt}
 {{< /katex >}}
 {{< /columns >}}
