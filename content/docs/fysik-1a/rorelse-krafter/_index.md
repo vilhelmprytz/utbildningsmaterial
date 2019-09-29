@@ -7,7 +7,20 @@ weight: 1
 
 ## Begreppslista
 
-Kommer snart.
+### Krafter
+* **Gravitationsaccelerationen**: I Sverige: 9,82 m/s²
+* **Gravitationskraft/tyngdkraft**: beskriver hur förmål med massa påverkar varandra.  Beräknas med hjälp av F = m * g (där g är gravitationsaccelerationen).
+* **Friktionskraft**: är den kraft som motverkar en rörelse mellan två ytor.
+
+* **Hookes lag**: beskriver kraften i en fjäder (som drar i en fjäder). Beräknas med hjälp av en konstant, fjäderkonstanten, som är en egenskap hos fjädern (i enhter N/m). Finns i [formelsamlingen](#hookes-lag).
+
+* **Lutande plan**
+* **Jämvikt**
+
+### Typer av diagram
+* **Sträcka-tid-diagram**: sträcka (s) i y-axeln, tid i x-axeln i ett diagram.
+* **Hastighet-tid-diagram**: hastighet (v) i y-axeln, tid i x-axeln i ett diagram.
+* **Acceleration-tid-diagram**: acceleration (a) i y-axeln, tid i x-axeln i ett diagram.
 
 ## Fysikformler
 
@@ -127,6 +140,47 @@ F = m * a
 F = \dfrac{d(mv)}{dt}
 {{< /katex >}}
 {{< /columns >}}
+
+### Friktion
+
+{{< columns >}}
+{{< katex >}}
+F_f = \mu * F_n
+{{< /katex >}}
+<--->
+{{< katex >}}
+F_f \text{ är friktionskraften vid fullt}
+\\\text{utbildad friktion}
+\\F_n \text{ är normalkraften}
+{{< /katex >}}
+{{< /columns >}}
+
+{{< columns >}}
+{{< katex >}}
+\mu = \tan \alpha
+{{< /katex >}}
+<--->
+{{< katex >}}
+\mu \text{ är friktionstalet}
+\\\alpha \text{ är lutningsvinkeln}
+\\\text{när en kropp rör sig utför lutande}
+\\\text{plan med konstant hastighet}
+{{< /katex >}}
+{{< /columns >}}
+
+### Hookes lag
+{{< columns >}}
+{{< katex >}}
+F = k * \Delta l
+{{< /katex >}}
+<--->
+{{< katex >}}
+F \text{ är sträckkraften}
+\\\Delta l \text{ är fjäderns förlängning}
+\\k \text{ är fjäderkonstanten}
+{{< /katex >}}
+{{< /columns >}}
+
 
 ## Newtons kraftlagar
 
