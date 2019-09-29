@@ -11,6 +11,18 @@ Kommer snart.
 
 ## Fysikformler
 
+### Densitet
+
+{{< columns >}}
+{{< katex >}}
+\rho = \dfrac{m}{V}
+{{< /katex >}}
+<--->
+{{< katex >}}
+densitet = \dfrac{massa}{volym}
+{{< /katex >}}
+{{< /columns >}}
+
 ### Rörelse
 
 {{< columns >}}
