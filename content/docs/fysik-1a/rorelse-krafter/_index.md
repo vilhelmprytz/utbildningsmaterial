@@ -57,7 +57,7 @@ a = \dfrac{dv}{dt}
 
 {{< columns >}}
 {{< katex >}}
-v = s * t
+s = v * t
 {{< /katex >}}
 <--->
 {{< katex >}}
