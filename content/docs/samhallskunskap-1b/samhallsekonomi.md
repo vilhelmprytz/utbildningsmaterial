@@ -24,13 +24,15 @@ title: Samhällsekonomi
 * **Marknader** - platsen där säljare och köpare möts
 * **Utbud** - det som bjuds till försäljning
 * **Efterfrågan** - frågar efter det som bjuds ut
-* **Exempel på marknader**
-    * varumarknaden
-    * tjänstemarknaden
-    * arbetsmarknaden
-    * bostadsmarknaden
-    * kapitalmarknaden
-    * valutamarknaden
+
+### Exempel på marknader
+1. varumarknaden
+2. tjänstemarknaden
+3. arbetsmarknaden
+4. bostadsmarknaden
+5. kapitalmarknaden
+6. valutamarknaden
+
 * **Marknadsföring** - olika sätt att nå ut till marknaden, t.ex via reklam
 * **Planekonomi** - politiska beslut styr hela ekonomin. Bestämmer vad & hur, prissättning och fördelning
 * **Marknadsekonomi** - politiska beslut styr inte ekonomin på samma sätt, marknadskrafterna, utbud och efterfrågan, avgör priset.
@@ -43,33 +45,43 @@ title: Samhällsekonomi
 * **Socialistisk planekonomin** - Kina, Kuba, f.d. Sovjetunionen
 * **Kapitalistisk marknadsekonomi** - t.ex USA, Japan, Australien och Västeuropa.
 * **“En tredje väg”** - huvudsak kapitalistiskt men staten och kommunernas verksamhet i ekonomin var fortfarande viktig
-* **Konkurrensmedel** - metoder säljare använder i konkurrenssyften
-    * Pris - komplext att sätta pris som tilltalar kunder
-    * Produkt - argumenterar om att den egna produkten är bättre än konkurrenterna på olika sätt
-    * Plats - kanaler för att nå ut till målgruppen, distributionsvägar.
-    * Påverkan - marknadsbearbetning, nå ut med information om en produkt till marknaden
-    * reklam via medier
-    * public relations, PR
-    * sales promotion, SP
-    * personlig försäljning
+
+### Konkurrensmedel - metoder säljare använder i konkurrenssyften
+
+1. Pris - komplext att sätta pris som tilltalar kunder
+* Produkt - argumenterar om att den egna produkten är bättre än konkurrenterna på olika sätt
+* Plats - kanaler för att nå ut till målgruppen, distributionsvägar.
+* Påverkan - marknadsbearbetning, nå ut med information om en produkt till marknaden
+* reklam via medier
+* public relations, PR
+* sales promotion, SP
+* personlig försäljning
+
 * **Marknadsmix** - “P + P + P + P”, balansera alla konkurrensmedel för att lyckas nå ut till konsumenter
 * **Konkurrensformer** - miljöer, allt i från monopol till fullständig konkurrens (många aktörer på en marknad)
-* **Konkurrenslagen**
-    * konkurrensbegränsande samarbete är ej tillåtet
-    * företag som har en “dominerande ställning” på marknaden förbjuds att missbruka sin dominans
-    * företag som bryter mot dessa får betala höga böter och skadestånd till drabbade företag
+
+### Konkurrenslagen
+
+1. konkurrensbegränsande samarbete är ej tillåtet
+* företag som har en “dominerande ställning” på marknaden förbjuds att missbruka sin dominans
+* företag som bryter mot dessa får betala höga böter och skadestånd till drabbade företag
+
 * **Konkurrensverket** - statlig myndighet som granskar och ser till att företag efterlever detta
 * **Monopol** - en enda säljare på en marknad, kan använda ställning för att missbruka
 * **Faktorer som motverkar** - möjligheten att ha olika val, t.ex e post istället för post, buss istället för tåg och även att använda utländska företag och importera
 * **Maktmonopol** - ett monopol utvecklas genom att ett företag slår ut/köper upp sina konkurrenter
-* **Rättsliga monopol**
-    * Systembolaget är ett bra exempel, enda bolaget som får sälja alkohol
-    * Uppfinningar och nya produkter, patent, måste skyddas för att undvika plagiat och idestöld
-    * Infrastruktursystem som vägar, järnvägar, vatten, avlopp, telefonnät
-    * I Sverige: Posten är inte längre monopol (Bring, citymail), SJ är inte längre monopol, SVT är inte monopol längre. Förändringar har skett.
-* **Oligopol** - fåtalskonkurrens, litet antal företag dominerar
-    * Banker: SEB, Handelsbanken, Nordea och Swedbank dominerar
-    * Försäkringar: Skandia, Folksam, Trygg-Hansa, Länsförsäkringar
+
+### Rättsliga monopol
+
+1. Systembolaget är ett bra exempel, enda bolaget som får sälja alkohol
+* Uppfinningar och nya produkter, patent, måste skyddas för att undvika plagiat och idestöld
+* Infrastruktursystem som vägar, järnvägar, vatten, avlopp, telefonnät
+* I Sverige: Posten är inte längre monopol (Bring, citymail), SJ är inte längre monopol, SVT är inte monopol längre. Förändringar har skett.
+
+### Oligopol - fåtalskonkurrens, litet antal företag dominerar
+1. Banker: SEB, Handelsbanken, Nordea och Swedbank dominerar
+2. Försäkringar: Skandia, Folksam, Trygg-Hansa, Länsförsäkringar
+
 * **Monopolistisk konkurrens** - Många säljare som betonar plusvärden. Svår att förklara. Man försöker få konsumenter att föredra ett visst märke och på så sätt ignorerar konsumenterna priserna.
 * **Fri (fullständig) konkurrens** - idealet i marknadsekonomin: utbud och efterfrågan bestämmer helt priserna. Förutsättningar till detta är dock:
     * Aktörer ska vara många, alltså inte att ett enskilt företag kan påverka priset
@@ -79,12 +91,15 @@ title: Samhällsekonomi
     * Fullständig information om marknadens priser
 * **Prisbildning** - pris i Y-axeln, mängd i X-axeln. Där E (totala efterfrågan) möter U (utbudet) skapas P (jämviktspriset). 
 * **Priskrig**
-* **Kreditinstitut**
-    * Riksbanken - bankernas bank,
-    * De traditionella bankerna - SEB, Handelsbanken, Nordea och Swedbank
-    * Nischbanker - IKANO bank, Collector Bank osv.
-    * Försäkringsbolagen - flera försäkringsbolag finns nu som nischbanker, t.ex Skandiabanken eller Länsförsäkringar Bank
-    * Detaljhandeln - företag som ICA, OKQ8, Preem fungerar som kreditinstitut
+
+### Kreditinstitut
+    
+1. Riksbanken - bankernas bank,
+* De traditionella bankerna - SEB, Handelsbanken, Nordea och Swedbank
+* Nischbanker - IKANO bank, Collector Bank osv.
+* Försäkringsbolagen - flera försäkringsbolag finns nu som nischbanker, t.ex Skandiabanken eller Länsförsäkringar Bank
+* Detaljhandeln - företag som ICA, OKQ8, Preem fungerar som kreditinstitut
+
 * **Goda och dåliga tider** - utvecklingen och tillbakagången av BNP
 * **Konjunkturutveckling** - uppgång och nedgång av BNP
 * **Konjunkturcykel** - tidsperioden mellan två lågkonjunkturer eller mellan två högkonjunkturer, cyklisk: återkommande.
