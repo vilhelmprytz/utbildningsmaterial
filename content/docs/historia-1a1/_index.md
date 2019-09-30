@@ -6,4 +6,4 @@ weight: 4
 
 Gymnasiekursen Historia 1a1.
 
-Utgår från boken "Alla tiders historia A", ISBN 978-91-40-64861-7, 91-40-64861-3.
+Sidhänvisningar utgår från boken "Alla tiders historia A", ISBN-13 978-91-40-64861-7.
