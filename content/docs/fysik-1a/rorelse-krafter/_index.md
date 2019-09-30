@@ -11,9 +11,7 @@ weight: 1
 * **Gravitationsaccelerationen**: I Sverige: 9,82 m/s²
 * **Gravitationskraft/tyngdkraft**: beskriver hur förmål med massa påverkar varandra.  Beräknas med hjälp av F = m * g (där g är gravitationsaccelerationen).
 * **Friktionskraft**: är den kraft som motverkar en rörelse mellan två ytor.
-
 * **Hookes lag**: beskriver kraften i en fjäder (som drar i en fjäder). Beräknas med hjälp av en konstant, fjäderkonstanten, som är en egenskap hos fjädern (i enhter N/m). Finns i [formelsamlingen](#hookes-lag).
-
 * **Lutande plan**
 * **Jämvikt**
 
