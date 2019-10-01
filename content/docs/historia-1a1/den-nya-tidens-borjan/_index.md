@@ -67,6 +67,13 @@ Galileo Galilei upptäckte år 1610 att jupiter hade fyra månar. Enligt den kri
 Isaac Newton (född 1642) var en brittisk professor som förklarade universum utifrån rörelse- och gravitationslagar (kallas en mekanistisk världsuppfattning). Bl.a. förklarade han de förut oförklarliga ellipsformade planetbanorna som en naturlig följd av gravitationen.
 
 #### **Renässansen**
+Renässansen är den tidsperiod som pågick mellan 1300- och 1500-talet. Renässansen var menad att vara en återfödelse av den kulturella antiken för att rasera "den mörka medeltiden". Under renässansen tog man avstånd från medeltidens människosynd (där fokus var på litenhet och synder). Idag ses renässansen som en tid för arkitektur, konst och litteratur.
+
+##### **Kända verk från renässanskulturen**
+* **Filippo Brunelleschi**, "hittebarnshuset"
+* **Paolo Uccello**, "striden vid San Romano"
+* **Leonardo da Vinci**, "Nattvarden"
+* **Michelangelo**, "David"
 
 ### **Reformationen**
 
