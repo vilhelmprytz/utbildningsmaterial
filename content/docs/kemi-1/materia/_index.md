@@ -42,9 +42,17 @@ weight: 1
 * **Ädelgas** - grundämnen i grupp 18 i det periodiska systemet (väldigt stabila ämnen)
 * **Ädelgasstruktur** - atomer “vill” avge eller uppta elektroner så att de får 8 valenselektroner (oktettregeln), då uppnår de ädelgasstruktur som är ett lågt energitillstånd
 
-### Atomodellens utveckling
+## Atomodellens utveckling
 
-* **John Dalton** - atomen är odelbar massiv kukla
+{{< mermaid >}}
+graph LR
+	Dalton --> Thomson
+    Thomson --> Rutherford
+    Rutherford --> Bohr
+    Bohr --> Chadwick
+{{< /mermaid >}}
+
+* **John Dalton** - atomen är odelbar massiv kula
 * **Sir Joseph Thomson** - negativt laddade elektroner spridda i en positivt laddad massa
 * **Ernest Rutherford** - insåg att atomen består mest av tomrum, elektroner kretsade kring en atomkärna som bestod av protoner
 * **Niels Bohr** - elektronerna kunde bara befinna sig på vissa energinivåer utanför kärnan
