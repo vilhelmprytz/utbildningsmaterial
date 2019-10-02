@@ -17,6 +17,9 @@ Sida 131 - 192 i boken.
 * **Johannes Kepler**: assistent som tog över efter Tycho Brahes död. Bevisade att den heliocentriska världsbilden stämde samt att planeterna krestade i ellipsformade banor.
 * **Galileo Galilei**: upptäckte att Jupiter hade fyra månar, att kroppar med samma tyngd föll lika snabbt samt att rörelse pågår i all oändlighet om det inte funnits krafter som påverkar (frikion).
 * **Isaac Newton**: förklarade universum utifrån rörelse- och gravitationslagar (mekanistisk världsuppfattning). Född 1642.
+* **Protestantism**: 
+* **Reformerta**:
+* **Motreformationen**: 
 
 ## Aktör- och struktur- teorin
 
@@ -76,6 +79,10 @@ Renässansen är den tidsperiod som pågick mellan 1300- och 1500-talet. Renäss
 * **Michelangelo**, "David"
 
 ### **Reformationen**
+Reformationen började år 1517 då Martin Luther spikade upp ett plakat med 95 punkter som kritiserade den katolska kyrkan.
+
+### **Starkare stater och enväldiga kungar**
+
 
 ### **Den svenska nationalstatens födelse**
 
