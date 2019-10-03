@@ -186,7 +186,7 @@ F \text{ är sträckkraften}
 
 {{< columns >}}
 {{< katex >}}
-F_R = 0 \Rightarrow a = 0
+F_R = 0 \Longleftrightarrow a = 0
 {{< /katex >}}
 <--->
 {{< /columns >}}
@@ -195,7 +195,7 @@ F_R = 0 \Rightarrow a = 0
 
 {{< columns >}}
 {{< katex >}}
-F_R \neq 0 \Rightarrow F_R = m * a
+F_R \neq 0 \Longleftrightarrow F_R = m * a
 {{< /katex >}}
 <--->
 {{< /columns >}}
