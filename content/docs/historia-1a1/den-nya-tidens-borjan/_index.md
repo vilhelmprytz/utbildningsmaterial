@@ -85,5 +85,19 @@ Reformationen började år 1517 då Martin Luther spikade upp ett plakat med 95 
 
 
 ### **Den svenska nationalstatens födelse**
+Gustav Vasa tog makten i Sverige år 1523 (blev kung 6 juni) och det stod därmed klart att han segrat över den danske unionskungen.
+
+* **Sverige blir lutherskt** - Reformationen pågick i Sverige samtidigt som Vasa blev kung. Kyrkan skulle bidra till statens inkomster. Den lutherska läran innebär helt enkelt att staten fick mer pengar och makt, vilket Gustav Vasa tyckte om.
+* **Effektivare skatteindrivning** - Upprättade böcker som visade hur mycket varje enskild gård skulle betala i skatt istället för varje by. Fogdar skötte indrivning och kom varje år till Stockholm för att redovisa sina räkenskaper.
+
+#### **Bondeuppror och dackefejden**
+Vasa hade haft bönderna på sin sida när han tog makten, då flera var missnödja med den danske kungen. Men i och med de höjda skatterna tappade han anhängare bland bönderna. Detta ledde till att flera bönder gjorde uppror. Under 10 år kunde Vasa hålla bönderna i schack med hjälp av förhandlingar, propaganda och hårda straff. 
+
+Dackefejden är ett känt fall där småländska bönder reste sig mot kungen under ledning av Nils Dacke på 1540-talet. Smålänningarna var missnöjda med skattepolitiken och med den nya religionen. Nils Dacke och hela hans släkt dödades, smålänningarna straffades med dyra böter, ledarna avrättades och upprorsmän förvisades till Finland.
+
+#### **Vasasönerna**
+* Erik XIV - blev kung 1560 efter Vasas död, började med att förminska makten hos sina halvbröder.
+* Johan III
+* Karl IX
 
 ### **Trettioåriga riget och stormaktstiden**
