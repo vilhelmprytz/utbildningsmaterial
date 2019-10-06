@@ -20,6 +20,9 @@ Sida 131 - 192 i boken.
 * **Protestantism**: 
 * **Reformerta**:
 * **Motreformationen**: 
+* **Gustav Vasa**: första svenska kungen, blev krönt 6 juni 1523. Fri från Danmark, Sverige en nationalstat.
+* **Dackefejden**: 
+* **Westfaliska freden**: [Westfaliska freden](#westfaliska-freden) slöts efter det trettioåriga kriget, år 1648.
 
 ## Aktör- och struktur- teorin
 
@@ -82,7 +85,7 @@ Renässansen är den tidsperiod som pågick mellan 1300- och 1500-talet. Renäss
 Reformationen började år 1517 då Martin Luther spikade upp ett plakat med 95 punkter som kritiserade den katolska kyrkan.
 
 ### **Starkare stater och enväldiga kungar**
-
+I Europa.
 
 ### **Den svenska nationalstatens födelse**
 Gustav Vasa tog makten i Sverige år 1523 (blev kung 6 juni) och det stod därmed klart att han segrat över den danske unionskungen.
@@ -97,7 +100,30 @@ Dackefejden är ett känt fall där småländska bönder reste sig mot kungen un
 
 #### **Vasasönerna**
 * Erik XIV - blev kung 1560 efter Vasas död, började med att förminska makten hos sina halvbröder.
-* Johan III
-* Karl IX
+* Johan III -
+* Karl IX - far till Gustav II Adolf
 
-### **Trettioåriga riget och stormaktstiden**
+### **Svenska stormaktstiden**
+Den svenska stormaktstiden varade mellan år 1561 (Estland kom under den svenska kronan) och år 1721 (freden slöts efter Karl XII:s död).
+
+### **Det trettioåriga kriget**
+Det trettioåriga kriget bröt ut i Tyskland år 1618 då en skara protestanter kastade ut två kejserliga ståthållare genom ett fönster i slottet i Prag.
+
+Det trettioåriga kriget kan delas in i tre delar:
+
+* **Religionskrig** - protestanter/katoliker. Skulle reformationen vinna?
+* **Politisk makt** - furstar/kejsaren. Vem skulle ha makten?
+* **Europeisk stat** - Sverige/Danmark/England/Spanien/Nederländerna/Frankrike. Vilken europeisk stat skulle ha mest makt?
+
+Många dog i det trettioåriga kriget. Den tyska befolkningen minskade från 17 miljoner till 10 miljoner. Det var inte bara själva krigandet som ledde till död, utan även hungersnöd och pesten bidrog.
+
+#### **Sverige och det trettoåriga kriget**
+Gustav II Adolf.
+
+#### **Westfaliska freden**
+Efter trettio års krigande slöts den Westfaliska freden i Münster och Osnabrück.
+
+* **Kejsarens makt inskränktes** - endast verklig makt i Böhmen, Österrike och Ungern. Det tysk-romerska riket delades upp i 300 furstendömen.
+* **Schweiz och Nederländerna** erkändes som överlägsna stater.
+* **Frankrike fick Elsass** - framöver blev detta konfliktområde mellan Tyskland och Frankrike
+* **Sverige** - Sverige fick landområden i norra Tyskland
