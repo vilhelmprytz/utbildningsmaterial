@@ -23,6 +23,8 @@ Sida 131 - 192 i boken.
 * **Gustav Vasa**: första svenska kungen, blev krönt 6 juni 1523. Fri från Danmark, Sverige en nationalstat.
 * **Dackefejden**: 
 * **Westfaliska freden**: [Westfaliska freden](#westfaliska-freden) slöts efter det trettioåriga kriget, år 1648.
+* **Roskilde freden**: År 1658
+* **Räfsten**: när Karl XI inför en domstol som leder till att personerna i förmyndarregeringen får betala skadestånd och böter.
 
 ## Aktör- och struktur- teorin
 
@@ -103,9 +105,6 @@ Dackefejden är ett känt fall där småländska bönder reste sig mot kungen un
 * Johan III -
 * Karl IX - far till Gustav II Adolf
 
-### **Svenska stormaktstiden**
-Den svenska stormaktstiden varade mellan år 1561 (Estland kom under den svenska kronan) och år 1721 (freden slöts efter Karl XII:s död).
-
 ### **Det trettioåriga kriget**
 Det trettioåriga kriget bröt ut i Tyskland år 1618 då en skara protestanter kastade ut två kejserliga ståthållare genom ett fönster i slottet i Prag.
 
@@ -117,9 +116,6 @@ Det trettioåriga kriget kan delas in i tre delar:
 
 Många dog i det trettioåriga kriget. Den tyska befolkningen minskade från 17 miljoner till 10 miljoner. Det var inte bara själva krigandet som ledde till död, utan även hungersnöd och pesten bidrog.
 
-#### **Sverige och det trettoåriga kriget**
-Gustav II Adolf.
-
 #### **Westfaliska freden**
 Efter trettio års krigande slöts den Westfaliska freden i Münster och Osnabrück.
 
@@ -127,3 +123,63 @@ Efter trettio års krigande slöts den Westfaliska freden i Münster och Osnabr�
 * **Schweiz och Nederländerna** erkändes som överlägsna stater.
 * **Frankrike fick Elsass** - framöver blev detta konfliktområde mellan Tyskland och Frankrike
 * **Sverige** - Sverige fick landområden i norra Tyskland
+
+### **Svenska stormaktstiden**
+Den svenska stormaktstiden varade mellan år 1561 (Estland kom under den svenska kronan) och år 1721 (freden slöts efter Karl XII:s död).
+
+#### **Sverige och det trettoåriga kriget**
+Gustav II Adolf tog över en flod i norra Tyskland år 1630. År 1631 slöts ett fördrag mellan Sverige och katolska Frankrike att Sverige skulle för 400 000 riksdaler (årligen) ha 36 000 man i Tyskland för att strida mot de kejserliga trupperna. Gustav II Adolf besegrade de kejserliga trupperna samma år. År 1632 dog Gustav II Adolf, men Sverige forsatte kriga vilket slutade med att Sverige fick starka positioner i norra Tyskland (vid flodar).
+
+Hur hade Sverige råd att delta i krig?
+
+* exporterade koppar från Falu gruva och järn från Bergslagen
+* högre skatter och fler typer av skatter
+* tullen från hamnstäderna vid södra Östersjökusten
+* lånade pengar från t.ex. Nederländerna
+
+Varför ingrep Sverige i det trettioåriga kriget? Här är ett par möjliga svar.
+
+* Sverige ville hjälpa och försvara protestanterna i Tyskland.
+* Sverige ville rädda tros- och yttrandefriheten i Tyskland.
+* Sverige var hotat av den tysk-romerske kejsarens makt och framgångar i Tyskland.
+* Sveriges högadel ville kriga för att skaffa sig ännu mer pengar och makt.
+* Sverige ville utvidga sin politiska och ekonomiska makt.
+
+#### **Drottning Kristina**
+Efter Gustav II Adolfs död var det den 6 årige dottern Kristina som skulle ta över. Eftersom hon var för ung blev det en förmyndarregering som styde i Sverige, bland andra hade Axel Oxenstierna mycket makt under denna tid.
+
+Sverige blev nordens ledande makt. Tog över Gotland, Härjedalen, Jämtland, Ösel och Halland på 30 år.
+
+När drottning Kristina blir myndig tar hon över makten och ger ut donationer till adelsmän som deltagit under kriget. Försökte skapa en motvikt mot Oxenstiernorna, vilket ledde till att adeln ökade sina jordegendomar. Abdikerade år 1654 och övergick till katolicismen i Rom (och dog sedan 1689). Hennes övergång var chokerande, hennes far hade ju kämpat mot katolicismen.
+
+#### **Den karolinska tiden**
+Tiden när tre kungar (Karl X Gustav, Karl XI och Karl XII) regerade kallas för den karolinska tiden (1654 - 1718).
+
+##### **Karl X Gustav**
+
+* Anfall mot Polen, 1650-tal.
+* Danmark förklarade krig. Via Polen och norra Tyskland attackerade Karl X Gustav Danmark, vilket ledde till danskarnas tvingade fred år 1658.
+* Genom freden, roskildefreden, fick Sverige Skåne, Halland, Blekinge, Bornholm, Bohuslän och Trondheims län. Danska riket förlorade ⅓ av sitt territorium. 
+* Sommaren 1658 och Karl X Gustav ville åtwer attackera Danmark. Sverige förlorade då Danmark fick hjälp av Holland.
+* Karl Gustav avled 1660, mitt under kriget.
+* Förmyndarregeringen slöt fred och lämnade tillbaka Bornholm och Trondheim. 
+
+##### **Karl XI**
+
+Blev kung år 1672 (myndig). Mot mitten av 1670-tal var Sverige åter i krig mot Danmark och Holland.
+
+* Holländska och danska flottorna vinner över Sverige i ett slag vid Öland och blir därmed härskare över Östersjön.
+* Slaget vid Lund år 1676, Danskar besegras.
+* Danmark misslyckas att ta tillbaka förlorade provinser.
+
+**Räfsten** - år 1680 sammanträder rikets ständer och inser att det finns lite pengar (dåligt ekonomiskt). För att åtgärda detta inför man en domstol som granskar förmyndarregeringens politik. Detta ledde till att de som satt i förmyndarregeringen fick betala skadestånd och böter, händelsen kallas för "räfsten".
+
+**Reduktionen** - sedan kom "reduktionen", som innebar att 80% av donationerna som skett till adeln under 1600-talet drogs tillbaka.
+
+Alltså: räfsten och reduktionen stärkte kronans finanser på adelns bekostnad.
+
+Karl XI ökade även sin makt, **enväldig** makt. Han befäste sin "suveränitet" och påstod att han "fått sin makt av gud". Han såg också till att han hade lagstiftningsmakten.
+
+##### **Karl XII**
+
+#### **Kyrkans makt**
