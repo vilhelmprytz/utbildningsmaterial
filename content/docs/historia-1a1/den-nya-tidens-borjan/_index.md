@@ -180,6 +180,30 @@ Alltså: räfsten och reduktionen stärkte kronans finanser på adelns bekostnad
 
 Karl XI ökade även sin makt, **enväldig** makt. Han befäste sin "suveränitet" och påstod att han "fått sin makt av gud". Han såg också till att han hade lagstiftningsmakten.
 
+Kyrkan var ett viktigt propagandaverktyg för kungen på denna tid. Kyrkan hade fortfarande makt, till exempel användes bibeln som lagbok. Karl XI stärkte därför sin makt över kyrkan genom olika lagar.
+
+I de förut danska delarna av Sverige pågick en försvenskningsprocess. Alla skulle läsa svenska psalmer och bibeln på svenska. Under kriget mot Danmark på 1670-talet passade banditer och dansknationalister på att göra uppror, som slogs ner (alla upprorsmän betraktades som förrädare och avrättades).
+
 ##### **Karl XII**
 
-#### **Kyrkans makt**
+* åter igen en förmyndarregering som styde då Karl XII endast var 15 när hans far dog.
+* bara ett halvår senare blev han fullmyndig och enväldig kung. Ingen kungaed, då han nu löd direkt under gud (något hans fader hade bestämt när han var kung, enväldig).
+* Danmark, Polen och Ryssland bildade anföllsförbund och anföll år 1700 ("det nordiska kriget").
+* Karl XII förde en arme till Danmark och tvingade fred.
+* Sedan till Ryssland där han besegrade en dubbelt så stor armé.
+* 1701 krig mot Polen, långvarigt. Fem år senare slöts fred, försvagad armé.
+* Sverige förlorade ett slag vid Ukraina - slut med den karolinska armén.
+* Ryssland återerövrade baltiska områden och delar av Finnland.
+* Danskarna landsteg i Skåne men förlorade.
+* Sverige tappade områden i norra Tyskland.
+* Väl hemma (15 år borta i krig) organiserade han ett nytt krig mot Danmark-Norge.
+* 30 november 1718 dödades han i anfallet mot Norge.
+
+Omedelbart efter kungens död avbröts Norge-anfallet. Freden slöts i efterhand med diverse fiender. Danmark fick tullrätt i Öresund igen, Ryssland fick de baltiska områdena. Det svenska stormaktsväldet var krossat.
+
+### **Tiden efter den svenska stormaktstiden**
+
+* **Adeln** - utgjorde endast en halv procent av befolkningen men hade ändå stor politisk och ekonomisk makt
+* **Prästerna** - genom reformationen fick prästerna gifta sig och bilda familj. Präster blev ett intellektuellt och socialt centrum i bygden. Präster levde som jordbrukare. Präster stod för officiell nyhetsförmedling och att läsa upp kungens skrivelser. Hade man ingen att fråga gick man till prästgården.
+* **Städernas invånare** - fler städer i Sverige på 1600-talet. Kvinnor fick fler möjligheter till jobb men saknade fortfarande någon politiskt makt (som t.ex. att utse riksdagsman).
+* **Landsbygdens befolkning** - stor skillnad mellan högadel och landsbygdens befolkning. Många män hade dött i krigen så det var därför fler kvinnor som styrde och skötte i landsbygden.
