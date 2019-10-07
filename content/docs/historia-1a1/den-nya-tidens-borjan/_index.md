@@ -12,6 +12,7 @@ Sida 131 - 192 i boken.
 * **Inkafolket**: den andra av två, indiankultur, fanns när Europeérna upptäckte Amerika. 
 * **Merkantilismen**: ledande ekonomiska läran på 1500-talet. Bygger på att den ekonomiska politiken skulle stärka och berika staten på andra staters bekostnad. Ett utslag av ekonomisk nationalism.
 * **Boktryckarkonsten**: Johann Gutenberg uppfann konsten att trycka böcker i mitten av 1400-talet ("Sättare" satte spegelvända bokstäver på en platta). Ledde till kraftigt ökad tryckning av böcker, idéer kunde spridas till fler.
+* **Empiri**: erfarenhet, t.ex. datainsamling vid vetenskapliga experiment (vetenskapliga revolutionen).
 * **Copernicus och Vesalius**: två författare på 1500-talet som kom att bidra till att starta den [vetenskapliga revolutionen](#den-vetenskapliga-revolutionen).
 * **Tycho Brahe**: Dansk som år 1572 upptäckte att himlasfären inte var oföränderlig. Skapad en kompromiss mellan den geocentriska och heliocentriska världsbilden.
 * **Johannes Kepler**: assistent som tog över efter Tycho Brahes död. Bevisade att den heliocentriska världsbilden stämde samt att planeterna krestade i ellipsformade banor.
@@ -84,10 +85,14 @@ Renässansen är den tidsperiod som pågick mellan 1300- och 1500-talet. Renäss
 * **Michelangelo**, "David"
 
 ### **Reformationen**
-Reformationen började år 1517 då Martin Luther spikade upp ett plakat med 95 punkter som kritiserade den katolska kyrkan.
+Reformationen började år 1517 då Martin Luther spikade upp ett plakat med 95 punkter som kritiserade den katolska kyrkan. Till exempel så tyckte Luther att endast bibeln var vägen till frälsning, kyrkan skulle inte hitta på egna regler (s.k. dogmer). Dessutom tyckte Luther att bibeln bör kunna läsas av alla (bibeln översattes till tyska). 
+
+Innan reformationen var den framförallt påven i Rom som kontrollerade kyrkostaten. Kungarna utmanade den katolska kyrkan som en världslig makt på 1400-talet. Detta bidrog till att utrymme för att ifrågasätta fanns. Bidrog även till andlig kris, folk inom kyrkan tyckte att man gått vilse.
+
+I och med att Luthers lära innebar att t.ex. furstar skulle få mer makt där kyrkan tidigare haft stor kontroll var det många furstar i Tyskland som hjälpte Luther.
 
 ### **Starkare stater och enväldiga kungar**
-I Europa.
+Över hela Europa blir staterna starkare, kungarna får mer makt (blir mer enväldiga). Detta framförallt för att makten som tidigare låg hos kyrkan flyttades mer över till kungen/kronan tack vare reformationen och den lutherska läran. Makten blir centraliserad. Detta skedde på 1500- 1600-talet.
 
 ### **Den svenska nationalstatens födelse**
 Gustav Vasa tog makten i Sverige år 1523 (blev kung 6 juni) och det stod därmed klart att han segrat över den danske unionskungen.
@@ -102,8 +107,10 @@ Dackefejden är ett känt fall där småländska bönder reste sig mot kungen un
 
 #### **Vasasönerna**
 * Erik XIV - blev kung 1560 efter Vasas död, började med att förminska makten hos sina halvbröder.
-* Johan III -
-* Karl IX - far till Gustav II Adolf
+* Johan III - tar makten av Erik, slänger honom i fängelse
+	* Sigismund - sonson
+* Karl IX - tar makten från Sigismund (som hade Johan III som pappa och en från polen som mamma)
+	* Gustav II Adolf - sonson och efter honom kommer drottning Kristina
 
 ### **Det trettioåriga kriget**
 Det trettioåriga kriget bröt ut i Tyskland år 1618 då en skara protestanter kastade ut två kejserliga ståthållare genom ett fönster i slottet i Prag.
