@@ -197,7 +197,7 @@ I de förut danska delarna av Sverige pågick en försvenskningsprocess. Alla sk
 * bara ett halvår senare blev han fullmyndig och enväldig kung. Ingen kungaed, då han nu löd direkt under gud (något hans fader hade bestämt när han var kung, enväldig).
 * Danmark, Polen och Ryssland bildade anföllsförbund och anföll år 1700 ("det nordiska kriget").
 * Karl XII förde en arme till Danmark och tvingade fred.
-* Sedan till Ryssland där han besegrade en dubbelt så stor armé.
+* Sedan till Ryssland där han besegrades av en dubbelt så stor armé (?, oklart. Vilket fall som helst försvagades den svenska armén, hård vinter under kriget som försvårade).
 * 1701 krig mot Polen, långvarigt. Fem år senare slöts fred, försvagad armé.
 * Sverige förlorade ett slag vid Ukraina - slut med den karolinska armén.
 * Ryssland återerövrade baltiska områden och delar av Finnland.
