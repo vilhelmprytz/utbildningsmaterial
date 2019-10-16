@@ -21,6 +21,16 @@ E_p = m * g * h
 
 {{< columns >}}
 {{< katex >}}
+E_k = \frac{mv^2}{2}
+{{< /katex >}}
+<--->
+{{< katex >}}
+\text{kinetisk energi, rörelseenergi}
+{{< /katex >}}
+{{< /columns >}}
+
+{{< columns >}}
+{{< katex >}}
 W = F_s * s
 {{< /katex >}}
 <--->
