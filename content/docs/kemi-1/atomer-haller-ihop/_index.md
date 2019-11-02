@@ -10,4 +10,11 @@ weight: 2
 
 ## Begreppslista
 
+* **Jonförening**: i en jonförening (salt) hålls jonerna ihop med hjälp av jonbindning (s).
+* **Molekylförening**: I ett fast ämne (”molekylförening”) hålls molekylerna ihop med hjälp av relativt svaga ”bindningskrafter” = intermolekylära bindningar
+* **Intermolekylära bindningar**: 
+    * **Van der Waahls bindningar**
+    * **Dipol-dipol bindningar**
+    * **Vätebindningar**
+
 Kommer snart.
