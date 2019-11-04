@@ -1,5 +1,7 @@
 # Vilhelm Prytz - Utbildningsmaterial
 
+[![Build Status](https://travis-ci.org/VilhelmPrytz/utbildningsmaterial.svg?branch=master)](https://travis-ci.org/VilhelmPrytz/utbildningsmaterial) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE) 
+
 Innehåller dokument med diverse begreppslistor och andra utbildningsmaterial. Uppdelat i varje gymnasiekurs och arbetsområde (några enstaka grundskolematerial finns även).
 
 ## Introduktion
@@ -19,6 +21,12 @@ brew install hugo
 ```
 
 När du har installerat Hugo kan du sedan köra sidan lokalt på din dator med hjälp av `hugo serve` (sidan går då att nå på [http://localhost:1313](http://localhost:1313)) eller bara `hugo` för att bygga HTML-filer till `public` mappen. Endast administratörer med åtkomst kan bygga projektet och skicka det till den officiella webbservern.
+
+Om du precis har klonat git-projektet kommer inte temat (som är lagrat som submodul) att finnas på din dator. Detta kommer leda till att `hugo` returnerar felmeddelanden. Du kan hämta alla submoduler med hjälp av git.
+
+```
+git submodule update --init
+```
 
 ## Bidrag
 
