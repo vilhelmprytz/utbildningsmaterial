@@ -10,15 +10,15 @@ Använder sig av dokumentmotorn [Hugo](https://gohugo.io) och temat [hugo-book](
 
 ## Bygga projektet från källkoden
 
-För att bygga projektet via källkoden krävs att du har Hugo installerat på din dator. Hugo kan installeras via [Homebrew](https://brew.sh/index_sv) på macOS eller [Linuxbrew](https://docs.brew.sh/Homebrew-on-Linux) på Linux.
+För att bygga projektet via källkoden krävs att du har Hugo installerat på din dator. Hugo kan installeras via [Homebrew](https://brew.sh/index_sv) på macOS, [Linuxbrew](https://docs.brew.sh/Homebrew-on-Linux) på Linux (Linuxbrew fungerar även på Windows i WSL, [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)) eller så går det att [ladda ner projektet](https://github.com/gohugoio/hugo/releases) som Windows Executable för Windows (lite krångligare installation).
 
-Sedan installerar du Hugo via brew.
+Via `brew` installerar du Hugo enkelt.
 
 ```bash
 brew install hugo
 ```
 
-Du kan sedan köra sidan lokalt på din dator med hjälp av `hugo serve` eller bara `hugo` för att bygga HTML-filer till `public` mappen. Endast administratörer med åtkomst kan bygga projektet och skicka det till den officiella webbservern.
+När du har installerat Hugo kan du sedan köra sidan lokalt på din dator med hjälp av `hugo serve` (sidan går då att nå på [http://localhost:1313](http://localhost:1313)) eller bara `hugo` för att bygga HTML-filer till `public` mappen. Endast administratörer med åtkomst kan bygga projektet och skicka det till den officiella webbservern.
 
 ## Bidrag
 
