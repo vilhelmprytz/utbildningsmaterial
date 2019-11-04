@@ -1,10 +1,12 @@
 # Vilhelm Prytz - Utbildningsmaterial
 
+Innehåller dokument med diverse begreppslistor och andra utbildningsmaterial. Uppdelat i varje gymnasiekurs och arbetsområde (några enstaka grundskolematerial finns även).
+
 ## Introduktion
 
 Källkod till sidan [utb.vilhelmprytz.se](https://utb.vilhelmprytz.se).
 
-Använder sig av motorn [Hugo](https://gohugo.io) och temat [hugo-book](https://github.com/alex-shpak/hugo-book) (finns som submodul i detta Github-projekt).
+Använder sig av dokumentmotorn [Hugo](https://gohugo.io) och temat [hugo-book](https://github.com/alex-shpak/hugo-book) (finns som submodul i detta Github-projekt).
 
 ## Bygga projektet från källkoden
 
@@ -17,3 +19,7 @@ brew install hugo
 ```
 
 Du kan sedan köra sidan lokalt på din dator med hjälp av `hugo serve` eller bara `hugo` för att bygga HTML-filer till `public` mappen. Endast administratörer med åtkomst kan bygga projektet och skicka det till den officiella webbservern.
+
+## Bidrag
+
+Med hjälp av GitHub går det att skapa en s.k. `fork` av projektet. Där kan du göra ändringar (`commits`) och sedan skicka dessa som en `pull request`. Glöm inte att tydligt beskriva dina ändringar.
