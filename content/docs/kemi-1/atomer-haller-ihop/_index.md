@@ -14,12 +14,19 @@ weight: 2
 * **Atomjon**
 * **Jonbindning**
 * **Molekyler**
-* **Kovalenta bindningar**
+* **Elektronpar**
 * **Strukturformel**
 * **Summaformel**
 * **Elektronegativitet**
+* **Dipol**
+* **Ytspänning**
+* **Elektronmoln**
+* **Legering**
 * **Jonförening**: i en jonförening (salt) hålls jonerna ihop med hjälp av jonbindning (s).
 * **Molekylförening**: I ett fast ämne (”molekylförening”) hålls molekylerna ihop med hjälp av relativt svaga ”bindningskrafter” = intermolekylära bindningar
+* **Polär kovalent bindning**
+* **Kovalenta bindningar**
+* **Metallbildning**
 * **Intermolekylära bindningar**: 
     * **Van der Waahls bindningar**
     * **Dipol-dipol bindningar**
