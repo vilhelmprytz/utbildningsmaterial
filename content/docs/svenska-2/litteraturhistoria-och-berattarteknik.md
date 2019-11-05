@@ -10,9 +10,13 @@ title: Litteraturhistoria och berättarteknik
 ### **Begreppslista**
 * **Epik, lyrik och dramatik**: litteraturgenrerna från antiken. Epik är berättande litteratur, lyrik är en enskild människas beskrivning av något och dramatik är avsett att framföras av skådespelare snarare än att återberättas ordagrant.
 * **Epos**: en lång berättande text som är skriven på vers, alltså efter ett visst mönster (rytm)
-* **Odysseén**: en epos skriven av Homeros under antiken, baserad på berättelser om grekisk mytologi (gudar och religion).
+* **Odysseén**: en epos skriven av Homeros under antiken, baserad på berättelser om grekisk mytologi (gudar och religion)
 * **Sapfo**: antikens främsta lyriker
-* **Feodalism**: när en godsherre (en som äger jordegendomar) gav bort jord till dem som med häst och rustning försvarade hans ägor
+* **Feodalism**: när en godsherre (en som äger jordegendomar) ger bort jord till dem som med häst och rustning försvarade hans ägor
+* **Legend**: bygger på händelser inom kristendomen (medeltiden)
+* **Myter**: skiljer sig från legend, kan vara vad som helst, oftast påhittat
+* **Landskapslagarna**: lagar som var utformade för varje landskap (Norden). Ofta var de utformade konkret och med en rytm för att man skulle kunna komma ihåg dem enkelt. En form av litteratur.
+* **Isländska sagorna**: till skillnad från andra sagor var de isländska sagorna i grund och botten baserade på riktiga personer som faktiskt levt. Sedan kanske vissa av historierna var påhittade, men de var fortfarande inte som vanliga sagor som är helt påhittade.
 
 ### **Områden**
 
@@ -43,6 +47,18 @@ Teatern viktig.
 #### **Medeltiden**
 
 Under medeltiden var det kristendomen som tog över som en kulturell maktfaktor och man såg med misstro på de hedniska författarna från Grekland och Rom. Krig härjade ständigt i västeuropa, övergick till byteshandel och förvandlades till bondeland. Feodalism blev vanligt.
+
+##### **Teatern under medeltiden**
+
+Teatern blev en viktig del av gudstjänsten. I och med kristendomens makt dog den hedniska teatern ut. Istället använde sig kyrkan av teatern för att lära ut kristendomen, det var pedagogiskt och bidrog till att vanligt folk skulle förstå de annars latinska berättelserna (vanligt folk talade inte latin).
+
+##### **Medeltidens världsbild**
+
+Medeltidens världsbild var dualistisk. Människans själv drog henne mot gud och hennes krop dorg henne till djuren. Alltså skulle kroppen straffas (munkar och nunor kroppslig självtortyr).
+
+##### **Feodalismen konsekvenser**
+
+Feodalismen gav upphov till maktpyramiden som i sin tur ledde till ståndssystemet. I och med detta skapades även olika kulturella och litterära världar. Den kristna (språk och latin), den höviska (inom adeln, pojkar fostrades till krigare och flickor till att vara hemma och ta hand om barn) och den folkliga litteraturen (främst muntlig, man sjöng eller berättade historier).
 
 ## **Berättarteknik**
 
