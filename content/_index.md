@@ -9,6 +9,14 @@ Välkommen till min utbildningssida! Här lägger jag ut diverse anteckningar oc
 
 Dessutom finns det lite äldre presentationer från diverse grundskoleämnen.
 
+## Bidrag
+
+Källkoden till detta projekt finns på [GitHub](https://github.com/VilhelmPrytz/utbildningsmaterial).
+
+På varje sida finns det en knapp, `Edit this page` som leder till källkoden för just den sidan. Om du hittar något stavfel går det att med hjälp av GitHub att skicka en s.k. `pull request` med förslag till förändringar (stavfel, faktafel o.s.v.).
+
+Om du inte vet hur du skapar en `pull request` går det bra att öppna en `issue` i GitHub [här](https://github.com/VilhelmPrytz/utbildningsmaterial/issues).
+
 ## Kontakt
 
-Om du hittar något som är inkorrekt (faktafel, stavfel osv.), skicka ett mejl till [vilhelm@prytznet.se](mailto:vilhelm@prytznet.se).
+Skicka ett mail till [vilhelm@prytznet.se](mailto:vilhelm@prytznet.se).
