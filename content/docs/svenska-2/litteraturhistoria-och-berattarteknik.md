@@ -9,14 +9,14 @@ title: Litteraturhistoria och berättarteknik
 
 ### **Begreppslista**
 * **Epik, lyrik och dramatik**: litteraturgenrerna från antiken. Epik är berättande litteratur, lyrik är en enskild människas beskrivning av något och dramatik är avsett att framföras av skådespelare snarare än att återberättas ordagrant.
-* **Epos**: en lång berättande text som är skriven på vers, alltså efter ett visst mönster (rytm). En epos är en subgenre till epiken. 
+* **Epos**: en lång berättande text som är skriven på vers, alltså efter ett visst mönster (rytm). En epos är en subgenre till epiken 
 * **Odysseén**: en epos skriven av Homeros under antiken, baserad på berättelser om grekisk mytologi (gudar och religion)
 * **Sapfo**: antikens främsta lyriker
-* **Feodalism**: när en godsherre (en som äger jordegendomar) ger bort jord till dem som med häst och rustning försvarade hans ägor.
+* **Feodalism**: när en godsherre (en som äger jordegendomar) ger bort jord till dem som med häst och rustning försvarade hans ägor
 * **Legend**: bygger på händelser inom kristendomen (medeltiden)
 * **Myter**: skiljer sig från legend, kan vara vad som helst, oftast påhittat. 
 * **Landskapslagarna**: lagar som var utformade för varje landskap (Norden). Ofta var de utformade konkret och med en rytm för att man skulle kunna komma ihåg dem enkelt. En form av litteratur.
-* **Isländska sagorna**: till skillnad från andra sagor var de isländska sagorna i grund och botten baserade på riktiga personer som faktiskt levt. Sedan kanske vissa av historierna var påhittade, men de var fortfarande inte som vanliga sagor som är helt påhittade.(grundade sig i riktiga historier och utspelades med människor som har levt och/eller platser som har funnits.)
+* **Isländska sagorna**: till skillnad från andra sagor var de isländska sagorna i grund och botten baserade på riktiga personer som faktiskt levt. Sedan kanske vissa av historierna var påhittade, men de var fortfarande inte som vanliga sagor som är helt påhittade (grundade sig i riktiga historier och utspelades med människor som har levt och/eller platser som har funnits)
 * **Isbergsteknik**: en avskalad text som är kortfattad, majoriteten av texten utspelar sig mellan raderna ("fluga på väggen"-berättarperspektiv, används t.ex. i isländska sagor)
 
 ### **Områden**
