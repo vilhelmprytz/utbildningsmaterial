@@ -17,6 +17,7 @@ title: Litteraturhistoria och berättarteknik
 * **Myter**: skiljer sig från legend, kan vara vad som helst, oftast påhittat
 * **Landskapslagarna**: lagar som var utformade för varje landskap (Norden). Ofta var de utformade konkret och med en rytm för att man skulle kunna komma ihåg dem enkelt. En form av litteratur.
 * **Isländska sagorna**: till skillnad från andra sagor var de isländska sagorna i grund och botten baserade på riktiga personer som faktiskt levt. Sedan kanske vissa av historierna var påhittade, men de var fortfarande inte som vanliga sagor som är helt påhittade.
+* **Isbergsteknik**: en avskalad text som är kortfattad, majoriteten av texten utspelar sig mellan raderna ("fluga på väggen"-berättarperspektiv, används t.ex. i isländska sagor)
 
 ### **Områden**
 
@@ -72,6 +73,54 @@ Feodalismen gav upphov till maktpyramiden som i sin tur ledde till ståndssystem
 
 ### **Berättarperspektiv**
 
+En berättarröst är den röst som framträder när du läser en roman, novell etc. Den som på något sätt berättar historien för dig som läsare. Berättarrösten kan vara mer eller mindre synlig och benämns ofta som "berättaren".
+
+Författaren är inte berättaren!
+
 #### **Jag-berättaren**
 
+Jag-berättaren deltar själv i handlingen och är synlig för läsaren.
+
+* kan endast se ur personens perspektiv
+* kan inte gå in i andra perspektiv
+* "lita inte på jag-berättaren"
+* får inte hela sanningen
+* tänka hur berättelsen sett ut om någon annan av karaktärerna berättat
+* Fördelar/nackdelar med Jag-berättare?
+    * Fördel: veta vad huvudpersonen tänker, identifikation underlättas
+    * Nackdel: endast ett perspektiv, begränsade, endast en version
+
+##### **Exempel på Jag-berättare**
+
+* **Sapfo (ca 630 f.Kr. - okänt)**
+* **Homeros "Odyssén (700 f.Kr)**
+* **Marit Bergman, 2004**
+* Hur kan du se att dessa är Jag-berättare?
+
 #### **Allvetande berättare**
+
+Den allvetande berättaren vet allt, ser allt och hör allt. Den vet vad alla karaktärer tänker, känner, gör och säger. Den kan växla mellan att berätta om huvudkaraktären och andra karaktärer. Den vet allt om tid, miljö, plats, framåt och bakåt i tiden. Den vet allt om konsekvenserna.
+
+* Oftast en osynlig berättare för läsaren.
+* Analysera en allvetande berättare
+    * **Utvändig**
+        * Läsaren ser karaktärerna objektiv utifrån (större distans).
+        * Läsaren får ingen djupare förståelse för karaktärens känslor.
+    * **Invändig**
+        * Via den allvetande berättaren får du som läsare uppleva och känna saker som karaktären känner.
+
+##### **Exempel på Allvetande berättare**
+
+* **Cervantes, "Don Quijote" (1547-1616) - utvändig**
+* **Thydell, 2004 - invändig**
+* Hur kan du se att dessa är allvetande berättare (och om de är utvändig eller invändig)?
+
+#### **"Flugan på väggen" berättare**
+
+Läsaren får lära känna karaktärerna som om en "fluga på väggen" hade återberättat vad den såg. Återberättar främst karaktärens handlingar. Berättaren vet inget om deras känslor och tanker. Väldigt avskalat, läsaren måste själv fylla i det som saknas och bilda sig en uppfattning om karaktärerna via deras handlingar.
+
+Detta sätt att berätta kallas för **isbergsteknik**. Isbergstekniken uvecklades från de isländska sagorna och användes i modern tid av bl.a. Hemingway.
+
+##### **Exempel på "Flugan på väggen" berättare**
+
+* **"Njals saga" (ca 1200), en isländsk saga**
