@@ -49,7 +49,7 @@ E_m = E_p + E_k
 <!--- ARBETE --->
 {{< columns >}}
 {{< katex >}}
-W = F_s * s
+W = F_s * \Delta s
 {{< /katex >}}
 <--->
 {{< katex >}}
