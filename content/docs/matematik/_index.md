@@ -19,13 +19,26 @@ Saknas innehåll.
 
 ## Matematik 3c
 
-Saknas innehåll.
+[Formelblad Matematik 3c](http://www5.edusci.umu.se/np/np-2-4-prov/Formelblad_matematik_3.pdf).
 
 ### Derivatans definition
 
 {{< katex >}}
 f'(x) = \lim_{h \to 0} \frac{f(x+h)-f(x)}{h}
 {{< /katex >}}
+
+### Derivator
+
+
+| Funktion                                                                 | Derivata                                   |
+| :----------------------------------------------------------------------: | :----------------------------------------: |
+| {{< katex >}}x^n \text{där } n \text{ är ett reelt heltal}{{< /katex >}} | {{< katex >}}nx^{n-1}{{< /katex >}}        |
+| {{< katex >}}a^x \text{(} a > 0 \text{)}{{< /katex >}}                   | {{< katex >}}a^x \ln a{{< /katex >}}       |
+| {{< katex >}}e^x{{< /katex >}}                                           | {{< katex >}}e^x{{< /katex >}}             |
+| {{< katex >}}e^{kx}{{< /katex >}}                                        | {{< katex >}}k * e^{kx} {{< /katex >}}     |
+| {{< katex >}}\frac{1}{x}{{< /katex >}}                                   | {{< katex >}}- \frac{1}{x^2}{{< /katex >}} |
+| {{< katex >}}k * f(x){{< /katex >}}                                      | {{< katex >}}k * f'(x){{< /katex >}}       |
+| {{< katex >}}f(x) + g(x){{< /katex >}}                                   | {{< katex >}}f'(x) + g'(x){{< /katex >}}   |
 
 ## Matematik 4
 
