@@ -12,7 +12,7 @@ title: Litteraturhistoria och berättarteknik
 * **Epos**: en lång berättande text som är skriven på vers, alltså efter ett visst mönster (rytm). En epos är en subgenre till epiken. 
 * **Odysseén**: en epos skriven av Homeros under antiken, baserad på berättelser om grekisk mytologi (gudar och religion).
 * **Sapfo**: antikens främsta lyriker.
-* **Feodalism**: när en godsherre (en som äger jordegendomar) ger bort jord till dem som med häst och rustning försvarade hans ägor.
+* **Feodalism**: när en godsherre (en som äger jordegendomar) ger bort jord till dem som med häst och rustning försvarar hans ägor.
 * **Legend**: bygger på händelser inom kristendomen (medeltiden).
 * **Myter**: skiljer sig från legend, kan vara vad som helst, oftast påhittat.
 * **Landskapslagarna**: lagar som var utformade för varje landskap (Norden). Ofta var de utformade konkret och med en rytm för att man skulle kunna komma ihåg dem enkelt. En form av litteratur.
