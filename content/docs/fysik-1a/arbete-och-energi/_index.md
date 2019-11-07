@@ -49,11 +49,11 @@ E_m = E_p + E_k
 <!--- ARBETE --->
 {{< columns >}}
 {{< katex >}}
-W = F_s * \Delta s
+W = F_s * \Delta s = \Delta E
 {{< /katex >}}
 <--->
 {{< katex >}}
-\text{arbete} \begin{bmatrix}
+\text{arbete, är samma som energiförändring} \begin{bmatrix}
     1 Nm = 1 J
 \end{bmatrix}
 {{< /katex >}}
