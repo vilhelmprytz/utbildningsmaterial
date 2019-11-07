@@ -1,5 +1,6 @@
 ---
 title: Upplysningstiden
+weight: 1
 ---
 
 # Upplysningstiden

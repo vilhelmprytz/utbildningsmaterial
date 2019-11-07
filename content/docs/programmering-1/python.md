@@ -1,3 +1,7 @@
+---
+weight: 0
+---
+
 # Python
 
 Utbildningsmaterial för programmeringsspråket Python.
