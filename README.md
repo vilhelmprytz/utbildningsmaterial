@@ -12,7 +12,7 @@ Använder sig av dokumentmotorn [Hugo](https://gohugo.io) och temat [hugo-book](
 
 ## Bygga projektet från källkoden
 
-För att bygga projektet via källkoden krävs att du har Hugo installerat på din dator. Hugo kan installeras via [Homebrew](https://brew.sh/index_sv) på macOS, [Linuxbrew](https://docs.brew.sh/Homebrew-on-Linux) på Linux (Linuxbrew fungerar även på Windows i WSL, [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)) eller så går det att [ladda ner projektet](https://github.com/gohugoio/hugo/releases) som Windows Executable för Windows (lite krångligare installation).
+För att bygga projektet via källkoden krävs att du har Hugo installerat på din dator. Hugo kan installeras via [Homebrew](https://brew.sh/index_sv) på macOS, [Linuxbrew](https://docs.brew.sh/Homebrew-on-Linux) på Linux (Linuxbrew fungerar även på Windows i WSL, [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)) eller så går det att [ladda ner projektet](https://github.com/gohugoio/hugo/releases) som Windows Executable för Windows (lite krångligare installation). Om du laddar ner motorn via Hugos GitHub, se till att använda `extended` varianten (krävs för att bygga temat korrekt).
 
 Via `brew` installerar du Hugo enkelt.
 
