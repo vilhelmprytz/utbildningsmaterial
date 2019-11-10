@@ -77,7 +77,7 @@ Feodalismen gav upphov till maktpyramiden som i sin tur ledde till ståndssystem
 
 En berättarröst är den röst som framträder när du läser en roman, novell etc. Den som på något sätt berättar historien för dig som läsare. Berättarrösten kan vara mer eller mindre synlig och benämns ofta som "berättaren".
 
-Författaren är **inte* detsamma som berättaren!
+Författaren är **inte** detsamma som berättaren!
 
 #### **Jag-berättaren**
 
