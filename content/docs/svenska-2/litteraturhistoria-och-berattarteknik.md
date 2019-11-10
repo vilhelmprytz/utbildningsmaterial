@@ -23,7 +23,7 @@ title: Litteraturhistoria och berättarteknik
 
 ### **Områden**
 
-#### **Antiken**
+#### **Antiken (700 f.Kr - 476 e.Kr)**
 
 ##### **Antikens epik**
 
@@ -47,7 +47,7 @@ Alltså har Odysseén en stark koppling till grekisk mytologi och religion.
 
 Teatern var en viktig del av antikens dramatik. Dramatiken var ofta kopplad till religion, olika berättelser om grekiska gudar. Pjäserna byggde helt enkelt på kända berättelser, berättelser som folk visste. Teatern utspelades på en cirkelformad plats där publiken satt i sluttningen ner mot spelplatsen. Detta bidrog till akustiken.
 
-#### **Medeltiden**
+#### **Medeltiden (år 476 - 1492)**
 
 Under medeltiden var det kristendomen som tog över som en kulturell maktfaktor och man såg med misstro på de hedniska författarna från Grekland och Rom. Krig härjade ständigt i västeuropa, övergick till byteshandel och förvandlades till bondeland. Feodalism blev vanligt.
 
