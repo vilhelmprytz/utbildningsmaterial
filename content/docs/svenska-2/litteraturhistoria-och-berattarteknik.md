@@ -12,6 +12,7 @@ title: Litteraturhistoria och berättarteknik
 * **Epos**: en lång berättande text som är skriven på vers, alltså efter ett visst mönster (rytm). En epos är en subgenre till epiken. 
 * **Tragedi**: en tragedi är en allvarlig och ibland brutal form av teater. En tragedi slutar aldrig lyckligt.
 * **Hybris, kattharsis, nemesis**: under antiken. Om man trotsade gudarna visade man hybris (övermod, tro för mycket om sin egen förmåga) vilket ledde till fruktansvärda straff. Katharsis är ett grekiskt ord som betyder rening. Nemesis är hämndens gudinna, hämnas människors oförrätter.
+* **Rapsoder**: en kringvandrande profesionell sångare/recitatör, berättelser och poesi (Homeros var en rapsod).
 * **Odysseén**: en epos skriven av Homeros under antiken, baserad på berättelser om grekisk mytologi (gudar och religion).
 * **Sapfo**: antikens främsta lyriker.
 * **Feodalism**: när en godsherre (en som äger jordegendomar) ger bort jord till dem som med häst och rustning försvarar hans ägor.
