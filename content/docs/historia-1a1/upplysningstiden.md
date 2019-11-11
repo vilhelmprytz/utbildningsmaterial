@@ -5,6 +5,8 @@ weight: 1
 
 # Upplysningstiden
 
+Sida 185-193, 239-253 och 214-236.
+
 ## Begreppslista
 * **Upplysningsideérna**
 * **Napoleon**
