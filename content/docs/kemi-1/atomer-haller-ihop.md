@@ -10,14 +10,14 @@ weight: 2
 
 ## Begreppslista
 
-* **Dipol**
-* **Elektronegativitet**
-* **Intermolekylära bindningar**
-* **Jonbindning**
-* **Kovalent bindning**
-* **Polär kovalent bindning**
-* **Metallbindning**
-* **Intramolekylära bindningar**
+* **Dipol**: polär kovalent bindning, ingående atomerna har olika elektronegativitet och attraherar bindningselektronerna olika starkt, när molekylen går att dela in i en positiv och en negativ ände är det en dipol (annars är den opolär kovalent bindning).
+* **Elektronegativitet**: ett mått på hur starkt atomerna i en molekyl attraherar elektronerna.
+* **Intermolekylära bindningar**: 
+* **Jonbindning**: kemiska bindningen mellan två joner, en positiv och en negativ
+* **Kovalent bindning**: kemiska bindningar som verkar mellan molekyler
+* **Polär kovalent bindning**:
+* **Metallbindning**: atomernas valenselektroner bildar ett gemensamt elektronmoln.
+* **Intramolekylära bindningar**: kemiska bindningar som verkar mellan atomerna i en och samma molekyl (kovalent, polär kovalent eller jonbindning).
 * **Dipol-dipol-bindning**
 * **Van der Waahlsbindning**
 * **Vätebindning**
