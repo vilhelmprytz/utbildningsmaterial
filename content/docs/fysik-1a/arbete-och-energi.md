@@ -134,3 +134,17 @@ I = F*t
 \end{bmatrix}
 {{< /katex >}}
 {{< /columns >}}
+
+<!--- TRYCK--->
+{{< columns >}}
+{{< katex >}}
+P = \frac{F}{A}
+{{< /katex >}}
+<--->
+{{< katex >}}
+\text{tryck} \begin{bmatrix}
+    1 \frac{N}{m^2} = 1 Pa
+\end{bmatrix}
+{{< /katex>}}
+{{< /columns >}}
+
