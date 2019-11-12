@@ -135,10 +135,10 @@ I = F*t
 {{< /katex >}}
 {{< /columns >}}
 
-<!--- TRYCK--->
+<!--- TRYCK --->
 {{< columns >}}
 {{< katex >}}
-P = \frac{F}{A}
+p = \frac{F}{A}
 {{< /katex >}}
 <--->
 {{< katex >}}
@@ -148,3 +148,15 @@ P = \frac{F}{A}
 {{< /katex>}}
 {{< /columns >}}
 
+<!--- VÄTSKETRYCK --->
+{{< columns >}}
+{{< katex >}}
+p = \rhogh
+{{< /katex >}}
+<--->
+{{< katex >}}
+\text{vätsketryck} \begin{bmatrix}
+    1 \frac{N}{m^2} = 1 Pa
+\end{bmatrix}
+{{< /katex>}}
+{{< /columns >}}
