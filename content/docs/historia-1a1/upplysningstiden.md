@@ -63,7 +63,21 @@ Började i England och spreds via Frankrike till stora delar av Europa under 170
 
 ### **Den amerikanska revolutionen**
 
+Efter sjuårskriget (på 1700-talet) var det i stort sett bara Storbritannien som hade kolonier i Amerika (efter att ha segrat mot Frankrike i kriget). Trots detta blev Amerika självständigt 1783, hur?
+
+Merkantilismen (se begreppslista) präglade Storbritanniens kolonier. Det fanns begränsningar vad kolonisterna fick göra (t.ex. inte använda masugn eller ta emot utländska fartyg) men i övrigt styrde de sig själva för det mesta. Storbritannien var fattigt efter att ha varit krig och möttes med protest när de försökte införa tullar på kolonierna. "No taxiation without representation", kolonisterna hade ingen ingen rösträtt i det brittiska parlamentet.
+
+#### **The Boston Tea Party**
+
+Britternas hårdnande politik ledde till opposition mot Storbritannien bland kolonisterna. En känd händelse är _Boston Tea Party_ år 1773 när ett hudnratal kolonister vräkte te överbord. Efter ett par år var krigt i full gång.
+
+#### **Självständighetsförklaringen**
+
+Mitt under kriet, år 1776, samlades representanter för 13 kolonier och förklarade sig självständiga. Menade att den engelske kungen begått en rad brott. Upplysningstankarna ligger till grund, t.ex. "att alla människor är skapade lika". Ärkefiender till Storbritannien (Frankrike och Spanien) hjälpte kolonisterna och 1783 tvingades Storbritannien erkändna de 13 kolonierna självständiga.
+
 #### **USA:s författning**
+
+År 1789 trädde USA:s grundlag i kraft. Baserad på Montesquieus idéer om maktdelning (styrande, lagstiftande, dömande). Beskrev också maktbalansen mellan delstaterna och den federala regeringen. George Washington blev samma år valid till förste president. Mänskliga rättigheter fastslogs, t.ex. religions- och yttrandefrihet samt rätten att bära vapen.
 
 ### **Franska revolutionen och Napoleontiden**
 
