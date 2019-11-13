@@ -16,6 +16,7 @@ Sida 185-193, 239-253 och 214-236.
 * **Deism**: gud skapade världen, men ingrep inte efter (därför bad man inte till gud). En typ av kristen tro.
 * **Ateism**: förneka guds existens
 * **Encyklopedin**: stort uppslagsverk, utilistisk, sprida vetenskapens nytta till människorna
+* **Merkantilism**: ekonomisk-politisk åskådning i Europa (1550 - 1750). Framhäver landets egna industri samt export.
 * **Upplysningsideérna**
 * **Napoleon**
 * **Skräckväldet**
