@@ -81,4 +81,37 @@ Mitt under kriet, år 1776, samlades representanter för 13 kolonier och förkla
 
 ### **Franska revolutionen och Napoleontiden**
 
+Den franske kungen, Ludvig XVI bjöd år 1789 in ledamöter från samtliga tre stånd till Versailles. Att parlamentet samlades berodde på att statens kassakista var tom.
+
+#### **Revolutionens orsaker**
+
+##### **Ekonomiska**
+
+* Långa krig (t.ex. att ha hjälpt amerikanerna mot Storbritannien) hade lett till dålig ekonomi.
+* Storbritannien konkurrerade ut flera franska företag vilket ledde till arbetslöshet.
+* På 1780-talet slog skördarna fel vilket ledde till höjda brödpriser (allvarligt då hälften av vanlig folks lön fick till bröd).
+
+##### **Politiska**
+
+* Nästan endast bönder som betalade skatt, irriterades av gamla rättigheter som godsherrar hade.
+* Nästan bara adelmän kunde få höge tjänster, svårt för den ofrälse att få makt i samhället.
+* Läkare, jurister, tidningsmän och lärare (borgare i tredje ståndet), folk som kände till upplysningens idéer, använde sig av dessa för att angripa de kungliga enväldet och kyrkans privilegier.
+
+#### **Revolutionens utbrott**
+
+Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje enskild medlem hade en röst. De övriga två stånden, med 300 medlemmar, krävde en röst per stånd.
+
+* Juni: tredje ståndet förklarade att de ensamt representerade nationen och därför hade rätt att bestämma om skatter. _Nationalförsamlingen_ kallade man sig och man svor en högtidlig ed att inte åtskiljas förens Frankrike fått en ny författning. Höll till i ett bollhus, kallas därför _Eden i Bollhuset_.
+* Adelsmän och präster anslöt sig efter en vecka, kungen fick finna sig i den nya ordningen.
+* Sommaren 1789: höga brödpriser, plundringar.
+* Kungen drog ihop till Paris, rykte om att kungen försökte krossa nationalförsamlingen spreds.
+* 14 juli 1789 - _Stormningen av Bastiljen_ (symvol gör gammalt och auktoritärt), i jakt på vapen.
+* Oron spred sig i Frankrike - Bönder anföll godsen, brände arkiven (skatte- och dagsverkslängderna). Skrämda adelsmän lämnade landet.
+* 4-5 augusti - några adelsmän sade upp sig sina titlar och privilegier.
+* "Alla lika inför lagen, beskattas lika och ha samma rätt till tjänster".
+* Adliga privilegier avskaffades men adeln skulle få ersättning.
+* Nationalförsamlingen slog fast deklaration om mänskliga rättigheter - födda lika, hade lika rättiheter, makt utifrån folket (idén kom från Nordamerika).
+* Alla titlar togs bort, det enda som fanns kvar var medborgare.
+* Kungen skrev under besluten i oktober.
+
 #### **Den andra revolutionen**
