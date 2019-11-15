@@ -5,6 +5,8 @@ weight: 2
 
 # Atomer håller ihop
 
+Kapitel 4 i kemiboken (se kursinfo).
+
 ## Länkar
 * [Namngivning på joner Quizlet](https://quizlet.com/437375297/namn-pa-jonbindningar-flash-cards/)
 
