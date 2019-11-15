@@ -113,5 +113,26 @@ Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje ens
 * Nationalförsamlingen slog fast deklaration om mänskliga rättigheter - födda lika, hade lika rättiheter, makt utifrån folket (idén kom från Nordamerika).
 * Alla titlar togs bort, det enda som fanns kvar var medborgare.
 * Kungen skrev under besluten i oktober.
+* 5 oktober - tusentals kvinnor (tvätterskor, bagerskor, pigor, torgförsäljeskor och andra) beväpnade sig med påkar lansar, högafflar, gevär och tågade iväg
+* Dagen därpå - några kvinnor lyckas ta sig in i slottet. De kunglgia flydde till Tuilerierna i Paris, Nationalförsamlingen flyttade också till Paris.
+* Två lugna år: Nationalförsamlingen försökte lösa den ekonomiska krisen genom att sälja kyrkans jord på auktioner.
+* Sommar 1791 - kung Ludvig XVI och Marie Antoinette försökte fly till Belgien för att krossa revolutionen med hjälp av den österrikiska armén
+* Blev upptäckta, togs tillbaka till slottet. Revolutionär stadsstyrelse, kommunen, tog över efter flyktförsöket och antog 1791 en ny författning som begränsade kungens makt (ministrar blev ansvariga inför parlamentet, mer rösträtt till folket).
+* Politiska "vänster och höger" kommer från franska revolutionen.
 
 #### **Den andra revolutionen**
+
+Tog fart igen 1792.
+
+* April - nationalförsamlingen förklarar krig mot Österrike, befann sig snart i krig mot nästan hela Europa.
+* Nationalförsamlingen förväntade sig att de franska soldaterna skulle hälsas som befriare, men på de flesta ställen var det inte så.
+* Det feodala samhällssystemet sopades undan där de franska arméerna drog fram, kyrkojorden togs i beslag och aristokratins (adelns) privilegier avskaffades.
+* Borgerskapts författning blev modlel i ett tiotal länder (alltså upplysningens idéer?).
+* Allmän värnplikt för att stärka revolutionens idéer (något år senare så hade armén 1 miljon man)
+* Oro - höjda matpriser, rädda för österrikarna och preussarna
+* Hösten 1792 - kommunen avskaffar kungadömet och inför republik
+* Januari 1793 - Kung Ludvig XVI halshöggs, hösten Mario Antoinette
+* Ny riksdag - allmän rösträtt för män
+* Riksdagen 1793 - "välfärdsutskottet", krossa motrevolutionen
+
+##### **Skräckväldet**
