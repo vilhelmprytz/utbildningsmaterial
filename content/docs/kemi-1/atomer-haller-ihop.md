@@ -20,26 +20,24 @@ Kapitel 4 i kemiboken (se kursinfo).
 * **Polär kovalent bindning**:
 * **Metallbindning**: atomernas valenselektroner bildar ett gemensamt elektronmoln.
 * **Intramolekylära bindningar**: kemiska bindningar som verkar mellan atomerna i en och samma molekyl (kovalent, polär kovalent eller jonbindning).
-* **Dipol-dipol-bindning**
-* **Van der Waahlsbindning**
-* **Vätebindning**
-* **Jon**
-* **Molekyl**
-* **Metall**
-* **Opolär**
-* **Polär**
-* **Salt**
-* **Atomjon**
-* **Elektronpar**
-* **Strukturformel**
-* **Summaformel**
-* **Ytspänning**
-* **Elektronmoln**
-* **Legering**
+* **Dipol-dipol-bindning**:
+* **Van der Waahlsbindning**:
+* **Vätebindning**:
+* **Jon**:
+* **Molekyl**:
+* **Metall**:
+* **Opolär**:
+* **Polär**:
+* **Salt**:
+* **Atomjon**:
+* **Elektronpar**:
+* **Strukturformel**:
+* **Summaformel**:
+* **Ytspänning**:
+* **Elektronmoln**:
+* **Legering**:
 * **Jonförening**: i en jonförening (salt) hålls jonerna ihop med hjälp av jonbindning (s).
-* **Molekylförening**: I ett fast ämne (”molekylförening”) hålls molekylerna ihop med hjälp av relativt svaga ”bindningskrafter” = intermolekylära bindningar
-
-Kommer snart.
+* **Molekylförening**: I ett fast ämne ("molekylförening") hålls molekylerna ihop med hjälp av relativt svaga ”bindningskrafter” = intermolekylära bindningar
 
 ## Översikt
 
