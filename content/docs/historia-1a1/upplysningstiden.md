@@ -128,11 +128,30 @@ Tog fart igen 1792.
 * Nationalförsamlingen förväntade sig att de franska soldaterna skulle hälsas som befriare, men på de flesta ställen var det inte så.
 * Det feodala samhällssystemet sopades undan där de franska arméerna drog fram, kyrkojorden togs i beslag och aristokratins (adelns) privilegier avskaffades.
 * Borgerskapts författning blev modlel i ett tiotal länder (alltså upplysningens idéer?).
-* Allmän värnplikt för att stärka revolutionens idéer (något år senare så hade armén 1 miljon man)
+
+
+##### **Skräckväldet**
+
+* Allmän värnplikt för att sprida revolutionens idéer (efter något år besto den franska armén av 1 miljon man).
 * Oro - höjda matpriser, rädda för österrikarna och preussarna
 * Hösten 1792 - kommunen avskaffar kungadömet och inför republik
 * Januari 1793 - Kung Ludvig XVI halshöggs, hösten Mario Antoinette
 * Ny riksdag - allmän rösträtt för män
 * Riksdagen 1793 - "välfärdsutskottet", krossa motrevolutionen
+* Robespierre - en ledare, påverkad av Rousseaus idéer om allmänviljan
+* Välfärdsutskottet beslöt sig för att inte kompensera de aristokrater (adeln) som skulle få ersättning.
+* Emigrerade adelsmän och prästers mark skänktes till jordlösa.
+* Maximipriser på bröd fastställdes.
+* Robespierre - en dyrkan av "ett högsta väsen".
+* Sansculotterna (utan knäbyxor) - stödde välfärdsutskottet
+* Misstänka för kontrarevolutionära åsikter ställdes inför specialinrättade domstolar (inga försvarare).
+* Ungefär 40 000 människor miste livet sommaren 1793 till sommaren 1794 (skräckväldet).
+* De flesta som avrättades var arbetare och bönder.
+* När Robespierre arresterades och avrättades var skräckväldets tid slut.
 
-##### **Skräckväldet**
+#### **Resultatet av den franska revolutionen**
+
+* Avskaffandet av feodala privilegier för adeln och kyrkan ledde till att sådana privilegier började ifrågasättas i andra länder.
+* Politisk debatt om hur samhället borde styras, franska författningen som efterliknades i flera länder gav medelklassen mer makt.
+* Mänskliga fri- och rättigheter, slavhandel över Atlanten och slaveriet ifrågasättas.
+* Kyrkans roll minskade i Frankrike och andra katolska länder (äktenskap civil angelägenhet och möjligheten att skilja sig). Ifrågasättning av religionens koppling till staten.
