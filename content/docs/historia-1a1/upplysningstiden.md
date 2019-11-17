@@ -16,7 +16,7 @@ Sida 185-193, 239-253 och 214-236.
 * **Deism**: gud skapade världen, men ingrep inte efter (därför bad man inte till gud). En typ av kristen tro.
 * **Ateism**: förneka guds existens.
 * **Encyklopedin**: stort uppslagsverk i Frankrike, utilistisk, sprida vetenskapens nytta till människorna.
-* **Merkantilism**: ekonomisk-politisk åskådning i Europa (1550 - 1750). Framhäver landets egna industri samt export.
+* **Merkantilism**: ekonomisk-politisk åskådning i Europa (1550 - 1750). Framhäver landets egna industri samt export. Denna ekonomiska idé dominerade i Europa från 1600 fram till 1800 talet.
 * **Feodala privilegier**: struktur i ett samhälle med utpräglad över- och underordning. Privilegier t.ex. adeln fick.
 * **Giljotin**: ett avrättningsverktyg. Användes under franska revolutionens skräckvälde.
 
