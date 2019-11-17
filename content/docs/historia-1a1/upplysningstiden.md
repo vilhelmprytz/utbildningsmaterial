@@ -76,7 +76,7 @@ Mitt under kriet, år 1776, samlades representanter för 13 kolonier och förkla
 
 #### **USA:s författning**
 
-År 1789 trädde USA:s grundlag i kraft. Baserad på Montesquieus idéer om maktdelning (styrande, lagstiftande, dömande). Beskrev också maktbalansen mellan delstaterna och den federala regeringen. George Washington blev samma år valid till förste president. Mänskliga rättigheter fastslogs, t.ex. religions- och yttrandefrihet samt rätten att bära vapen.
+År 1789 trädde USA:s grundlag i kraft. Baserad på Montesquieus idéer om maktdelning (styrande, lagstiftande, dömande). Beskrev också maktbalansen mellan delstaterna och den federala regeringen. George Washington blev samma år vald till förste president. Mänskliga rättigheter fastslogs, t.ex. religions- och yttrandefrihet samt rätten att bära vapen.
 
 ### **Franska revolutionen och Napoleontiden**
 
