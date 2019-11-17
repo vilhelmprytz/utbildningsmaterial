@@ -54,7 +54,7 @@ Den främsta profeten för natursvärmeri, satte naturen i motsats till kulturen
 ##### **Hur ska en stat styras?**
 
 * **Maktdelning**: Montesquieu fick inspiration från England och menade att makten skulle delas på tre statsorgan. Regenten med den _verkställande makten_, parlamentet med den _lagstiftande makten_ och självständiga domstolar med den _dömande makten_.
-* **Upplyst despoti**: Voltaire menade att en upplyst enväldig kung (fursten) skulle styra. Fusten skulle genomföra reformer till nytta förlandet. Ett parlament med begränsad motmakt skulle finnas, men inget folkstyre.
+* **Upplyst despoti**: Voltaire menade att en upplyst enväldig kung (fursten) skulle styra. Fursten skulle genomföra reformer till nytta förlandet. Ett parlament med begränsad motmakt skulle finnas, men inget folkstyre.
 * **Direktdemokrati**: Ett samhällskontrakt mellan fursten och folket. Makten alltid hos folket. Parlamentet, kungen och tjänstemännen skulle endast verkställa folkets vilja. Tillämpades i små stater, t.ex. Genéve.
 
 #### **Hur spreds upplysningsidéerna?**
