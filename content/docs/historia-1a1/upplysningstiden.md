@@ -9,17 +9,16 @@ Sida 185-193, 239-253 och 214-236.
 
 ## **Begreppslista**
 * **Empirism**: uppfattningen att grunden för allt vetande är erfarenhet.
-* **Utilismen**: upplysningsidéerna, nyttighetsdyrkan, ville göra vetenskapliga framsteg som gynnade många
-* **Tolerans**: upplysningsidéerna, religiös tolerans, rätten att fritt få ha religiösa och politiska åsikter
+* **Utilismen**: upplysningsidéerna, nyttighetsdyrkan, ville göra vetenskapliga framsteg som gynnade många.
+* **Tolerans**: upplysningsidéerna, religiös tolerans, rätten att fritt få ha religiösa och politiska åsikter.
 * **Voltaire**: fransk upplysningsfilosof.
-* **Rousseau**: schweizisk upplysningsfilosof, menade att den privata äganderätten hade skapat klasskillnader i samhället
+* **Rousseau**: schweizisk upplysningsfilosof, menade att den privata äganderätten hade skapat klasskillnader i samhället.
 * **Deism**: gud skapade världen, men ingrep inte efter (därför bad man inte till gud). En typ av kristen tro.
-* **Ateism**: förneka guds existens
-* **Encyklopedin**: stort uppslagsverk, utilistisk, sprida vetenskapens nytta till människorna
-* **Merkantilism**: ekonomisk-politisk åskådning i Europa (1550 - 1750). Framhäver landets egna industri samt export.
-* **Upplysningsideérna**
-* **Napoleon**
-* **Skräckväldet**
+* **Ateism**: förneka guds existens.
+* **Encyklopedin**: stort uppslagsverk i Frankrike, utilistisk, sprida vetenskapens nytta till människorna.
+* **Merkantilism**: ekonomisk-politisk åskådning i Europa (1550 - 1750). Framhäver landets egna industri samt export. Denna ekonomiska idé dominerade i Europa från 1600 fram till 1800 talet.
+* **Feodala privilegier**: struktur i ett samhälle med utpräglad över- och underordning. Privilegier t.ex. adeln fick.
+* **Giljotin**: ett avrättningsverktyg. Användes under franska revolutionens skräckvälde.
 
 ## **Tidsperioder**
 
@@ -37,7 +36,7 @@ Detta skapade en övertygan om att det inte fanns någon gräns för förnuft oc
 
 ##### **Naturrätt och tolerans**
 
-Antik filosofi och kristendom hade hävdat att människan har "natuliga rättigheter". Denna idé utvecklades av upplysningsfilosoferna till det som kallas för naturätt. Alla människor föds fira och lika, alla har rätt till liv, frihet och egendom. Slaveri, livsegenskap och tortyr krisiterades som förhörsmetod och straff.
+Antik filosofi och kristendom hade hävdat att människan har "natuliga rättigheter". Denna idé utvecklades av upplysningsfilosoferna till det som kallas för naturätt. Alla människor föds fria och lika, alla har rätt till liv, frihet och egendom. Slaveri, livsegenskap och tortyr krisiterades som förhörsmetod och straff.
 
 Upplysningens förespråkare engagerade sig i kampen för religiös tolerans, att fritt förkunna religiösa och politiska åsikter. Man såg kritiskt på kyrkan. Franske filosofen _Voltaire_ sa "krossa den skändliga!" om den katolska kyrkan.
 
@@ -54,7 +53,7 @@ Den främsta profeten för natursvärmeri, satte naturen i motsats till kulturen
 ##### **Hur ska en stat styras?**
 
 * **Maktdelning**: Montesquieu fick inspiration från England och menade att makten skulle delas på tre statsorgan. Regenten med den _verkställande makten_, parlamentet med den _lagstiftande makten_ och självständiga domstolar med den _dömande makten_.
-* **Upplyst despoti**: Voltaire menade att en upplyst enväldig kung (fursten) skulle styra. Fursten skulle genomföra reformer till nytta förlandet. Ett parlament med begränsad motmakt skulle finnas, men inget folkstyre.
+* **Upplyst despoti**: Voltaire menade att en upplyst enväldig kung (fursten) skulle styra. Fursten skulle genomföra reformer som var till nytta för landet. Ett parlament med begränsad motmakt skulle finnas, men inget folkstyre.
 * **Direktdemokrati**: Ett samhällskontrakt mellan fursten och folket. Makten alltid hos folket. Parlamentet, kungen och tjänstemännen skulle endast verkställa folkets vilja. Tillämpades i små stater, t.ex. Genéve.
 
 #### **Hur spreds upplysningsidéerna?**
@@ -69,11 +68,11 @@ Merkantilismen (se begreppslista) präglade Storbritanniens kolonier. Det fanns 
 
 #### **The Boston Tea Party**
 
-Britternas hårdnande politik ledde till opposition mot Storbritannien bland kolonisterna. En känd händelse är _Boston Tea Party_ år 1773 när ett hudnratal kolonister vräkte te överbord. Efter ett par år var krigt i full gång.
+Britternas hårdnande politik ledde till opposition mot Storbritannien bland kolonisterna. En känd händelse är _Boston Tea Party_ år 1773 när ett hundratal kolonister vräkte te överbord. Efter ett par år var krigt i full gång.
 
 #### **Självständighetsförklaringen**
 
-Mitt under kriet, år 1776, samlades representanter för 13 kolonier och förklarade sig självständiga. Menade att den engelske kungen begått en rad brott. Upplysningstankarna ligger till grund, t.ex. "att alla människor är skapade lika". Ärkefiender till Storbritannien (Frankrike och Spanien) hjälpte kolonisterna och 1783 tvingades Storbritannien erkändna de 13 kolonierna självständiga.
+Mitt under kriet, år 1776, samlades representanter för 13 kolonier och förklarade sig självständiga. Menade att den engelske kungen begått en rad brott. Upplysningstankarna ligger till grund, t.ex. "att alla människor är skapade lika". Ärkefiender till Storbritannien (Frankrike och Spanien) hjälpte kolonisterna och 1783 tvingades Storbritannien erkänna de 13 kolonierna självständiga.
 
 #### **USA:s författning**
 
@@ -94,7 +93,7 @@ Den franske kungen, Ludvig XVI bjöd år 1789 in ledamöter från samtliga tre s
 ##### **Politiska**
 
 * Nästan endast bönder som betalade skatt, irriterades av gamla rättigheter som godsherrar hade.
-* Nästan bara adelmän kunde få höge tjänster, svårt för den ofrälse att få makt i samhället.
+* Nästan bara adelsmän kunde få höge tjänster, svårt för den ofrälse att få makt i samhället.
 * Läkare, jurister, tidningsmän och lärare (borgare i tredje ståndet), folk som kände till upplysningens idéer, använde sig av dessa för att angripa de kungliga enväldet och kyrkans privilegier.
 
 #### **Revolutionens utbrott**
@@ -105,7 +104,7 @@ Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje ens
 * Adelsmän och präster anslöt sig efter en vecka, kungen fick finna sig i den nya ordningen.
 * Sommaren 1789: höga brödpriser, plundringar.
 * Kungen drog ihop till Paris, rykte om att kungen försökte krossa nationalförsamlingen spreds.
-* 14 juli 1789 - _Stormningen av Bastiljen_ (symvol gör gammalt och auktoritärt), i jakt på vapen.
+* 14 juli 1789 - _Stormningen av Bastiljen_ (symbol gör gammalt och auktoritärt), i jakt på vapen.
 * Oron spred sig i Frankrike - Bönder anföll godsen, brände arkiven (skatte- och dagsverkslängderna). Skrämda adelsmän lämnade landet.
 * 4-5 augusti - några adelsmän sade upp sig sina titlar och privilegier.
 * "Alla lika inför lagen, beskattas lika och ha samma rätt till tjänster".
@@ -114,11 +113,11 @@ Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje ens
 * Alla titlar togs bort, det enda som fanns kvar var medborgare.
 * Kungen skrev under besluten i oktober.
 * 5 oktober - tusentals kvinnor (tvätterskor, bagerskor, pigor, torgförsäljeskor och andra) beväpnade sig med påkar lansar, högafflar, gevär och tågade iväg
-* Dagen därpå - några kvinnor lyckas ta sig in i slottet. De kunglgia flydde till Tuilerierna i Paris, Nationalförsamlingen flyttade också till Paris.
+* Dagen därpå - några kvinnor lyckas ta sig in i slottet. De kungliga flydde till Tuilerierna i Paris, Nationalförsamlingen flyttade också till Paris.
 * Två lugna år: Nationalförsamlingen försökte lösa den ekonomiska krisen genom att sälja kyrkans jord på auktioner.
-* Sommar 1791 - kung Ludvig XVI och Marie Antoinette försökte fly till Belgien för att krossa revolutionen med hjälp av den österrikiska armén
+* Sommar 1791 - kung Ludvig XVI och Marie Antoinette försökte fly till Belgien för att krossa revolutionen med hjälp av den österrikiska armén.
 * Blev upptäckta, togs tillbaka till slottet. Revolutionär stadsstyrelse, kommunen, tog över efter flyktförsöket och antog 1791 en ny författning som begränsade kungens makt (ministrar blev ansvariga inför parlamentet, mer rösträtt till folket).
-* Politiska "vänster och höger" kommer från franska revolutionen.
+* Politiska begreppen "vänster och höger" kommer från franska revolutionen.
 
 #### **Den andra revolutionen**
 
@@ -145,7 +144,7 @@ Tog fart igen 1792.
 * Robespierre - en dyrkan av "ett högsta väsen".
 * Sansculotterna (utan knäbyxor) - stödde välfärdsutskottet
 * Misstänka för kontrarevolutionära åsikter ställdes inför specialinrättade domstolar (inga försvarare).
-* Ungefär 40 000 människor miste livet sommaren 1793 till sommaren 1794 (skräckväldet).
+* Ungefär 40 000 människor miste livet sommaren 1793 till sommaren 1794 (skräckväldet, människor som hade kontrarevolutionära åsikter).
 * De flesta som avrättades var arbetare och bönder.
 * När Robespierre arresterades och avrättades var skräckväldets tid slut.
 
