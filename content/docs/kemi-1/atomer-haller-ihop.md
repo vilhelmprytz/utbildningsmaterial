@@ -14,18 +14,18 @@ Kapitel 4 i kemiboken (se kursinfo).
 
 * **Dipol**: polär kovalent bindning, ingående atomerna har olika elektronegativitet och attraherar bindningselektronerna olika starkt, när molekylen går att dela in i en positiv och en negativ ände är det en dipol (annars är den opolär kovalent bindning).
 * **Elektronegativitet**: ett mått på hur starkt atomerna i en molekyl attraherar elektronerna.
-* **Intermolekylära bindningar**: 
+* **Intermolekylära bindningar**: bindningar mellan molekyler. T.ex Van der Waals, dipol-dipol och vätebindningar
 * **Jonbindning**: kemiska bindningen mellan två joner, en positiv och en negativ
 * **Kovalent bindning**: kemiska bindningar som verkar mellan molekyler
 * **Polär kovalent bindning**:
 * **Metallbindning**: atomernas valenselektroner bildar ett gemensamt elektronmoln.
 * **Intramolekylära bindningar**: kemiska bindningar som verkar mellan atomerna i en och samma molekyl (kovalent, polär kovalent eller jonbindning).
-* **Dipol-dipol-bindning**:
-* **Van der Waahlsbindning**:
-* **Vätebindning**:
-* **Jon**:
-* **Molekyl**:
-* **Metall**:
+* **Dipol-dipol-bindning**: intermolekylär bindning där två dipoler dras mot varandra. Negativ mot plus/plus mot negativ. Starkare än Van der Waalsbindning
+* **Van der Waalsbindning**: tillfälliga laddningsförskjutningar inom molekylen som ger upphov till svaga krafter mellan molekylerna. Van der Waals bindningarna är väldigt svaga, men påverkar dock alla atomer/molekyler, bara att den ofta maskeras av starkare bindningar som dipol-dipol eller vätebindningar. 
+* **Vätebindning**: extra stark typ av dipol-dipol bindning. Uppstår när dipolerna är en väteatom bunden till en starkt elektronegativ atom(kväve, syre, fluor)
+* **Jon**: elektriskt laddad atom/molekyl
+* **Molekyl**: grupp av två eller flera atomer som är sammansatta med hjälp av kovalenta bindningar
+* **Metall**: grundämnen som sitter ihop som enheter. Delar elektronmoln, vilket ger upphov till dess speciella egenskaper samt att de "tror" att de har uppnåt oktettregeln. 
 * **Opolär**:
 * **Polär**:
 * **Salt**:
@@ -34,8 +34,8 @@ Kapitel 4 i kemiboken (se kursinfo).
 * **Strukturformel**:
 * **Summaformel**:
 * **Ytspänning**:
-* **Elektronmoln**:
-* **Legering**:
+* **Elektronmoln**: "molnet" där elektronerna åker runt atomen/molekylen. Finns vissa pområden där elektronerna är mer sannolika att finnas, så kallade elektronskal. 
+* **Legering**: mix av flera olika sorters metaller
 * **Jonförening**: i en jonförening (salt) hålls jonerna ihop med hjälp av jonbindning (s).
 * **Molekylförening**: I ett fast ämne ("molekylförening") hålls molekylerna ihop med hjälp av relativt svaga ”bindningskrafter” = intermolekylära bindningar
 
