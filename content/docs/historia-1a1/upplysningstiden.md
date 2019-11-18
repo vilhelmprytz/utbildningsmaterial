@@ -64,11 +64,11 @@ Började i England och spreds via Frankrike till stora delar av Europa under 170
 
 Efter sjuårskriget (på 1700-talet) var det i stort sett bara Storbritannien som hade kolonier i Amerika (efter att ha segrat mot Frankrike i kriget). Trots detta blev Amerika självständigt 1783, hur?
 
-Merkantilismen (se begreppslista) präglade Storbritanniens kolonier. Det fanns begränsningar vad kolonisterna fick göra (t.ex. inte använda masugn eller ta emot utländska fartyg) men i övrigt styrde de sig själva för det mesta. Storbritannien var fattigt efter att ha varit krig och möttes med protest när de försökte införa tullar på kolonierna. "No taxiation without representation", kolonisterna hade ingen ingen rösträtt i det brittiska parlamentet.
+Merkantilismen (se begreppslista) präglade Storbritanniens kolonier. Det fanns begränsningar vad kolonisterna fick göra (t.ex. inte använda masugn eller ta emot utländska fartyg) men i övrigt styrde de sig själva för det mesta. Storbritannien var fattigt efter att ha varit krig och möttes med protest när de försökte införa tullar på kolonierna. "No taxiation without representation", kolonisterna hade ingen rösträtt i det brittiska parlamentet.
 
 #### **The Boston Tea Party**
 
-Britternas hårdnande politik ledde till opposition mot Storbritannien bland kolonisterna. En känd händelse är _Boston Tea Party_ år 1773 när ett hundratal kolonister vräkte te överbord. Efter ett par år var krigt i full gång.
+Britternas hårdnande politik ledde till opposition mot Storbritannien bland kolonisterna. En känd händelse är _Boston Tea Party_ år 1773 när ett hundratal kolonister vräkte te överbord. Efter ett par år var kriget i full gång.
 
 #### **Självständighetsförklaringen**
 
