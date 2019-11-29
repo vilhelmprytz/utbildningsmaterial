@@ -151,7 +151,7 @@ p = \frac{F}{A}
 <!--- VÄTSKETRYCK --->
 {{< columns >}}
 {{< katex >}}
-p = \rhogh
+p = \rho g h
 {{< /katex >}}
 <--->
 {{< katex >}}
