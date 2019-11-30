@@ -4,4 +4,4 @@ install:
   - sudo dpkg -i hugo.deb
 
 script:
-  - hugo
+  - hugo --minify
