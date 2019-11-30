@@ -3,6 +3,6 @@ USER=root
 HOST=utb.vilhelmprytz.se
 DIR=/srv/www/utb.vilhelmprytz.se  # might sometimes be empty!
 
-hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+hugo --minify && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
 
 exit 0
