@@ -9,10 +9,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+    - name: Clone submodules
+      run: git submodule update --init
     - name: Install hugo
       run: |
         curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.60.1/hugo_extended_0.60.1_Linux-64bit.deb
         sudo dpkg -i hugo.deb
+        hugo version
     - name: Build site using hugo (minified)
       run: |
         hugo --minify
