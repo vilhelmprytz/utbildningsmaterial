@@ -10,3 +10,8 @@ theme = "book"
 
     BookRepo = 'https://github.com/VilhelmPrytz/utbildningsmaterial'
     BookEditPath = 'edit/master/content'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
