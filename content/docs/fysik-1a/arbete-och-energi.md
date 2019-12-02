@@ -113,11 +113,11 @@ P = \frac{\Delta E}{\Delta t}
 <!--- VERKNINGSGRAD --->
 {{< columns >}}
 {{< katex >}}
-\eta = \frac{\Delta E_n}{\Delta E_t} = \frac{P_n}{P_t}
+\eta = \frac{\Delta E_{nyttig}}{\Delta E_{tillförd}} = \frac{P_{nyttig}}{P_{tillförd}}
 {{< /katex >}}
 <--->
 {{< katex >}}
-E_n \text{ är nyttig effekt, } E_t \text{ är tillförd effekt}
+\Delta E \text{ är energi, } P \text{ är effekt}
 \\\eta \text{ är verkningsgraden}
 {{< /katex >}}
 {{< /columns >}}
