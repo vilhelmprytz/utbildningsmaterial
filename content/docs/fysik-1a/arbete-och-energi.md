@@ -25,6 +25,14 @@ Arean under en kraft-tid sträcka är impuls.
 * **Undertryck**: Om trycket är under normalt lufftryck, normalt lufttryck - trycket
 * **Arkimedes princip**: En kropp som är helt eller delvis nedsänkt i en vätska eller en gas känner av en lyftkraft som är lika stor som tyngden av den vätska eller gas som den tränger undan.
 
+## Enhetsomvandling
+
+### Densitet
+
+{{< katex >}}
+1000 \ kg/m^3 = 1 \ g/cm^3
+{{< /katex >}}
+
 ## Fysikformler
 
 ### Energi
