@@ -8,17 +8,17 @@ weight: 1
 Sida 185-193, 239-253 och 214-236.
 
 ## **Begreppslista**
-* **Empirism**: uppfattningen att grunden för allt vetande är erfarenhet.
-* **Utilismen**: upplysningsidéerna, nyttighetsdyrkan, ville göra vetenskapliga framsteg som gynnade många.
-* **Tolerans**: upplysningsidéerna, religiös tolerans, rätten att fritt få ha religiösa och politiska åsikter.
-* **Voltaire**: fransk upplysningsfilosof.
-* **Rousseau**: schweizisk upplysningsfilosof, menade att den privata äganderätten hade skapat klasskillnader i samhället.
-* **Deism**: gud skapade världen, men ingrep inte efter (därför bad man inte till gud). En typ av kristen tro.
-* **Ateism**: förneka guds existens.
-* **Encyklopedin**: stort uppslagsverk i Frankrike, utilistisk, sprida vetenskapens nytta till människorna.
-* **Merkantilism**: ekonomisk-politisk åskådning i Europa (1550 - 1750). Framhäver landets egna industri samt export. Denna ekonomiska idé dominerade i Europa från 1600 fram till 1800 talet.
-* **Feodala privilegier**: struktur i ett samhälle med utpräglad över- och underordning. Privilegier t.ex. adeln fick.
-* **Giljotin**: ett avrättningsverktyg. Användes under franska revolutionens skräckvälde.
+* **Empirism**: Uppfattningen att grunden för allt vetande är erfarenhet.
+* **Utilismen**: Upplysningsidéerna, nyttighetsdyrkan, ville göra vetenskapliga framsteg som gynnade många.
+* **Tolerans**: Upplysningsidéerna, religiös tolerans, rätten att fritt få ha religiösa och politiska åsikter.
+* **Voltaire**: Fransk upplysningsfilosof.
+* **Rousseau**: Schweizisk upplysningsfilosof, menade att den privata äganderätten hade skapat klasskillnader i samhället.
+* **Deism**: Gud skapade världen, men ingrep inte efter (därför bad man inte till gud). En typ av kristen tro.
+* **Ateism**: Förneka guds existens.
+* **Encyklopedin**: Stort uppslagsverk i Frankrike, utilistisk, sprida vetenskapens nytta till människorna.
+* **Merkantilism**: Ekonomisk-politisk åskådning i Europa (1550 - 1750). Framhäver landets egna industri samt export. Denna ekonomiska idé dominerade i Europa från 1600- fram till 1800 talet.
+* **Feodala privilegier**: Struktur i ett samhälle med utpräglad över- och underordning. Privilegier t.ex. adeln fick.
+* **Giljotin**: Ett avrättningsverktyg. Användes under franska revolutionens skräckvälde.
 
 ## **Tidsperioder**
 
@@ -28,11 +28,11 @@ Sida 185-193, 239-253 och 214-236.
 
 ##### **Empirism och förnuftstro**
 
-Den vetenskapliga revolutionen på 1500- 1600-talet hade skapat en tro för vetenskapen. På 1700-talet slog vetenskap och forskning igenom. Tron på erfarenheten och förnuftet kom att bli upplysningens kännetecken (se begreppet "empirism").
+Den vetenskapliga revolutionen på 1500-talet och 1600-talet hade skapat en tro för vetenskapen. På 1700-talet slog vetenskap och forskning igenom. Tron på erfarenheten och förnuftet kom att bli upplysningens kännetecken (se begreppet "empirism").
 
 ##### **Optimism och nyttighetstro**
 
-Detta skapade en övertygan om att det inte fanns någon gräns för förnuft och att man var överlägsen all föregående tid. Upplysningens anhängare ville göra vetenskapliga framsteg som var till nytta för så många som möjligt (praktiskt användbara).
+Detta skapade en övertygan om att det inte fanns någon gräns för förnuft och att man var överlägsen all föregående tid. Upplysningens anhängare ville göra vetenskapliga framsteg som var till nytta för så många som möjligt (som var praktiskt användbara).
 
 ##### **Naturrätt och tolerans**
 
@@ -88,12 +88,12 @@ Den franske kungen, Ludvig XVI bjöd år 1789 in ledamöter från samtliga tre s
 
 * Långa krig (t.ex. att ha hjälpt amerikanerna mot Storbritannien) hade lett till dålig ekonomi.
 * Storbritannien konkurrerade ut flera franska företag vilket ledde till arbetslöshet.
-* På 1780-talet slog skördarna fel vilket ledde till höjda brödpriser (allvarligt då hälften av vanlig folks lön fick till bröd).
+* På 1780-talet slog skördarna fel vilket ledde till höjda brödpriser (allvarligt då hälften av vanligt folks lön gick till bröd på denna tid).
 
 ##### **Politiska**
 
 * Nästan endast bönder som betalade skatt, irriterades av gamla rättigheter som godsherrar hade.
-* Nästan bara adelsmän kunde få höge tjänster, svårt för den ofrälse att få makt i samhället.
+* Nästan bara adelsmän kunde få höge tjänster, svårt för "den ofrälse" att få makt i samhället.
 * Läkare, jurister, tidningsmän och lärare (borgare i tredje ståndet), folk som kände till upplysningens idéer, använde sig av dessa för att angripa de kungliga enväldet och kyrkans privilegier.
 
 #### **Revolutionens utbrott**
@@ -104,7 +104,7 @@ Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje ens
 * Adelsmän och präster anslöt sig efter en vecka, kungen fick finna sig i den nya ordningen.
 * Sommaren 1789: höga brödpriser, plundringar.
 * Kungen drog ihop till Paris, rykte om att kungen försökte krossa nationalförsamlingen spreds.
-* 14 juli 1789 - _Stormningen av Bastiljen_ (symbol gör gammalt och auktoritärt), i jakt på vapen.
+* 14 juli 1789 - _Stormningen av Bastiljen_ (Bastiljen - symbol för gammalt och auktoritärt), i jakt på vapen.
 * Oron spred sig i Frankrike - Bönder anföll godsen, brände arkiven (skatte- och dagsverkslängderna). Skrämda adelsmän lämnade landet.
 * 4-5 augusti - några adelsmän sade upp sig sina titlar och privilegier.
 * "Alla lika inför lagen, beskattas lika och ha samma rätt till tjänster".
@@ -112,10 +112,10 @@ Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje ens
 * Nationalförsamlingen slog fast deklaration om mänskliga rättigheter - födda lika, hade lika rättiheter, makt utifrån folket (idén kom från Nordamerika).
 * Alla titlar togs bort, det enda som fanns kvar var medborgare.
 * Kungen skrev under besluten i oktober.
-* 5 oktober - tusentals kvinnor (tvätterskor, bagerskor, pigor, torgförsäljeskor och andra) beväpnade sig med påkar lansar, högafflar, gevär och tågade iväg
+* 5 oktober - tusentals kvinnor (tvätterskor, bagerskor, pigor, torgförsäljeskor och andra) beväpnade sig med påkar, lansar, högafflar, gevär och tågade iväg.
 * Dagen därpå - några kvinnor lyckas ta sig in i slottet. De kungliga flydde till Tuilerierna i Paris, Nationalförsamlingen flyttade också till Paris.
 * Två lugna år: Nationalförsamlingen försökte lösa den ekonomiska krisen genom att sälja kyrkans jord på auktioner.
-* Sommar 1791 - kung Ludvig XVI och Marie Antoinette försökte fly till Belgien för att krossa revolutionen med hjälp av den österrikiska armén.
+* Sommaren 1791 - kung Ludvig XVI och Marie Antoinette försökte fly till Belgien för att krossa revolutionen med hjälp av den österrikiska armén.
 * Blev upptäckta, togs tillbaka till slottet. Revolutionär stadsstyrelse, kommunen, tog över efter flyktförsöket och antog 1791 en ny författning som begränsade kungens makt (ministrar blev ansvariga inför parlamentet, mer rösträtt till folket).
 * Politiska begreppen "vänster och höger" kommer från franska revolutionen.
 
@@ -126,18 +126,17 @@ Tog fart igen 1792.
 * April - nationalförsamlingen förklarar krig mot Österrike, befann sig snart i krig mot nästan hela Europa.
 * Nationalförsamlingen förväntade sig att de franska soldaterna skulle hälsas som befriare, men på de flesta ställen var det inte så.
 * Det feodala samhällssystemet sopades undan där de franska arméerna drog fram, kyrkojorden togs i beslag och aristokratins (adelns) privilegier avskaffades.
-* Borgerskapts författning blev modlel i ett tiotal länder (alltså upplysningens idéer?).
-
+* Borgerskapts författning blev modell i ett tiotal länder (alltså upplysningens idéer?).
 
 ##### **Skräckväldet**
 
-* Allmän värnplikt för att sprida revolutionens idéer (efter något år besto den franska armén av 1 miljon man).
-* Oro - höjda matpriser, rädda för österrikarna och preussarna
-* Hösten 1792 - kommunen avskaffar kungadömet och inför republik
-* Januari 1793 - Kung Ludvig XVI halshöggs, hösten Mario Antoinette
-* Ny riksdag - allmän rösträtt för män
-* Riksdagen 1793 - "välfärdsutskottet", krossa motrevolutionen
-* Robespierre - en ledare, påverkad av Rousseaus idéer om allmänviljan
+* Allmän värnplikt för att sprida revolutionens idéer (efter något år bestod den franska armén av 1 miljon man).
+* Oro - höjda matpriser, rädda för österrikarna och preussarna.
+* Hösten 1792 - kommunen avskaffar kungadömet och inför republik.
+* Januari 1793 - Kung Ludvig XVI halshöggs, på hösten halshöggs Mario Antoinette (giljotin).
+* Ny riksdag - allmän rösträtt för män.
+* Riksdagen 1793 - "välfärdsutskottet", krossa motrevolutionen.
+* Robespierre - en ledare, påverkad av Rousseaus idéer om allmänviljan.
 * Välfärdsutskottet beslöt sig för att inte kompensera de aristokrater (adeln) som skulle få ersättning.
 * Emigrerade adelsmän och prästers mark skänktes till jordlösa.
 * Maximipriser på bröd fastställdes.
@@ -153,4 +152,4 @@ Tog fart igen 1792.
 * Avskaffandet av feodala privilegier för adeln och kyrkan ledde till att sådana privilegier började ifrågasättas i andra länder.
 * Politisk debatt om hur samhället borde styras, franska författningen som efterliknades i flera länder gav medelklassen mer makt.
 * Mänskliga fri- och rättigheter, slavhandel över Atlanten och slaveriet ifrågasättas.
-* Kyrkans roll minskade i Frankrike och andra katolska länder (äktenskap civil angelägenhet och möjligheten att skilja sig). Ifrågasättning av religionens koppling till staten.
+* Kyrkans roll minskade i Frankrike och andra katolska länder (äktenskap blev en civil angelägenhet och möjligheten att skilja sig skapades). Ifrågasättning av religionens koppling till staten.
