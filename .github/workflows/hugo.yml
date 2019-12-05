@@ -19,3 +19,7 @@ jobs:
     - name: Build site using hugo (minified)
       run: |
         hugo --minify
+    - name: Install and lint using mdl
+      run: |
+        gem install mdl
+        mdl content
