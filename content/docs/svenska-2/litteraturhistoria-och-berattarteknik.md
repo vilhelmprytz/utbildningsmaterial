@@ -28,11 +28,11 @@ title: Litteraturhistoria och berättarteknik
 
 ##### **Antikens epik**
 
-I antikens Grekland utvecklades nya former av epik. De berättelser som framförallt har levt kvar är de som handlar om stora hjältedåd. Till exempel Homeros epos om _Illiaden_ och _Odysséen_.  
+I antikens Grekland utvecklades nya former av epik. De berättelser som framförallt har levt kvar är de som handlar om stora hjältedåd. Till exempel Homeros epos om *Illiaden* och *Odysséen*.  
 
 ##### **Antikens lyrik**
 
-Under antiken framfördes lyriken framförallt i form av en ensam sångare. Det intima i att en författare utlämnar sig själv till en publik finns kvar i dagens poesi. Den främsta grekiska diktaren är _Sapfo_ (de flesta diktare var män).
+Under antiken framfördes lyriken framförallt i form av en ensam sångare. Det intima i att en författare utlämnar sig själv till en publik finns kvar i dagens poesi. Den främsta grekiska diktaren är *Sapfo* (de flesta diktare var män).
 
 ##### **Antikens dramatik**
 
