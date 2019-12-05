@@ -5,7 +5,7 @@ weight: 1
 
 # **Upplysningstiden**
 
-Sida 185-193, 239-253 och 214-236.
+Sida 185-193 (upplysningstiden), 239-253 (amerikanska och franska revolutionen).
 
 ## **Begreppslista**
 * **Empirism**: Uppfattningen att grunden för allt vetande är erfarenhet.
@@ -24,59 +24,65 @@ Sida 185-193, 239-253 och 214-236.
 
 ### **Upplysningen**
 
-#### **Upplysningsideérna**
+#### **Upplysningsidéerna**
 
 ##### **Empirism och förnuftstro**
 
-Den vetenskapliga revolutionen på 1500-talet och 1600-talet hade skapat en tro för vetenskapen. På 1700-talet slog vetenskap och forskning igenom. Tron på erfarenheten och förnuftet kom att bli upplysningens kännetecken (se begreppet "empirism").
+Den vetenskapliga revolutionen på 1500- och 1600-talen hade skapat en tro för vetenskapen. På 1700-talet slog vetenskap och forskning igenom i upplysningsidéerna. Tron på erfarenheten och förnuftet kom att bli upplysningens kännetecken (se begreppet "empirism").
 
 ##### **Optimism och nyttighetstro**
 
-Detta skapade en övertygan om att det inte fanns någon gräns för förnuft och att man var överlägsen all föregående tid. Upplysningens anhängare ville göra vetenskapliga framsteg som var till nytta för så många som möjligt (som var praktiskt användbara).
+Detta skapade en övertygan om att det inte fanns någon gräns för förnuftet och att man var överlägsen all föregående tid. Upplysningens anhängare ville göra vetenskapliga framsteg som var till nytta för så många som möjligt (som var praktiskt användbara, utilism).
 
 ##### **Naturrätt och tolerans**
 
 Antik filosofi och kristendom hade hävdat att människan har "natuliga rättigheter". Denna idé utvecklades av upplysningsfilosoferna till det som kallas för naturätt. Alla människor föds fria och lika, alla har rätt till liv, frihet och egendom. Slaveri, livsegenskap och tortyr krisiterades som förhörsmetod och straff.
 
-Upplysningens förespråkare engagerade sig i kampen för religiös tolerans, att fritt förkunna religiösa och politiska åsikter. Man såg kritiskt på kyrkan. Franske filosofen _Voltaire_ sa "krossa den skändliga!" om den katolska kyrkan.
+Upplysningens förespråkare engagerade sig i kampen för religiös tolerans, att fritt förkunna religiösa och politiska åsikter. Man såg kritiskt på kyrkan. Franske filosofen *Voltaire* sa "krossa den skändliga!" om den katolska kyrkan (Voltaire menade att präster och munkar var skojare som lurade folket).
 
-Ledde till starkare krav på ökad jämlikhet. Via kunskap skulle olikheter mellan människor minska. _Rousseau_ menade att den privata äganderätten hade bidragit till att skapa skillnader i samhället.
+Idén om människors lika värde ledde till starkare krav på ökad jämlikhet. Via kunskap skulle olikheter mellan människor minska. Ståndsprivilegier och klasskillnader framstod oförenliga med en förnuftig samhällsordning. *Rousseau* menade att den privata äganderätten hade bidragit till att skapa skillnader i samhället.
 
 ##### **Deism och ateism**
 
-Se begreppslista.
+Se begreppslista för definitioner av begreppen.
 
-##### **Rousseau**
+Flera upplysningstänkare nekade inte guds existens, trots förkastningen av flera kristendomens läror. Skillnaden var att man menade att gud hade skapat världen, men att gud inte ingrep efter skapelsen (*deism*). De som förnekade guds existens helt och hållet kallades för *ateister*.
 
-Den främsta profeten för natursvärmeri, satte naturen i motsats till kulturen. Förespråkade fri pedagogik utan regler, metodiken "learning by doing". Menade att kvinnor och män skulle lära sig olika saker.
+##### **Natursvärmeri och Rousseau**
+
+Natursvärmeri var tankar som kretsade samtidigt som upplysningsidéerna. Det handlade framförallt om att leva med naturen, 
+
+Rousseau var den främsta profeten för natursvärmeri, satte naturen i motsats till kulturen. Förespråkade fri pedagogik utan regler, metodiken "learning by doing". Menade att kvinnor och män skulle lära sig olika saker.
 
 ##### **Hur ska en stat styras?**
 
-* **Maktdelning**: Montesquieu fick inspiration från England och menade att makten skulle delas på tre statsorgan. Regenten med den _verkställande makten_, parlamentet med den _lagstiftande makten_ och självständiga domstolar med den _dömande makten_.
-* **Upplyst despoti**: Voltaire menade att en upplyst enväldig kung (fursten) skulle styra. Fursten skulle genomföra reformer som var till nytta för landet. Ett parlament med begränsad motmakt skulle finnas, men inget folkstyre.
-* **Direktdemokrati**: Ett samhällskontrakt mellan fursten och folket. Makten alltid hos folket. Parlamentet, kungen och tjänstemännen skulle endast verkställa folkets vilja. Tillämpades i små stater, t.ex. Genéve.
+* **Maktdelning**: Montesquieu fick inspiration från England och menade att makten skulle delas på tre statsorgan. Regenten med den *verkställande makten*, parlamentet med den *lagstiftande makten* och självständiga domstolar med den *dömande makten*.
+* **Upplyst despoti**: Voltaire menade att en upplyst enväldig kung (fursten) skulle styra. Fursten skulle genomföra reformer som var till nytta för landet och befolkningen. Ett parlament med begränsad motmakt skulle finnas, men inget folkstyre överhuvudtaget.
+* **Direktdemokrati**: Ett samhällskontrakt mellan fursten och folket. Makten alltid hos folket. Parlamentet, kungen och tjänstemännen skulle endast verkställa folkets vilja. Tillämpades i små stater, t.ex. Genève. Tankar om folkviljans makt vart viktig under franska revolutionen.
 
 #### **Hur spreds upplysningsidéerna?**
 
-Började i England och spreds via Frankrike till stora delar av Europa under 1700-talet. Trots att upplysningsfilosoferna var få människor så var de intellektuellt ledande och därför hade en stor betydelse. Utvecklades och spreds vidare under franska revolutionen och senare geografiskt till fler länder och fler människor. Spreds framförallt genom böcker och tidningar. _Encyklopedin_ var ett stort uppslagsverk som var viktigt för idéernas spridning.
+Började i England och spreds via Frankrike till stora delar av Europa under 1700-talet. Trots att upplysningsfilosoferna var få människor så var de intellektuellt ledande och därför hade en stor betydelse. Utvecklades och spreds vidare under franska revolutionen och senare geografiskt till fler länder och fler människor. Spreds framförallt genom böcker och tidningar, men även kaffestugor för de som inte hade råd att köpa böcker eller tidningar. Den franska *encyklopedin* var ett stort uppslagsverk som var viktigt för idéernas spridning (piratkopior av denna spreds även).
 
 ### **Den amerikanska revolutionen**
 
 Efter sjuårskriget (på 1700-talet) var det i stort sett bara Storbritannien som hade kolonier i Amerika (efter att ha segrat mot Frankrike i kriget). Trots detta blev Amerika självständigt 1783, hur?
 
-Merkantilismen (se begreppslista) präglade Storbritanniens kolonier. Det fanns begränsningar vad kolonisterna fick göra (t.ex. inte använda masugn eller ta emot utländska fartyg) men i övrigt styrde de sig själva för det mesta. Storbritannien var fattigt efter att ha varit krig och möttes med protest när de försökte införa tullar på kolonierna. "No taxiation without representation", kolonisterna hade ingen rösträtt i det brittiska parlamentet.
+Merkantilismen (se begreppslista) präglade Storbritanniens kolonier. Det fanns begränsningar vad kolonisterna fick göra (t.ex. inte använda masugn eller ta emot utländska fartyg) men i övrigt styrde de sig själva för det mesta och dessutom fick de förmånen att skyddas av den brittiska flottan. Storbritannien var fattigt efter att ha varit krig och försökte införa tullar och började bestraffa smugglare. Detta möttes med våldsamma protester från kolonisterna. Eftersom kolonisterna saknade rösträtt i det brittiska parlamentet menade de att Storbritannien inte fick införa tullar. *"No taxiation without representation"*.
 
 #### **The Boston Tea Party**
 
-Britternas hårdnande politik ledde till opposition mot Storbritannien bland kolonisterna. En känd händelse är _Boston Tea Party_ år 1773 när ett hundratal kolonister vräkte te överbord. Efter ett par år var kriget i full gång.
+Britternas hårdnande politik ledde till opposition mot Storbritannien bland kolonisterna. En känd händelse är *Boston Tea Party* år 1773 när ett hundratal kolonister vräkte te överbord (te var den enda varan som inte fick sina tullar upphävda efter protesterna). Efter ett par år var kriget i full gång.
 
 #### **Självständighetsförklaringen**
 
-Mitt under kriet, år 1776, samlades representanter för 13 kolonier och förklarade sig självständiga. Menade att den engelske kungen begått en rad brott. Upplysningstankarna ligger till grund, t.ex. "att alla människor är skapade lika". Ärkefiender till Storbritannien (Frankrike och Spanien) hjälpte kolonisterna och 1783 tvingades Storbritannien erkänna de 13 kolonierna självständiga.
+Mitt under kriet, den 4 juli år 1776, samlades representanter för 13 kolonier och förklarade sig självständiga. Menade att den engelska kungen begått en rad brott (sade upp sitt kontrakt med den brittiska kronan). Upplysningstankarna ligger till grund, t.ex. "att alla människor är skapade lika". Ärkefiender till Storbritannien (Frankrike och Spanien) hjälpte kolonisterna. År 1783 tvingades Storbritannien erkänna de 13 kolonierna självständiga.
 
 #### **USA:s författning**
 
-År 1789 trädde USA:s grundlag i kraft. Baserad på Montesquieus idéer om maktdelning (styrande, lagstiftande, dömande). Beskrev också maktbalansen mellan delstaterna och den federala regeringen. George Washington blev samma år vald till förste president. Mänskliga rättigheter fastslogs, t.ex. religions- och yttrandefrihet samt rätten att bära vapen.
+År 1789 trädde USA:s grundlag i kraft. Baserad på Montesquieus idéer om maktdelning (presidenten, kongressen och den Högsta domstolen kallas tillämpningarna i USA). Rätten för varje amerikansk medborgare att bära vapen (delstaterna var rädda för att den federala regeringen skulle få för stor makt). Beskrev också maktbalansen mellan delstaterna och den federala regeringen. George Washington blev samma år vald till förste president. Mänskliga rättigheter fastslogs, t.ex. religions- och yttrandefrihet.
+
+USA vart ett omtalat ämne i Europa, en före detta koloni som lyckades bryta sig ut från moderlandet.
 
 ### **Franska revolutionen och Napoleontiden**
 
@@ -100,11 +106,11 @@ Den franske kungen, Ludvig XVI bjöd år 1789 in ledamöter från samtliga tre s
 
 Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje enskild medlem hade en röst. De övriga två stånden, med 300 medlemmar, krävde en röst per stånd.
 
-* Juni: tredje ståndet förklarade att de ensamt representerade nationen och därför hade rätt att bestämma om skatter. _Nationalförsamlingen_ kallade man sig och man svor en högtidlig ed att inte åtskiljas förens Frankrike fått en ny författning. Höll till i ett bollhus, kallas därför _Eden i Bollhuset_.
+* Juni: tredje ståndet förklarade att de ensamt representerade nationen och därför hade rätt att bestämma om skatter. *Nationalförsamlingen* kallade man sig och man svor en högtidlig ed att inte åtskiljas förens Frankrike fått en ny författning. Höll till i ett bollhus, kallas därför *Eden i Bollhuset*.
 * Adelsmän och präster anslöt sig efter en vecka, kungen fick finna sig i den nya ordningen.
 * Sommaren 1789: höga brödpriser, plundringar.
 * Kungen drog ihop till Paris, rykte om att kungen försökte krossa nationalförsamlingen spreds.
-* 14 juli 1789 - _Stormningen av Bastiljen_ (Bastiljen - symbol för gammalt och auktoritärt), i jakt på vapen.
+* 14 juli 1789 - *Stormningen av Bastiljen* (Bastiljen - symbol för gammalt och auktoritärt), i jakt på vapen.
 * Oron spred sig i Frankrike - Bönder anföll godsen, brände arkiven (skatte- och dagsverkslängderna). Skrämda adelsmän lämnade landet.
 * 4-5 augusti - några adelsmän sade upp sig sina titlar och privilegier.
 * "Alla lika inför lagen, beskattas lika och ha samma rätt till tjänster".
