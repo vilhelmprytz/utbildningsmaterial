@@ -87,44 +87,73 @@ USA vart ett omtalat ämne i Europa, en före detta koloni som lyckades bryta si
 
 ### **Franska revolutionen och Napoleontiden**
 
-Den franske kungen, Ludvig XVI bjöd år 1789 in ledamöter från samtliga tre stånd till Versailles. Att parlamentet samlades berodde på att statens kassakista var tom.
+Den franska statens kassakista var tom. Kung Ludvig XVI samlade därför de sammanlagt 1 200 representanterna från de samtliga tre stånden i Versailles (utanför Paris) år 1789. 300 präster, 300 adelsmän och 600 från det tredje ståndet.
 
 #### **Revolutionens orsaker**
 
 ##### **Ekonomiska**
 
-* Långa krig (t.ex. att ha hjälpt amerikanerna mot Storbritannien) hade lett till dålig ekonomi.
+* Långa krig (t.ex. efter att ha hjälpt kolonisterna i nordamerikanerna i kriget mot Storbritannien) hade lett till dålig ekonomi.
 * Storbritannien konkurrerade ut flera franska företag vilket ledde till arbetslöshet.
 * På 1780-talet slog skördarna fel vilket ledde till höjda brödpriser (allvarligt då hälften av vanligt folks lön gick till bröd på denna tid).
 
 ##### **Politiska**
 
-* Nästan endast bönder som betalade skatt, irriterades av gamla rättigheter som godsherrar hade.
-* Nästan bara adelsmän kunde få höge tjänster, svårt för "den ofrälse" att få makt i samhället.
+* Nästan endast bönder som betalade skatt. Irriterades av gamla rättigheter som godsherrar hade.
+* Nästan bara adelsmän kunde få höge tjänster (officerare, biskopar, guvernörer etc.), svårt för "den ofrälse" att få makt i samhället.
 * Läkare, jurister, tidningsmän och lärare (borgare i tredje ståndet), folk som kände till upplysningens idéer, använde sig av dessa för att angripa de kungliga enväldet och kyrkans privilegier.
 
 #### **Revolutionens utbrott**
 
-Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje enskild medlem hade en röst. De övriga två stånden, med 300 medlemmar, krävde en röst per stånd.
+Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje enskild medlem hade en röst. De övriga två stånden, med 300 medlemmar vardera, krävde en röst per stånd. Adeln och prästerna ville kunna rösta ned det tredje ståndet.
 
-* Juni: tredje ståndet förklarade att de ensamt representerade nationen och därför hade rätt att bestämma om skatter. *Nationalförsamlingen* kallade man sig och man svor en högtidlig ed att inte åtskiljas förens Frankrike fått en ny författning. Höll till i ett bollhus, kallas därför *Eden i Bollhuset*.
-* Adelsmän och präster anslöt sig efter en vecka, kungen fick finna sig i den nya ordningen.
-* Sommaren 1789: höga brödpriser, plundringar.
-* Kungen drog ihop till Paris, rykte om att kungen försökte krossa nationalförsamlingen spreds.
-* 14 juli 1789 - *Stormningen av Bastiljen* (Bastiljen - symbol för gammalt och auktoritärt), i jakt på vapen.
-* Oron spred sig i Frankrike - Bönder anföll godsen, brände arkiven (skatte- och dagsverkslängderna). Skrämda adelsmän lämnade landet.
-* 4-5 augusti - några adelsmän sade upp sig sina titlar och privilegier.
-* "Alla lika inför lagen, beskattas lika och ha samma rätt till tjänster".
-* Adliga privilegier avskaffades men adeln skulle få ersättning.
-* Nationalförsamlingen slog fast deklaration om mänskliga rättigheter - födda lika, hade lika rättiheter, makt utifrån folket (idén kom från Nordamerika).
-* Alla titlar togs bort, det enda som fanns kvar var medborgare.
-* Kungen skrev under besluten i oktober.
-* 5 oktober - tusentals kvinnor (tvätterskor, bagerskor, pigor, torgförsäljeskor och andra) beväpnade sig med påkar, lansar, högafflar, gevär och tågade iväg.
-* Dagen därpå - några kvinnor lyckas ta sig in i slottet. De kungliga flydde till Tuilerierna i Paris, Nationalförsamlingen flyttade också till Paris.
-* Två lugna år: Nationalförsamlingen försökte lösa den ekonomiska krisen genom att sälja kyrkans jord på auktioner.
-* Sommaren 1791 - kung Ludvig XVI och Marie Antoinette försökte fly till Belgien för att krossa revolutionen med hjälp av den österrikiska armén.
-* Blev upptäckta, togs tillbaka till slottet. Revolutionär stadsstyrelse, kommunen, tog över efter flyktförsöket och antog 1791 en ny författning som begränsade kungens makt (ministrar blev ansvariga inför parlamentet, mer rösträtt till folket).
-* Politiska begreppen "vänster och höger" kommer från franska revolutionen.
+##### **Eden i Bollhuset och Nationalförsamlingen**
+
+I juni samma år förklarade det tredje ståndet att de ensamt representerade nationen och därför hade rätt att bestämma om skatter. *Nationalförsamlingen* kallade man sig och man svor en ed att inte åtskiljas förens Frankrike fått en ny författning. Höll till i ett bollhus, kallas därför *Eden i Bollhuset*.
+
+Adelsmän och präster anslöt sig efter en vecka, kungen fick finna sig i den nya ordningen.
+
+Under sommaren 1789 var brödpriserna högre än någonsin. Plundringar av butiker och spannmålskonvojer. Rykten om att aristokraterna (adeln och kungen) försökte krossa nationalförsamlingen spreds.
+
+##### **Stormningen av Bastiljen**
+
+Den 14 juli 1789 stormade folkmassor in i fästningen *Bastiljen* i jakt på vapen. För många var fästningen en symbol för den gamla auktoritära regimen.
+
+##### **Ökad oro**
+
+Oron ökade och spred sig. Bönder brände akriv där skatte och dagverk fanns antecknade. De första skrämda adelsmännen började lämna landet.
+
+Den 4-5 augusti avsade sig flera adelsmän sina titlar, andra följde efter kort därefter.
+
+##### **Mänskliga rättigheter och upplysninens idéer**
+
+Alla skulle vara lika inför lagen, beskattas lika och ha samma rätt till tjänster. "Frihet, jämlikhet och broderskap" var slagorden. Adliga privilegier avförskaffades och Nationalförsamlingen antog en deklaration om mänskliga rättighete (makten utifrån folket, rätten att äga egendom).
+
+Idén om människors rättigheter är starkt insipirerad från amerikanska revolutionen i nordamerika. Upplysningens idéer genomsyrar rättighetsförklaringen i både Amerika och Frankrike.
+
+Alla titlar togs bort, endast tilltalsordet "medborgare" gällde.
+
+Kungen skrev under dessa beslut mycket senare, i oktober.
+
+##### **Ökad oro och protester i Paris**
+
+Att brödpriserna sitigt ytterligare i kombination med att kungen drog samman fler trupper till Paris ledde till ytterligare ökad oro.
+
+Den 5 oktober beväpnade sig tusentals kvinnor (tvätterskor, bagerskor, pigor, torgförsäljeskor och andra) och tågade väg i protest.
+
+Dagen därpå lyckas några kvinnor ta sig in i det kungliga slottet och plundrar salarna. De kungliga hamnar mitt bland massa och tvingas flytta, bosatte sig i Tuilerierna.
+
+##### **Kungen försöker fly**
+
+Efter 1789 följer två relativt lugna år. Nationalförsamlingen sålde kyrkans jord på auktion i ett försök att lösa den ekonomiska krisen.
+
+Sommaren 1791 försökte Kung Ludvig XVI och Marie Antoinette fly till Belgien för att krossa nationalförsamlingen med den österrikiska armén.
+
+De upptäcktes och flyttades tillbaka som fångar i Tuilerierna.
+
+En ny stadstyrelse, kallat *kommunen* tog över i Paris och gjorde en ny författning som ytterligare minskade kungens makt och som gynnade borgerskapet (mer rösträtt till folket).
+
+De politiska begreppn "vänster" och "höger" kommer från franska revolutionen (de mer radikala satt till vänster om talmannen och de mer konservativa satt till höger).
 
 #### **Den andra revolutionen**
 
