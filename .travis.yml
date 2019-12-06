@@ -7,4 +7,4 @@ install:
 
 script:
   - hugo --minify
-  - mdl content
+  - mdl content --rules "~MD013"
