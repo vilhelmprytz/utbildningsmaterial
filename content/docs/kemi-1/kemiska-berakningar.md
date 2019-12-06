@@ -12,13 +12,15 @@ Kapitel 6 i kemiboken (se kursinfo).
 ## Formler
 
 ### Avogadros konstant
+
 {{< katex >}}
-N_A = 6,022 * 10^{23} \text{ st atomer}
+N_A = 6,022 \cdot 10^{23} \ \text{st atomer}
 {{< /katex >}}
 
 ### Mol
+
 {{< katex >}}
-1 \text{ } mol = 6,022 * 10^{23}
+1 \ mol = 6,022 \cdot 10^{23}
 {{< /katex >}}
 
 ### Substansmängd
@@ -36,5 +38,5 @@ mol = \frac{g}{g/mol}
 Förhållande mellan substansmängden (n) och antal atomer (N).
 
 {{< katex >}}
-N = n * N_A
+N = n \cdot N_A
 {{< /katex >}}

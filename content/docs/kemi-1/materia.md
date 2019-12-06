@@ -11,7 +11,7 @@ weight: 1
 * **Atomkärna** - kärnan i en atom, består av protoner och neutroner
 * **Atommassa** - massan av en atom av ett grundämne
 * **Elektron** - negativt laddad elementarpartikel, omgiver en atomkärna (e-)
-* **Elektronskal** - Bohrs atommodell säger att elektroner kretsar på bestämda avstånd från kärnan, avstånden motsvarar elektronernas möjliga energinivåer. K, L, M, N osv i alfabetisk ordning 
+* **Elektronskal** - Bohrs atommodell säger att elektroner kretsar på bestämda avstånd från kärnan, avstånden motsvarar elektronernas möjliga energinivåer. K, L, M, N osv i alfabetisk ordning
 * **Elementarpartiklar** - elektron, neutron, proton. Materiens minsta beståndsdelar som inte har någon inre struktur
 * **Masstal** - antal p+ + antal n (antal protoner + antal neutroner)
 * **Neutron** - elementarpartikel i atomkärnan, saknar elektrisk laddning. Antal neutroner i atomkärnan ger upphov till olika isotoper (n)
@@ -46,7 +46,7 @@ weight: 1
 
 {{< mermaid >}}
 graph LR
-	Dalton --> Thomson
+    Dalton --> Thomson
     Thomson --> Rutherford
     Rutherford --> Bohr
     Bohr --> Chadwick

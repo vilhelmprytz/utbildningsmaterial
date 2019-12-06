@@ -8,6 +8,7 @@ weight: 2
 Kapitel 4 i kemiboken (se kursinfo).
 
 ## Länkar
+
 * [Namngivning på joner Quizlet](https://quizlet.com/437375297/namn-pa-jonbindningar-flash-cards/)
 
 ## Begreppslista
@@ -21,7 +22,7 @@ Kapitel 4 i kemiboken (se kursinfo).
 * **Metallbindning**: atomernas valenselektroner bildar ett gemensamt elektronmoln.
 * **Intramolekylära bindningar**: kemiska bindningar som verkar mellan atomerna i en och samma molekyl (kovalent, polär kovalent eller jonbindning).
 * **Dipol-dipol-bindning**: intermolekylär bindning där två dipoler dras mot varandra. Negativ mot plus/plus mot negativ. Starkare än Van der Waalsbindning.
-* **Van der Waalsbindning**: tillfälliga laddningsförskjutningar inom molekylen som ger upphov till svaga krafter mellan molekylerna. Van der Waals bindningarna är väldigt svaga, men påverkar dock alla atomer/molekyler, bara att den ofta maskeras av starkare bindningar som dipol-dipol eller vätebindningar. 
+* **Van der Waalsbindning**: tillfälliga laddningsförskjutningar inom molekylen som ger upphov till svaga krafter mellan molekylerna. Van der Waals bindningarna är väldigt svaga, men påverkar dock alla atomer/molekyler, bara att den ofta maskeras av starkare bindningar som dipol-dipol eller vätebindningar.
 * **Vätebindning**: extra stark typ av dipol-dipol bindning. Uppstår när dipolerna är en väteatom bunden till en starkt elektronegativ atom (kväve, syre, fluor)
 * **Jon**: elektriskt laddad atom/molekyl
 * **Molekyl**: grupp av två eller flera atomer som är sammansatta med hjälp av kovalenta bindningar
@@ -62,7 +63,7 @@ Atomernas valenselektroner bildar ett gemensamt elektronmoln.
 * Ledningsförmåga
 * Formbarhet
 
-#### **Övrigt**
+#### **Övrigt, metaller**
 
 Metaller eller legeringar.
 
@@ -86,7 +87,7 @@ Olika jonladdningar (+/-) attraherar och håller ihop jonerna till en enhet.
 * Många är vattenlösliga.
 * Jonlösningar + salter i flytande form är elektriskt ledande.
 
-#### **Övrigt**
+#### **Övrigt, salter**
 
 * Den kemiska formeln.
 
@@ -108,13 +109,13 @@ Olika atomer delar på valenselektroner (elektronparbindning).
 graph LR
     VanDerWaahls-->|ökande styrka|dipol-dipol
     dipol-dipol-->|ökande styrka|H-bindning
-{{< /mermaid >}} 
+{{< /mermaid >}}
 
 #### **Molekylens egenskaper**
 
 * Stor variation
 
-#### **Övrigt**
+#### **Övrigt, molekyler**
 
 * Polär kovalent
 * Dipol

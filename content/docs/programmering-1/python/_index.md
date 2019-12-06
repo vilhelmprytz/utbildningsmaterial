@@ -13,6 +13,7 @@ Materialet utgår ifrån Python 3.x. Om du använder Python 2.x kan det finnas s
 ## Datatyper och datastrukturer
 
 ### Datatyper
+
 * `string` - sträng, text
 * `integer` - heltal
 * `float`- bokstavlig översättning "flyttal", kan enkelt ses som ett decimaltal

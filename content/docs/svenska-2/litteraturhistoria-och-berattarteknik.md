@@ -8,8 +8,9 @@ title: Litteraturhistoria och berättarteknik
 ## **Litteraturhistoria**
 
 ### **Begreppslista**
+
 * **Epik, lyrik och dramatik**: litteraturgenrerna från antiken. Epik är berättande litteratur, lyrik är en enskild människas beskrivning av något och dramatik är avsett att framföras av skådespelare snarare än att återberättas ordagrant.
-* **Epos**: en lång berättande text som är skriven på vers, alltså efter ett visst mönster (rytm). En epos är en subgenre till epiken. 
+* **Epos**: en lång berättande text som är skriven på vers, alltså efter ett visst mönster (rytm). En epos är en subgenre till epiken.
 * **Tragedi**: en tragedi är en allvarlig och ibland brutal form av teater. En tragedi slutar aldrig lyckligt.
 * **Hybris, kattharsis, nemesis**: under antiken. Om man trotsade gudarna visade man hybris (övermod, tro för mycket om sin egen förmåga) vilket ledde till fruktansvärda straff. Katharsis är ett grekiskt ord som betyder rening. Nemesis är hämndens gudinna, hämnas människors oförrätter.
 * **Rapsoder**: en kringvandrande profesionell sångare/recitatör, berättelser och poesi (Homeros var en rapsod).
@@ -28,7 +29,7 @@ title: Litteraturhistoria och berättarteknik
 
 ##### **Antikens epik**
 
-I antikens Grekland utvecklades nya former av epik. De berättelser som framförallt har levt kvar är de som handlar om stora hjältedåd. Till exempel Homeros epos om *Illiaden* och *Odysséen*.  
+I antikens Grekland utvecklades nya former av epik. De berättelser som framförallt har levt kvar är de som handlar om stora hjältedåd. Till exempel Homeros epos om *Illiaden* och *Odysséen*.
 
 ##### **Antikens lyrik**
 
@@ -69,10 +70,10 @@ Feodalismen gav upphov till maktpyramiden som i sin tur ledde till ståndssystem
 ### **Lässtrategier**
 
 1. Spåkulan - förutspå
-2. Frågetecknet - fråga
-3. Förstoringsglaset - reda ut
-4. Summatecknet - sammanfatta
-5. Ankaret - koppla
+1. Frågetecknet - fråga
+1. Förstoringsglaset - reda ut
+1. Summatecknet - sammanfatta
+1. Ankaret - koppla
 
 ### **Berättarperspektiv**
 
@@ -90,8 +91,8 @@ Jag-berättaren deltar själv i handlingen och är synlig för läsaren.
 * Får inte nödvändigtvis hela sanningen.
 * Hur hade berättelsen sett ut om någon annan av karaktärerna berättat?
 * Fördelar/nackdelar med Jag-berättare?:
-    * Fördel: Veta exakt vad huvudpersonen tänker, identifikation underlättas.
-    * Nackdel: Endast ett perspektiv, begränsade, endast en version av berättelsen.
+  * Fördel: Veta exakt vad huvudpersonen tänker, identifikation underlättas.
+  * Nackdel: Endast ett perspektiv, begränsade, endast en version av berättelsen.
 
 ##### **Exempel på Jag-berättare**
 
@@ -106,11 +107,11 @@ Den allvetande berättaren vet allt, ser allt och hör allt. Den vet vad alla ka
 
 * Oftast en osynlig berättare för läsaren.
 * Analysera en allvetande berättare:
-    * **Utvändig**
-        * Läsaren ser karaktärerna objektiv utifrån (skapar en större distans).
-        * Läsaren får ingen djupare förståelse för karaktärens känslor.
-    * **Invändig**
-        * Via den allvetande berättaren får du som läsare uppleva och känna saker som karaktären känner (inte att blanda ihop med Jag-berättaren).
+  * **Utvändig**
+    * Läsaren ser karaktärerna objektiv utifrån (skapar en större distans).
+    * Läsaren får ingen djupare förståelse för karaktärens känslor.
+  * **Invändig**
+    * Via den allvetande berättaren får du som läsare uppleva och känna saker som karaktären känner (inte att blanda ihop med Jag-berättaren).
 
 ##### **Exempel på Allvetande berättare**
 

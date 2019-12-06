@@ -40,7 +40,7 @@ Arean under en kraft-tid sträcka är impuls.
 <!--- POTENTIELL ENERGI, LÄGESENERGI --->
 {{< columns >}}
 {{< katex >}}
-E_p = m * g * h
+E_p = m \cdot g \cdot h
 {{< /katex >}}
 <--->
 {{< katex >}}
@@ -79,7 +79,7 @@ E_m = E_p + E_k
 <!--- ARBETE --->
 {{< columns >}}
 {{< katex >}}
-W = F_s * \Delta s = \Delta E
+W = F_s \cdot \Delta s = \Delta E
 {{< /katex >}}
 <--->
 {{< katex >}}
@@ -135,7 +135,7 @@ P = \frac{\Delta E}{\Delta t}
 <!--- RÖRELSEMÄNGD --->
 {{< columns >}}
 {{< katex >}}
-p = m * v
+p = m \cdot v
 {{< /katex >}}
 <--->
 {{< katex >}}
@@ -189,7 +189,7 @@ e = \frac{v_{B2} - v_{A2}}{v_{A1} - v_{B1}}
 <!--- IMPULS --->
 {{< columns >}}
 {{< katex >}}
-I = F*t
+I = F \cdot t
 \\ I = \Delta p = mv_2 - mv_1
 {{< /katex >}}
 <--->
@@ -243,7 +243,7 @@ p = \rho g h
 
 {{< columns >}}
 {{< katex >}}
-F_L = \rho * g * V
+F_L = \rho \cdot g \cdot V
 {{< /katex >}}
 <--->
 {{< katex >}}

@@ -28,11 +28,11 @@ title: Samhällsekonomi
 ### Exempel på marknader
 
 1. varumarknaden
-2. tjänstemarknaden
-3. arbetsmarknaden
-4. bostadsmarknaden
-5. kapitalmarknaden
-6. valutamarknaden
+1. tjänstemarknaden
+1. arbetsmarknaden
+1. bostadsmarknaden
+1. kapitalmarknaden
+1. valutamarknaden
 
 * **Marknadsföring** - olika sätt att nå ut till marknaden, t.ex via reklam
 * **Planekonomi** - politiska beslut styr hela ekonomin. Bestämmer vad & hur, prissättning och fördelning

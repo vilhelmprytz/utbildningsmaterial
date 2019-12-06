@@ -47,9 +47,9 @@ title: Arbetsmarknad
   * **Skyddskommitté**
 * **Arbetslöshet**
   1. Säsongsarbetslöshet - beror på årstid, vilken säsong det är. T.ex. glassförsäljning.
-  2. Konjunkturarbetslöshet - under lågkonjunkturer är det svårare för företagen att sälja vilket kan sluta med att det måste säga upp personal. I bästa fall återställs det när konjunkturen sedan går upp igen men i värsta fall försvinner yrket bort helt och hållet.
-  3. Strukturarbetslöshet - arbetslöshet som sker i samband med en strukturförändring, övergång mellan t.ex. industrisamhälle och tjänstesamhälle
-  4. Friktionsarbetslöshet - samhälle där man fritt får byta yrke och/eller arbetsgivare blir det alltid kortare perioder där man är arbetslös. Ofrånkomligt på en fri arbetsmarknad.
+  1. Konjunkturarbetslöshet - under lågkonjunkturer är det svårare för företagen att sälja vilket kan sluta med att det måste säga upp personal. I bästa fall återställs det när konjunkturen sedan går upp igen men i värsta fall försvinner yrket bort helt och hållet.
+  1. Strukturarbetslöshet - arbetslöshet som sker i samband med en strukturförändring, övergång mellan t.ex. industrisamhälle och tjänstesamhälle
+  1. Friktionsarbetslöshet - samhälle där man fritt får byta yrke och/eller arbetsgivare blir det alltid kortare perioder där man är arbetslös. Ofrånkomligt på en fri arbetsmarknad.
 
 ### Block G - Arbetsliv (alla diverse begrepp)
 
