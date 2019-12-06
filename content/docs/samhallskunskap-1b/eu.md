@@ -8,6 +8,7 @@ title: Europeiska unionen
 ## Begreppslista
 
 ### Europaparlamentets grupper
+
 * **EPP (Europeiska folkpartiets grupp)**: Moderaterna och Kristdemokraterna
 * **S&D (Gruppen Progressiva förbundet av socialdemokrater)**: Socialdemokraterna och (Fi)
 * **ECR (Europeiska konservativa och reformister)**: Sverigedemokraterna
@@ -17,10 +18,8 @@ title: Europeiska unionen
 * **EFDD (Frihet och direktdemokrati i Europa)**: inga svenska partier
 * **ENF (Nationernas och friheternas Europa)**: Bland andra franska “Nationell samling”. Inga svenska ledamöter
 
-### Vad de svenska partierna anser om asyl och migration i EU
-Borttaget då det ej är uppdaterat.
-
 ### Så fungerar EU, sju institutioner i EU
+
 * **EU-kommissionen**: föreslår nya lagar, ungefär som Sveriges regering. Består av kommissionärer från varje EU-land.
 * **Ministerrådet**: beslutar om nya lagar oftast tillsammans med Europaparlamentet. EU-länder deltar med en minister var i EU:s ministerråd.
 * **Europaparlamentet**: beslutar om nya lagar oftast tillsammans med ministerrådet. Utses av EU-ländernas medborgare via direktval (det vi valde till 26 maj). Ungefär som Sveriges riksdag.
@@ -28,7 +27,6 @@ Borttaget då det ej är uppdaterat.
 * **EU-domstolen**: dömer i tvister mellan EU:s institutioner och medlemsländer. Tolkar EU:s lagar.
 * **Europeiska revisionsrätten**: kontrollerar att EU:s pengar används på rätt sätt
 * **Europeiska centralbanken**: sköter penningpolitik för länder som infört euron (som vår centralbank).
-
 
 ## Länkar
 

@@ -8,9 +8,10 @@ weight: 0
 Sida 131 - 192 i boken.
 
 ## Begreppslista
+
 * **Tordesillasfördraget**: slöts mellan Portugal och Spanien år 1494, bestämde vilka nya upptäckter som skulle tillfalla respektive land.
 * **Aztekerna**: en av två, indiankultur, fanns när Europeérna upptäckte Amerika. Värderade konst och vetenskap men saknade teknisk utveckling (t.ex. var hjulet ej uppfunnet samt att de inte hade upptäckt framställning av järn).
-* **Inkafolket**: den andra av två, indiankultur, fanns när Europeérna upptäckte Amerika. 
+* **Inkafolket**: den andra av två, indiankultur, fanns när Europeérna upptäckte Amerika.
 * **Merkantilismen**: ledande ekonomiska läran på 1500-talet. Bygger på att den ekonomiska politiken skulle stärka och berika staten på andra staters bekostnad. Ett utslag av ekonomisk nationalism.
 * **Boktryckarkonsten**: Johann Gutenberg uppfann konsten att trycka böcker i mitten av 1400-talet ("Sättare" satte spegelvända bokstäver på en platta). Ledde till kraftigt ökad tryckning av böcker, idéer kunde spridas till fler.
 * **Empiri**: erfarenhet, t.ex. datainsamling vid vetenskapliga experiment (vetenskapliga revolutionen).
@@ -19,11 +20,11 @@ Sida 131 - 192 i boken.
 * **Johannes Kepler**: assistent som tog över efter Tycho Brahes död. Bevisade att den heliocentriska världsbilden stämde samt att planeterna krestade i ellipsformade banor.
 * **Galileo Galilei**: upptäckte att Jupiter hade fyra månar, att kroppar med samma tyngd föll lika snabbt samt att rörelse pågår i all oändlighet om det inte funnits krafter som påverkar (frikion).
 * **Isaac Newton**: förklarade universum utifrån rörelse- och gravitationslagar (mekanistisk världsuppfattning). Född 1642.
-* **Protestantism**: 
+* **Protestantism**:
 * **Reformerta**:
-* **Motreformationen**: 
+* **Motreformationen**:
 * **Gustav Vasa**: första svenska kungen, blev krönt 6 juni 1523. Fri från Danmark, Sverige en nationalstat.
-* **Dackefejden**: 
+* **Dackefejden**:
 * **Westfaliska freden**: [Westfaliska freden](#westfaliska-freden) slöts efter det trettioåriga kriget, år 1648.
 * **Roskilde freden**: År 1658
 * **Räfsten**: när Karl XI inför en domstol som leder till att personerna i förmyndarregeringen får betala skadestånd och böter.
@@ -32,25 +33,26 @@ Sida 131 - 192 i boken.
 
 {{< mermaid >}}
 graph LR
-	Aktör --- Struktur
+    Aktör --- Struktur
 {{< /mermaid >}}
 
-Teorin är ett sätt att analysera orsaker och konsekvenser till en historisk händelse. Strukturer kan t.ex. vara sociala (attityd, kultur, religion), geografiska (underläge/överläge), politiska och ekonomiska system. Fungerar oftast som underliggande orsaker. 
+Teorin är ett sätt att analysera orsaker och konsekvenser till en historisk händelse. Strukturer kan t.ex. vara sociala (attityd, kultur, religion), geografiska (underläge/överläge), politiska och ekonomiska system. Fungerar oftast som underliggande orsaker.
 
 Aktörer är de personer eller grupper av personer som gör något som påverkar historien. Ofta går det att analysera på vilket sätt en aktör har utnyttjat de rådande strukturerna (t.ex. samhällsstrukturerna).
 
 ## Tidsperioder
 
 ### **Geografiska upptäckter**
+
 * Spanjorerna upptäckte Amerika 1492 (Christofer Columbus).
-	* Tog med sig teknik och t.ex. sockerrör som man upptäckte kunde odlas lätt i Amerika och Afrika.
-	* Amerika och delar av Afrika kolonialiserades, slavarbete.
-	* Många av indianerna dog i och med att de saknade immunitet mot för dem nya sjukdomar.
+  * Tog med sig teknik och t.ex. sockerrör som man upptäckte kunde odlas lätt i Amerika och Afrika.
+  * Amerika och delar av Afrika kolonialiserades, slavarbete.
+  * Många av indianerna dog i och med att de saknade immunitet mot för dem nya sjukdomar.
 * Portugal upptäckte Indien 1498, upprättade handel och kolonier.
 * Spanjorerna tog över Aztekerna 1521. Möjliga orsaker:
-	* Spanjorerna hade en militär och teknisk överlägsenhet.
-	* Flera Azteker trodde att spanjorerna var "den försvunna guden" som skulle återvända från öst ("Fjäderormen", religion).
-	* Var missnöjda med sina herrar/ledare (de med makten).
+  * Spanjorerna hade en militär och teknisk överlägsenhet.
+  * Flera Azteker trodde att spanjorerna var "den försvunna guden" som skulle återvända från öst ("Fjäderormen", religion).
+  * Var missnöjda med sina herrar/ledare (de med makten).
 * Inkafolket intogs 10 år senare av spanjorerna, rövade massor med guld och silver.
 
 Europas erövring av Amerika ledde till ökad fjärrhandel och starkare ekonomi. Handeln med länderna vid medelhavet minskade.
@@ -62,58 +64,71 @@ Boktryckarkonsten uppfanns under mitten av 1400-talet.
 #### **Den vetenskapliga revolutionen**
 
 ##### **Copernicus och Vesalius**
-På 1540-talet skrev Copernicus en bok som motsade den geocentriska världsbilden (där jorden var i centrum) och istället hävdade att jorden kretsade runt solen (en heliocentrisk världsbild). Under ungefär samma tid publicerade läkaren Vesalius en bok om människans uppbyggnad. Han kom fram till att antikens beskrivning av människan var mestadels felaktig. Copernicus och Vesalius skulle komma att bidra till ett nytt sätt att se på världen som utvecklades på 1500- och 1600-talen, det vi kallas för den vetenskapliga revolutionen (en frigörelse från kyrkans grepp och Aristoteles). 
+
+På 1540-talet skrev Copernicus en bok som motsade den geocentriska världsbilden (där jorden var i centrum) och istället hävdade att jorden kretsade runt solen (en heliocentrisk världsbild). Under ungefär samma tid publicerade läkaren Vesalius en bok om människans uppbyggnad. Han kom fram till att antikens beskrivning av människan var mestadels felaktig. Copernicus och Vesalius skulle komma att bidra till ett nytt sätt att se på världen som utvecklades på 1500- och 1600-talen, det vi kallas för den vetenskapliga revolutionen (en frigörelse från kyrkans grepp och Aristoteles).
 
 ##### **William Harvery**
+
 William Harvery upptäckte på 1600-talet att blodet inte rörde sig fram och tillbaka, utan i ett cirkulerande kretslopp. 1600-talets främsta medicinska upptäckt.
 
 ##### **Tycho Brahe**
+
 Dansken Tycho Brahe upptäckte år 1572 att himlasfären inte var oföränderlig, skapade en kompromiss mellan den geocentriska och heliocentriska världsbilden. Hans assistent, Johannes Kepler, kunde efter Brahes död bevisa att den heliocentriska världsbilden stämde och att planterna kretsade i ellipsformade banor. Desvärre fick han ingen vidare uppmärksamhet för sina upptäckter.
 
 ##### **Galileo Galilei**
+
 Galileo Galilei upptäckte år 1610 att jupiter hade fyra månar. Enligt den kristna tron var det gud som skapat jordens måne för människorna. Hur kan det då komma sig att jupiter hade fyra månar? I Rom dömdes Gelilei till att "avstå från att undervisa". Det struntade han i och gav ändå ut en bok som handlade om den heliocentriska världsbilden vilket ledde till att han placerades i husarrest av den katolska kyrkan. Trots sina motgångar bidrog Galilei till rörelseläran, genom att bevisa att kroppar av olika tyngd faller lika snabbt samt att rörelsetillståndet var lika naturligt som vila (utan krafter som påverkar, friktion, bevisade Galilei att en kropp skulle röra sig i all oändlighet).
 
 ##### **Isaac Newton**
+
 Isaac Newton (född 1642) var en brittisk professor som förklarade universum utifrån rörelse- och gravitationslagar (kallas en mekanistisk världsuppfattning). Bl.a. förklarade han de förut oförklarliga ellipsformade planetbanorna som en naturlig följd av gravitationen.
 
 #### **Renässansen**
+
 Renässansen är den tidsperiod som pågick mellan 1300- och 1500-talet. Renässansen var menad att vara en återfödelse av den kulturella antiken för att rasera "den mörka medeltiden". Under renässansen tog man avstånd från medeltidens människosynd (där fokus var på litenhet och synder). Idag ses renässansen som en tid för arkitektur, konst och litteratur.
 
 ##### **Kända verk från renässanskulturen**
+
 * **Filippo Brunelleschi**, "hittebarnshuset"
 * **Paolo Uccello**, "striden vid San Romano"
 * **Leonardo da Vinci**, "Nattvarden"
 * **Michelangelo**, "David"
 
 ### **Reformationen**
-Reformationen började år 1517 då Martin Luther spikade upp ett plakat med 95 punkter som kritiserade den katolska kyrkan. Till exempel så tyckte Luther att endast bibeln var vägen till frälsning, kyrkan skulle inte hitta på egna regler (s.k. dogmer). Dessutom tyckte Luther att bibeln bör kunna läsas av alla (bibeln översattes till tyska). 
+
+Reformationen började år 1517 då Martin Luther spikade upp ett plakat med 95 punkter som kritiserade den katolska kyrkan. Till exempel så tyckte Luther att endast bibeln var vägen till frälsning, kyrkan skulle inte hitta på egna regler (s.k. dogmer). Dessutom tyckte Luther att bibeln bör kunna läsas av alla (bibeln översattes till tyska).
 
 Innan reformationen var den framförallt påven i Rom som kontrollerade kyrkostaten. Kungarna utmanade den katolska kyrkan som en världslig makt på 1400-talet. Detta bidrog till att utrymme för att ifrågasätta fanns. Bidrog även till andlig kris, folk inom kyrkan tyckte att man gått vilse.
 
 I och med att Luthers lära innebar att t.ex. furstar skulle få mer makt där kyrkan tidigare haft stor kontroll var det många furstar i Tyskland som hjälpte Luther.
 
 ### **Starkare stater och enväldiga kungar**
+
 Över hela Europa blir staterna starkare, kungarna får mer makt (blir mer enväldiga). Detta framförallt för att makten som tidigare låg hos kyrkan flyttades mer över till kungen/kronan tack vare reformationen och den lutherska läran. Makten blir centraliserad. Detta skedde på 1500- 1600-talet.
 
 ### **Den svenska nationalstatens födelse**
+
 Gustav Vasa tog makten i Sverige år 1523 (blev kung 6 juni) och det stod därmed klart att han segrat över den danske unionskungen.
 
 * **Sverige blir lutherskt** - Reformationen pågick i Sverige samtidigt som Vasa blev kung. Kyrkan skulle bidra till statens inkomster. Den lutherska läran innebär helt enkelt att staten fick mer pengar och makt, vilket Gustav Vasa tyckte om.
 * **Effektivare skatteindrivning** - Upprättade böcker som visade hur mycket varje enskild gård skulle betala i skatt istället för varje by. Fogdar skötte indrivning och kom varje år till Stockholm för att redovisa sina räkenskaper.
 
 #### **Bondeuppror och dackefejden**
-Vasa hade haft bönderna på sin sida när han tog makten, då flera var missnödja med den danske kungen. Men i och med de höjda skatterna tappade han anhängare bland bönderna. Detta ledde till att flera bönder gjorde uppror. Under 10 år kunde Vasa hålla bönderna i schack med hjälp av förhandlingar, propaganda och hårda straff. 
+
+Vasa hade haft bönderna på sin sida när han tog makten, då flera var missnödja med den danske kungen. Men i och med de höjda skatterna tappade han anhängare bland bönderna. Detta ledde till att flera bönder gjorde uppror. Under 10 år kunde Vasa hålla bönderna i schack med hjälp av förhandlingar, propaganda och hårda straff.
 
 Dackefejden är ett känt fall där småländska bönder reste sig mot kungen under ledning av Nils Dacke på 1540-talet. Smålänningarna var missnöjda med skattepolitiken och med den nya religionen. Nils Dacke och hela hans släkt dödades, smålänningarna straffades med dyra böter, ledarna avrättades och upprorsmän förvisades till Finland.
 
 #### **Vasasönerna**
+
 * Erik XIV - blev kung 1560 efter Vasas död, började med att förminska makten hos sina halvbröder.
 * Johan III - tar makten av Erik, slänger honom i fängelse
-	* Sigismund - sonson
+  * Sigismund - sonson
 * Karl IX - tar makten från Sigismund (som hade Johan III som pappa och en från polen som mamma)
-	* Gustav II Adolf - sonson och efter honom kommer drottning Kristina
+  * Gustav II Adolf - sonson och efter honom kommer drottning Kristina
 
 ### **Det trettioåriga kriget**
+
 Det trettioåriga kriget bröt ut i Tyskland år 1618 då en skara protestanter kastade ut två kejserliga ståthållare genom ett fönster i slottet i Prag.
 
 Det trettioåriga kriget kan delas in i tre delar:
@@ -125,6 +140,7 @@ Det trettioåriga kriget kan delas in i tre delar:
 Många dog i det trettioåriga kriget. Den tyska befolkningen minskade från 17 miljoner till 10 miljoner. Det var inte bara själva krigandet som ledde till död, utan även hungersnöd och pesten bidrog.
 
 #### **Westfaliska freden**
+
 Efter trettio års krigande slöts den Westfaliska freden i Münster och Osnabrück.
 
 * **Kejsarens makt inskränktes** - endast verklig makt i Böhmen, Österrike och Ungern. Det tysk-romerska riket delades upp i 300 furstendömen.
@@ -133,9 +149,11 @@ Efter trettio års krigande slöts den Westfaliska freden i Münster och Osnabr�
 * **Sverige** - Sverige fick landområden i norra Tyskland
 
 ### **Svenska stormaktstiden**
+
 Den svenska stormaktstiden varade mellan år 1561 (Estland kom under den svenska kronan) och år 1721 (freden slöts efter Karl XII:s död).
 
 #### **Sverige och det trettoåriga kriget**
+
 Gustav II Adolf tog över en flod i norra Tyskland år 1630. År 1631 slöts ett fördrag mellan Sverige och katolska Frankrike att Sverige skulle för 400 000 riksdaler (årligen) ha 36 000 man i Tyskland för att strida mot de kejserliga trupperna. Gustav II Adolf besegrade de kejserliga trupperna samma år. År 1632 dog Gustav II Adolf, men Sverige forsatte kriga vilket slutade med att Sverige fick starka positioner i norra Tyskland (vid flodar).
 
 Hur hade Sverige råd att delta i krig?
@@ -154,6 +172,7 @@ Varför ingrep Sverige i det trettioåriga kriget? Här är ett par möjliga sva
 * Sverige ville utvidga sin politiska och ekonomiska makt.
 
 #### **Drottning Kristina**
+
 Efter Gustav II Adolfs död var det den 6 årige dottern Kristina som skulle ta över. Eftersom hon var för ung blev det en förmyndarregering som styde i Sverige, bland andra hade Axel Oxenstierna mycket makt under denna tid.
 
 Sverige blev nordens ledande makt. Tog över Gotland, Härjedalen, Jämtland, Ösel och Halland på 30 år.
@@ -161,16 +180,17 @@ Sverige blev nordens ledande makt. Tog över Gotland, Härjedalen, Jämtland, Ö
 När drottning Kristina blir myndig tar hon över makten och ger ut donationer till adelsmän som deltagit under kriget. Försökte skapa en motvikt mot Oxenstiernorna, vilket ledde till att adeln ökade sina jordegendomar. Abdikerade år 1654 och övergick till katolicismen i Rom (och dog sedan 1689). Hennes övergång var chokerande, hennes far hade ju kämpat mot katolicismen.
 
 #### **Den karolinska tiden**
+
 Tiden när tre kungar (Karl X Gustav, Karl XI och Karl XII) regerade kallas för den karolinska tiden (1654 - 1718).
 
 ##### **Karl X Gustav**
 
 * Anfall mot Polen, 1650-tal.
 * Danmark förklarade krig. Via Polen och norra Tyskland attackerade Karl X Gustav Danmark, vilket ledde till danskarnas tvingade fred år 1658.
-* Genom freden, roskildefreden, fick Sverige Skåne, Halland, Blekinge, Bornholm, Bohuslän och Trondheims län. Danska riket förlorade ⅓ av sitt territorium. 
+* Genom freden, roskildefreden, fick Sverige Skåne, Halland, Blekinge, Bornholm, Bohuslän och Trondheims län. Danska riket förlorade ⅓ av sitt territorium.
 * Sommaren 1658 och Karl X Gustav ville åtwer attackera Danmark. Sverige förlorade då Danmark fick hjälp av Holland.
 * Karl Gustav avled 1660, mitt under kriget.
-* Förmyndarregeringen slöt fred och lämnade tillbaka Bornholm och Trondheim. 
+* Förmyndarregeringen slöt fred och lämnade tillbaka Bornholm och Trondheim.
 
 ##### **Karl XI**
 

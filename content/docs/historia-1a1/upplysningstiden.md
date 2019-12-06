@@ -8,6 +8,7 @@ weight: 1
 Sida 185-193 (upplysningstiden), 239-253 (amerikanska och franska revolutionen).
 
 ## **Begreppslista**
+
 * **Empirism**: Uppfattningen att grunden för allt vetande är erfarenhet.
 * **Utilismen**: Upplysningsidéerna, nyttighetsdyrkan, ville göra vetenskapliga framsteg som gynnade många.
 * **Tolerans**: Upplysningsidéerna, religiös tolerans, rätten att fritt få ha religiösa och politiska åsikter.
@@ -50,7 +51,7 @@ Flera upplysningstänkare nekade inte guds existens, trots förkastningen av fle
 
 ##### **Natursvärmeri och Rousseau**
 
-Natursvärmeri var tankar som kretsade samtidigt som upplysningsidéerna. Det handlade framförallt om att leva med naturen, 
+Natursvärmeri var tankar som kretsade samtidigt som upplysningsidéerna. Det handlade framförallt om att leva med naturen.
 
 Rousseau var den främsta profeten för natursvärmeri, satte naturen i motsats till kulturen. Förespråkade fri pedagogik utan regler, metodiken "learning by doing". Menade att kvinnor och män skulle lära sig olika saker.
 

@@ -26,6 +26,7 @@ title: Samhällsekonomi
 * **Efterfrågan** - frågar efter det som bjuds ut
 
 ### Exempel på marknader
+
 1. varumarknaden
 2. tjänstemarknaden
 3. arbetsmarknaden
@@ -79,21 +80,22 @@ title: Samhällsekonomi
 * I Sverige: Posten är inte längre monopol (Bring, citymail), SJ är inte längre monopol, SVT är inte monopol längre. Förändringar har skett.
 
 ### Oligopol - fåtalskonkurrens, litet antal företag dominerar
+
 1. Banker: SEB, Handelsbanken, Nordea och Swedbank dominerar
 2. Försäkringar: Skandia, Folksam, Trygg-Hansa, Länsförsäkringar
 
 * **Monopolistisk konkurrens** - Många säljare som betonar plusvärden. Svår att förklara. Man försöker få konsumenter att föredra ett visst märke och på så sätt ignorerar konsumenterna priserna.
 * **Fri (fullständig) konkurrens** - idealet i marknadsekonomin: utbud och efterfrågan bestämmer helt priserna. Förutsättningar till detta är dock:
-    * Aktörer ska vara många, alltså inte att ett enskilt företag kan påverka priset
-    * Likartade varor ska produceras för att köpare inte ska uppfatta en skillnad
-    * Fritt tillträde till marknaden
-    * Inget konkurrensbegränsande samarbete
-    * Fullständig information om marknadens priser
-* **Prisbildning** - pris i Y-axeln, mängd i X-axeln. Där E (totala efterfrågan) möter U (utbudet) skapas P (jämviktspriset). 
+  * Aktörer ska vara många, alltså inte att ett enskilt företag kan påverka priset
+  * Likartade varor ska produceras för att köpare inte ska uppfatta en skillnad
+  * Fritt tillträde till marknaden
+  * Inget konkurrensbegränsande samarbete
+  * Fullständig information om marknadens priser
+* **Prisbildning** - pris i Y-axeln, mängd i X-axeln. Där E (totala efterfrågan) möter U (utbudet) skapas P (jämviktspriset).
 * **Priskrig**
 
 ### Kreditinstitut
-    
+
 1. Riksbanken - bankernas bank,
 * De traditionella bankerna - SEB, Handelsbanken, Nordea och Swedbank
 * Nischbanker - IKANO bank, Collector Bank osv.
@@ -108,8 +110,8 @@ title: Samhällsekonomi
 * **Depression** - djupa lågkonjunkturer
 * **Recession** - lindrigare lågkonjunkturer
 * **Konjunkturbarometer** - olika sätt att mäta konjunktur på
-    * *I lågkonjunkturer utnyttjas inte resurserna fullt ut*
-    * *I högkonjunkturer utnyttjas resurserna för fullt*
+  * *I lågkonjunkturer utnyttjas inte resurserna fullt ut*
+  * *I högkonjunkturer utnyttjas resurserna för fullt*
 * **löne-pris-spiralen** - höjda löner blir höjda priser, bidrar till inflation i en högkonjunktur
 * **stagnation, stagflation** - när ett land är i lågkonjunktur OCH inflation på samma gång
 * **Avtappningar** - när företagen och hushållen lämnar ifrån sig pengar
