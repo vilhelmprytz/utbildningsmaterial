@@ -82,7 +82,7 @@ title: Samhällsekonomi
 ### Oligopol - fåtalskonkurrens, litet antal företag dominerar
 
 1. Banker: SEB, Handelsbanken, Nordea och Swedbank dominerar
-2. Försäkringar: Skandia, Folksam, Trygg-Hansa, Länsförsäkringar
+1. Försäkringar: Skandia, Folksam, Trygg-Hansa, Länsförsäkringar
 
 * **Monopolistisk konkurrens** - Många säljare som betonar plusvärden. Svår att förklara. Man försöker få konsumenter att föredra ett visst märke och på så sätt ignorerar konsumenterna priserna.
 * **Fri (fullständig) konkurrens** - idealet i marknadsekonomin: utbud och efterfrågan bestämmer helt priserna. Förutsättningar till detta är dock:
