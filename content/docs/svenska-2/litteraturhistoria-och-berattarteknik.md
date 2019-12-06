@@ -13,7 +13,7 @@ title: Litteraturhistoria och berättarteknik
 * **Epos**: en lång berättande text som är skriven på vers, alltså efter ett visst mönster (rytm). En epos är en subgenre till epiken.
 * **Tragedi**: en tragedi är en allvarlig och ibland brutal form av teater. En tragedi slutar aldrig lyckligt.
 * **Hybris, kattharsis, nemesis**: under antiken. Om man trotsade gudarna visade man hybris (övermod, tro för mycket om sin egen förmåga) vilket ledde till fruktansvärda straff. Katharsis är ett grekiskt ord som betyder rening. Nemesis är hämndens gudinna, hämnas människors oförrätter.
-* **Rapsoder**: en kringvandrande profesionell sångare/recitatör, berättelser och poesi (Homeros var en rapsod).
+* **Rapsoder**: en kringvandrande professionell sångare/recitatör, berättelser och poesi (Homeros var en rapsod).
 * **Odysseén**: en epos skriven av Homeros under antiken, baserad på berättelser om grekisk mytologi (gudar och religion).
 * **Sapfo**: antikens främsta lyriker.
 * **Feodalism**: när en godsherre (en som äger jordegendomar) ger bort jord till dem som med häst och rustning försvarar hans ägor.
@@ -37,7 +37,7 @@ Under antiken framfördes lyriken framförallt i form av en ensam sångare. Det 
 
 ##### **Antikens dramatik**
 
-En berättelse framförd på scen inför ögonen på en publik uppstod i den grekiska stadsstaten Athen. Till skillnad från det romerska dramat hade det grekiska dramat en stark koppling till religion (religiösa berättelser som dramatiserades).
+En berättelse framförd på scen inför ögonen på en publik uppstod i den grekiska stadsstaten Aten Till skillnad från det romerska dramat hade det grekiska dramat en stark koppling till religion (religiösa berättelser som dramatiserades).
 
 ##### **Odysseén**
 
@@ -59,7 +59,7 @@ Teatern blev en viktig del av gudstjänsten under medeltiden. I och med kristend
 
 ##### **Medeltidens världsbild**
 
-Medeltidens världsbild var dualistisk. Människans själ drog henne mot gud och hennes kropp drog henne ner till djuren. Alltså skulle kroppen straffas (vanligt att munkar och nunor ägnade sig åt kroppslig självtortyr).
+Medeltidens världsbild var dualistisk. Människans själ drog henne mot gud och hennes kropp drog henne ner till djuren. Alltså skulle kroppen straffas (vanligt att munkar och nunnor ägnade sig åt kroppslig självtortyr).
 
 ##### **Feodalismen konsekvenser**
 
@@ -123,7 +123,7 @@ Den allvetande berättaren vet allt, ser allt och hör allt. Den vet vad alla ka
 
 Läsaren får lära känna karaktärerna som om en "fluga på väggen" hade återberättat vad den såg. Den återberättar främst karaktärens handlingar. Berättaren vet inget om deras känslor och tanker. Detta gör att det är väldigt avskalat, läsaren måste själv fylla i det som saknas och bilda sig en uppfattning om karaktärerna via deras handlingar (läsa mellan raderna).
 
-Detta sätt att berätta kallas för **isbergsteknik**. Isbergstekniken uvecklades från de isländska sagorna och användes i modern tid av bl.a. Hemingway.
+Detta sätt att berätta kallas för **isbergsteknik**. Isbergstekniken utvecklades från de isländska sagorna och användes i modern tid av bl.a. Hemingway.
 
 ##### **Exempel på "Flugan på väggen" berättare**
 
