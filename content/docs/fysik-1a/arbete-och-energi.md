@@ -179,7 +179,7 @@ e = \frac{v_{B2} - v_{A2}}{v_{A1} - v_{B1}}
 \text{studskoefficient}
 \\ v_{A1} \text{ och } v_{B1} \text{ är hastigheterna före stöten}
 \\ v_{A2} \text{ och } v_{B2} \text{ är hastigheterna efter stöten}
-\\ \text{oelastisk stöt } e = 0 
+\\ \text{oelastisk stöt } e = 0
 \\ \text{ fullständig elastisk stöt } e = 1
 {{< /katex >}}
 {{< /columns >}}

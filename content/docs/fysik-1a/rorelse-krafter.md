@@ -8,6 +8,7 @@ weight: 1
 ## Begreppslista
 
 ### Krafter
+
 * **Gravitationsaccelerationen**: I Sverige: 9,82 m/s²
 * **Gravitationskraft/tyngdkraft**: beskriver hur förmål med massa påverkar varandra.  Beräknas med hjälp av F = m * g (där g är gravitationsaccelerationen).
 * **Friktionskraft**: är den kraft som motverkar en rörelse mellan två ytor.
@@ -16,6 +17,7 @@ weight: 1
 * **Jämvikt**
 
 ### Typer av diagram
+
 * **Sträcka-tid-diagram**: sträcka (s) i y-axeln, tid i x-axeln i ett diagram.
 * **Hastighet-tid-diagram**: hastighet (v) i y-axeln, tid i x-axeln i ett diagram.
 * **Acceleration-tid-diagram**: acceleration (a) i y-axeln, tid i x-axeln i ett diagram.
@@ -167,6 +169,7 @@ F_f \text{ är friktionskraften vid fullt}
 {{< /columns >}}
 
 ### Hookes lag
+
 {{< columns >}}
 {{< katex >}}
 F = k * \Delta l
@@ -178,7 +181,6 @@ F \text{ är sträckkraften}
 \\k \text{ är fjäderkonstanten}
 {{< /katex >}}
 {{< /columns >}}
-
 
 ## Newtons kraftlagar
 
