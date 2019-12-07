@@ -37,7 +37,7 @@ Detta skapade en övertygan om att det inte fanns någon gräns för förnuftet 
 
 ##### **Naturrätt och tolerans**
 
-Antik filosofi och kristendom hade hävdat att människan har "natuliga rättigheter". Denna idé utvecklades av upplysningsfilosoferna till det som kallas för naturätt. Alla människor föds fria och lika, alla har rätt till liv, frihet och egendom. Slaveri, livsegenskap och tortyr krisiterades som förhörsmetod och straff.
+Antik filosofi och kristendom hade hävdat att människan har "naturliga rättigheter". Denna idé utvecklades av upplysningsfilosoferna till det som kallas för naturätt. Alla människor föds fria och lika, alla har rätt till liv, frihet och egendom. Slaveri, livsegenskap och tortyr kritiserades som förhörsmetod och straff.
 
 Upplysningens förespråkare engagerade sig i kampen för religiös tolerans, att fritt förkunna religiösa och politiska åsikter. Man såg kritiskt på kyrkan. Franske filosofen *Voltaire* sa "krossa den skändliga!" om den katolska kyrkan (Voltaire menade att präster och munkar var skojare som lurade folket).
 
@@ -58,7 +58,7 @@ Rousseau var den främsta profeten för natursvärmeri, satte naturen i motsats 
 ##### **Hur ska en stat styras?**
 
 * **Maktdelning**: Montesquieu fick inspiration från England och menade att makten skulle delas på tre statsorgan. Regenten med den *verkställande makten*, parlamentet med den *lagstiftande makten* och självständiga domstolar med den *dömande makten*.
-* **Upplyst despoti**: Voltaire menade att en upplyst enväldig kung (fursten) skulle styra. Fursten skulle genomföra reformer som var till nytta för landet och befolkningen. Ett parlament med begränsad motmakt skulle finnas, men inget folkstyre överhuvudtaget.
+* **Upplyst despot**: Voltaire menade att en upplyst enväldig kung (fursten) skulle styra. Fursten skulle genomföra reformer som var till nytta för landet och befolkningen. Ett parlament med begränsad motmakt skulle finnas, men inget folkstyre överhuvudtaget.
 * **Direktdemokrati**: Ett samhällskontrakt mellan fursten och folket. Makten alltid hos folket. Parlamentet, kungen och tjänstemännen skulle endast verkställa folkets vilja. Tillämpades i små stater, t.ex. Genève. Tankar om folkviljans makt vart viktig under franska revolutionen.
 
 #### **Hur spreds upplysningsidéerna?**
@@ -77,7 +77,7 @@ Britternas hårdnande politik ledde till opposition mot Storbritannien bland kol
 
 #### **Självständighetsförklaringen**
 
-Mitt under kriet, den 4 juli år 1776, samlades representanter för 13 kolonier och förklarade sig självständiga. Menade att den engelska kungen begått en rad brott (sade upp sitt kontrakt med den brittiska kronan). Upplysningstankarna ligger till grund, t.ex. "att alla människor är skapade lika". Ärkefiender till Storbritannien (Frankrike och Spanien) hjälpte kolonisterna. År 1783 tvingades Storbritannien erkänna de 13 kolonierna självständiga.
+Mitt under kriget, den 4 juli år 1776, samlades representanter för 13 kolonier och förklarade sig självständiga. Menade att den engelska kungen begått en rad brott (sade upp sitt kontrakt med den brittiska kronan). Upplysningstankarna ligger till grund, t.ex. "att alla människor är skapade lika". Ärkefiender till Storbritannien (Frankrike och Spanien) hjälpte kolonisterna. År 1783 tvingades Storbritannien erkänna de 13 kolonierna självständiga.
 
 #### **USA:s författning**
 
@@ -101,11 +101,14 @@ Den franska statens kassakista var tom. Kung Ludvig XVI samlade därför de samm
 
 * Nästan endast bönder som betalade skatt. Irriterades av gamla rättigheter som godsherrar hade.
 * Nästan bara adelsmän kunde få höge tjänster (officerare, biskopar, guvernörer etc.), svårt för "den ofrälse" att få makt i samhället.
+
+##### **Ideologiska**
+
 * Läkare, jurister, tidningsmän och lärare (borgare i tredje ståndet), folk som kände till upplysningens idéer, använde sig av dessa för att angripa de kungliga enväldet och kyrkans privilegier.
 
 #### **Revolutionens utbrott**
 
-Ett dödläga i Versailles: tredje ståndets 600 medlemmar krävde att varje enskild medlem hade en röst. De övriga två stånden, med 300 medlemmar vardera, krävde en röst per stånd. Adeln och prästerna ville kunna rösta ned det tredje ståndet.
+Ett dödläge i Versailles: tredje ståndets 600 medlemmar krävde att varje enskild medlem hade en röst. De övriga två stånden, med 300 medlemmar vardera, krävde en röst per stånd. Adeln och prästerna ville kunna rösta ned det tredje ståndet.
 
 ##### **Eden i Bollhuset och Nationalförsamlingen**
 
@@ -121,15 +124,15 @@ Den 14 juli 1789 stormade folkmassor in i fästningen *Bastiljen* i jakt på vap
 
 ##### **Ökad oro**
 
-Oron ökade och spred sig. Bönder brände akriv där skatte och dagverk fanns antecknade. De första skrämda adelsmännen började lämna landet.
+Oron ökade och spred sig. Bönder brände arkiv där skatte och dagverk fanns antecknade. De första skrämda adelsmännen började lämna landet.
 
 Den 4-5 augusti avsade sig flera adelsmän sina titlar, andra följde efter kort därefter.
 
-##### **Mänskliga rättigheter och upplysninens idéer**
+##### **Mänskliga rättigheter och upplysningens idéer**
 
-Alla skulle vara lika inför lagen, beskattas lika och ha samma rätt till tjänster. "Frihet, jämlikhet och broderskap" var slagorden. Adliga privilegier avförskaffades och Nationalförsamlingen antog en deklaration om mänskliga rättighete (makten utifrån folket, rätten att äga egendom).
+Alla skulle vara lika inför lagen, beskattas lika och ha samma rätt till tjänster. "Frihet, jämlikhet och broderskap" var slagorden. Adliga privilegier avförskaffades och Nationalförsamlingen antog en deklaration om mänskliga rättigheter (makten utifrån folket, rätten att äga egendom).
 
-Idén om människors rättigheter är starkt insipirerad från amerikanska revolutionen i nordamerika. Upplysningens idéer genomsyrar rättighetsförklaringen i både Amerika och Frankrike.
+Idén om människors rättigheter är starkt inspirerad från amerikanska revolutionen i nordamerika. Upplysningens idéer genomsyrar rättighetsförklaringen i både Amerika och Frankrike.
 
 Alla titlar togs bort, endast tilltalsordet "medborgare" gällde.
 
@@ -137,7 +140,7 @@ Kungen skrev under dessa beslut mycket senare, i oktober.
 
 ##### **Ökad oro och protester i Paris**
 
-Att brödpriserna sitigt ytterligare i kombination med att kungen drog samman fler trupper till Paris ledde till ytterligare ökad oro.
+Att brödpriserna stigit ytterligare i kombination med att kungen drog samman fler trupper till Paris ledde till ytterligare ökad oro.
 
 Den 5 oktober beväpnade sig tusentals kvinnor (tvätterskor, bagerskor, pigor, torgförsäljeskor och andra) och tågade väg i protest.
 
@@ -153,7 +156,7 @@ De upptäcktes och flyttades tillbaka som fångar i Tuilerierna.
 
 En ny stadstyrelse, kallat *kommunen* tog över i Paris och gjorde en ny författning som ytterligare minskade kungens makt och som gynnade borgerskapet (mer rösträtt till folket).
 
-De politiska begreppn "vänster" och "höger" kommer från franska revolutionen (de mer radikala satt till vänster om talmannen och de mer konservativa satt till höger).
+De politiska begreppen "vänster" och "höger" kommer från franska revolutionen (de mer radikala satt till vänster om talmannen och de mer konservativa satt till höger).
 
 #### **Den andra revolutionen**
 
@@ -169,7 +172,7 @@ Tog fart igen 1792.
 * Allmän värnplikt för att sprida revolutionens idéer (efter något år bestod den franska armén av 1 miljon man).
 * Oro - höjda matpriser, rädda för österrikarna och preussarna.
 * Hösten 1792 - kommunen avskaffar kungadömet och inför republik.
-* Januari 1793 - Kung Ludvig XVI halshöggs, på hösten halshöggs Mario Antoinette (giljotin).
+* Januari 1793 - Kung Ludvig XVI halshöggs, på hösten halshöggs Marie Antoinette (giljotin).
 * Ny riksdag - allmän rösträtt för män.
 * Riksdagen 1793 - "välfärdsutskottet", krossa motrevolutionen.
 * Robespierre - en ledare, påverkad av Rousseaus idéer om allmänviljan.

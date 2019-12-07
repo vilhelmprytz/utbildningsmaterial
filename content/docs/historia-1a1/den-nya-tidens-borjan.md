@@ -10,15 +10,15 @@ Sida 131 - 192 i boken.
 ## Begreppslista
 
 * **Tordesillasfördraget**: slöts mellan Portugal och Spanien år 1494, bestämde vilka nya upptäckter som skulle tillfalla respektive land.
-* **Aztekerna**: en av två, indiankultur, fanns när Europeérna upptäckte Amerika. Värderade konst och vetenskap men saknade teknisk utveckling (t.ex. var hjulet ej uppfunnet samt att de inte hade upptäckt framställning av järn).
-* **Inkafolket**: den andra av två, indiankultur, fanns när Europeérna upptäckte Amerika.
+* **Aztekerna**: en av två, indiankultur, fanns när Européerna upptäckte Amerika. Värderade konst och vetenskap men saknade teknisk utveckling (t.ex. var hjulet ej uppfunnet samt att de inte hade upptäckt framställning av järn).
+* **Inkafolket**: den andra av två, indiankultur, fanns när Européerna upptäckte Amerika.
 * **Merkantilismen**: ledande ekonomiska läran på 1500-talet. Bygger på att den ekonomiska politiken skulle stärka och berika staten på andra staters bekostnad. Ett utslag av ekonomisk nationalism.
 * **Boktryckarkonsten**: Johann Gutenberg uppfann konsten att trycka böcker i mitten av 1400-talet ("Sättare" satte spegelvända bokstäver på en platta). Ledde till kraftigt ökad tryckning av böcker, idéer kunde spridas till fler.
 * **Empiri**: erfarenhet, t.ex. datainsamling vid vetenskapliga experiment (vetenskapliga revolutionen).
 * **Copernicus och Vesalius**: två författare på 1500-talet som kom att bidra till att starta den [vetenskapliga revolutionen](#den-vetenskapliga-revolutionen).
 * **Tycho Brahe**: Dansk som år 1572 upptäckte att himlasfären inte var oföränderlig. Skapad en kompromiss mellan den geocentriska och heliocentriska världsbilden.
-* **Johannes Kepler**: assistent som tog över efter Tycho Brahes död. Bevisade att den heliocentriska världsbilden stämde samt att planeterna krestade i ellipsformade banor.
-* **Galileo Galilei**: upptäckte att Jupiter hade fyra månar, att kroppar med samma tyngd föll lika snabbt samt att rörelse pågår i all oändlighet om det inte funnits krafter som påverkar (frikion).
+* **Johannes Kepler**: assistent som tog över efter Tycho Brahes död. Bevisade att den heliocentriska världsbilden stämde samt att planeterna kretsade i ellipsformade banor.
+* **Galileo Galilei**: upptäckte att Jupiter hade fyra månar, att kroppar med samma tyngd föll lika snabbt samt att rörelse pågår i all oändlighet om det inte funnits krafter som påverkar (friktion).
 * **Isaac Newton**: förklarade universum utifrån rörelse- och gravitationslagar (mekanistisk världsuppfattning). Född 1642.
 * **Protestantism**:
 * **Reformerta**:
@@ -73,11 +73,11 @@ William Harvery upptäckte på 1600-talet att blodet inte rörde sig fram och ti
 
 ##### **Tycho Brahe**
 
-Dansken Tycho Brahe upptäckte år 1572 att himlasfären inte var oföränderlig, skapade en kompromiss mellan den geocentriska och heliocentriska världsbilden. Hans assistent, Johannes Kepler, kunde efter Brahes död bevisa att den heliocentriska världsbilden stämde och att planterna kretsade i ellipsformade banor. Desvärre fick han ingen vidare uppmärksamhet för sina upptäckter.
+Dansken Tycho Brahe upptäckte år 1572 att himlasfären inte var oföränderlig, skapade en kompromiss mellan den geocentriska och heliocentriska världsbilden. Hans assistent, Johannes Kepler, kunde efter Brahes död bevisa att den heliocentriska världsbilden stämde och att planeterna kretsade i ellipsformade banor. Dessvärre fick han ingen vidare uppmärksamhet för sina upptäckter.
 
 ##### **Galileo Galilei**
 
-Galileo Galilei upptäckte år 1610 att jupiter hade fyra månar. Enligt den kristna tron var det gud som skapat jordens måne för människorna. Hur kan det då komma sig att jupiter hade fyra månar? I Rom dömdes Gelilei till att "avstå från att undervisa". Det struntade han i och gav ändå ut en bok som handlade om den heliocentriska världsbilden vilket ledde till att han placerades i husarrest av den katolska kyrkan. Trots sina motgångar bidrog Galilei till rörelseläran, genom att bevisa att kroppar av olika tyngd faller lika snabbt samt att rörelsetillståndet var lika naturligt som vila (utan krafter som påverkar, friktion, bevisade Galilei att en kropp skulle röra sig i all oändlighet).
+Galileo Galilei upptäckte år 1610 att Jupiter hade fyra månar. Enligt den kristna tron var det gud som skapat jordens måne för människorna. Hur kan det då komma sig att Jupiter hade fyra månar? I Rom dömdes Gelilei till att "avstå från att undervisa". Det struntade han i och gav ändå ut en bok som handlade om den heliocentriska världsbilden vilket ledde till att han placerades i husarrest av den katolska kyrkan. Trots sina motgångar bidrog Galilei till rörelseläran, genom att bevisa att kroppar av olika tyngd faller lika snabbt samt att rörelsetillståndet var lika naturligt som vila (utan krafter som påverkar, friktion, bevisade Galilei att en kropp skulle röra sig i all oändlighet).
 
 ##### **Isaac Newton**
 
@@ -115,7 +115,7 @@ Gustav Vasa tog makten i Sverige år 1523 (blev kung 6 juni) och det stod därme
 
 #### **Bondeuppror och dackefejden**
 
-Vasa hade haft bönderna på sin sida när han tog makten, då flera var missnödja med den danske kungen. Men i och med de höjda skatterna tappade han anhängare bland bönderna. Detta ledde till att flera bönder gjorde uppror. Under 10 år kunde Vasa hålla bönderna i schack med hjälp av förhandlingar, propaganda och hårda straff.
+Vasa hade haft bönderna på sin sida när han tog makten, då flera var missnöjda med den danske kungen. Men i och med de höjda skatterna tappade han anhängare bland bönderna. Detta ledde till att flera bönder gjorde uppror. Under 10 år kunde Vasa hålla bönderna i schack med hjälp av förhandlingar, propaganda och hårda straff.
 
 Dackefejden är ett känt fall där småländska bönder reste sig mot kungen under ledning av Nils Dacke på 1540-talet. Smålänningarna var missnöjda med skattepolitiken och med den nya religionen. Nils Dacke och hela hans släkt dödades, smålänningarna straffades med dyra böter, ledarna avrättades och upprorsmän förvisades till Finland.
 
@@ -152,7 +152,7 @@ Efter trettio års krigande slöts den Westfaliska freden i Münster och Osnabr�
 
 Den svenska stormaktstiden varade mellan år 1561 (Estland kom under den svenska kronan) och år 1721 (freden slöts efter Karl XII:s död).
 
-#### **Sverige och det trettoåriga kriget**
+#### **Sverige och det trettioåriga kriget**
 
 Gustav II Adolf tog över en flod i norra Tyskland år 1630. År 1631 slöts ett fördrag mellan Sverige och katolska Frankrike att Sverige skulle för 400 000 riksdaler (årligen) ha 36 000 man i Tyskland för att strida mot de kejserliga trupperna. Gustav II Adolf besegrade de kejserliga trupperna samma år. År 1632 dog Gustav II Adolf, men Sverige forsatte kriga vilket slutade med att Sverige fick starka positioner i norra Tyskland (vid flodar).
 
@@ -173,11 +173,11 @@ Varför ingrep Sverige i det trettioåriga kriget? Här är ett par möjliga sva
 
 #### **Drottning Kristina**
 
-Efter Gustav II Adolfs död var det den 6 årige dottern Kristina som skulle ta över. Eftersom hon var för ung blev det en förmyndarregering som styde i Sverige, bland andra hade Axel Oxenstierna mycket makt under denna tid.
+Efter Gustav II Adolfs död var det den 6 årige dottern Kristina som skulle ta över. Eftersom hon var för ung blev det en förmyndarregering som styrde i Sverige, bland andra hade Axel Oxenstierna mycket makt under denna tid.
 
 Sverige blev nordens ledande makt. Tog över Gotland, Härjedalen, Jämtland, Ösel och Halland på 30 år.
 
-När drottning Kristina blir myndig tar hon över makten och ger ut donationer till adelsmän som deltagit under kriget. Försökte skapa en motvikt mot Oxenstiernorna, vilket ledde till att adeln ökade sina jordegendomar. Abdikerade år 1654 och övergick till katolicismen i Rom (och dog sedan 1689). Hennes övergång var chokerande, hennes far hade ju kämpat mot katolicismen.
+När drottning Kristina blir myndig tar hon över makten och ger ut donationer till adelsmän som deltagit under kriget. Försökte skapa en motvikt mot Oxenstiernorna, vilket ledde till att adeln ökade sina jordegendomar. Abdikerade år 1654 och övergick till katolicismen i Rom (och dog sedan 1689). Hennes övergång var chockerande, hennes far hade ju kämpat mot katolicismen.
 
 #### **Den karolinska tiden**
 
@@ -188,7 +188,7 @@ Tiden när tre kungar (Karl X Gustav, Karl XI och Karl XII) regerade kallas för
 * Anfall mot Polen, 1650-tal.
 * Danmark förklarade krig. Via Polen och norra Tyskland attackerade Karl X Gustav Danmark, vilket ledde till danskarnas tvingade fred år 1658.
 * Genom freden, roskildefreden, fick Sverige Skåne, Halland, Blekinge, Bornholm, Bohuslän och Trondheims län. Danska riket förlorade ⅓ av sitt territorium.
-* Sommaren 1658 och Karl X Gustav ville åtwer attackera Danmark. Sverige förlorade då Danmark fick hjälp av Holland.
+* Sommaren 1658 och Karl X Gustav ville åter attackera Danmark. Sverige förlorade då Danmark fick hjälp av Holland.
 * Karl Gustav avled 1660, mitt under kriget.
 * Förmyndarregeringen slöt fred och lämnade tillbaka Bornholm och Trondheim.
 
@@ -214,8 +214,8 @@ I de förut danska delarna av Sverige pågick en försvenskningsprocess. Alla sk
 
 ##### **Karl XII**
 
-* åter igen en förmyndarregering som styde då Karl XII endast var 15 när hans far dog.
-* bara ett halvår senare blev han fullmyndig och enväldig kung. Ingen kungaed, då han nu löd direkt under gud (något hans fader hade bestämt när han var kung, enväldig).
+* åter igen en förmyndarregering som styrde då Karl XII endast var 15 när hans far dog.
+* bara ett halvår senare blev han fullmyndig och enväldig kung. Ingen kunga ed, då han nu löd direkt under gud (något hans fader hade bestämt när han var kung, enväldig).
 * Danmark, Polen och Ryssland bildade anföllsförbund och anföll år 1700 ("det nordiska kriget").
 * Karl XII förde en arme till Danmark och tvingade fred.
 * Sedan till Ryssland där han besegrades av en dubbelt så stor armé (?, oklart. Vilket fall som helst försvagades den svenska armén, hård vinter under kriget som försvårade).
