@@ -160,17 +160,17 @@ De politiska begreppen "vänster" och "höger" kommer från franska revolutionen
 
 #### **Den andra revolutionen**
 
-Revolutionen tog fart igen april 1792 då nationalförsamlingen förklarar krig mot Österrike för att kort därefter befinna sig i krig mot nästan hela Europa. Nationalförsamlingen förväntade sig att soldaterna skulle ses som befriare, men endat ett fåtal mottog soldaterna som befriare.
+Revolutionen tog fart igen april 1792 då nationalförsamlingen förklarar krig mot Österrike för att kort därefter befinna sig i krig mot nästan hela Europa. Nationalförsamlingen förväntade sig att soldaterna skulle ses som befriare, men endast ett fåtal mottog soldaterna som befriare.
 
-Där soldaterna tog över sopades det feodala samhällssystemet undan, aristokratins (adeln) privilegier avskaffades och kyrkojorden rogs i beslag. Den franska författningen (inslag av upplysningens idéer) blev snart modell i ett tiotal länder.
+Där soldaterna tog över sopades det feodala samhällssystemet undan, aristokratins (adeln) privilegier avskaffades och kyrkojorden togs i beslag. Den franska författningen (inslag av upplysningens idéer) blev snart modell i ett tiotal länder.
 
 ##### **Skräckväldet**
 
 Nationalförsamlingen införde allmän värnplikt för att sprida revolutionens idéer. De franska arméerna bestod av en miljon man bara ett år senare.
 
-De stigande matpriserna, utskrivningen av soldater samt rykten om att preusserna och österrikarna skulle invadera frankrike ledde till ökad oro.
+De stigande matpriserna, utskrivningen av soldater samt rykten om att preussarna och österrikarna skulle invadera frankrike ledde till ökad oro.
 
-*Kommunen* i Paris blev mer radikal, avskaffade kungadömmet 1792 och införde en republik. Avrättade Kung Ludvig XVI och Marie Antoinette med en giljotin januari 1793.
+*Kommunen* i Paris blev mer radikal, avskaffade kungadömet 1792 och införde en republik. Avrättade Kung Ludvig XVI och Marie Antoinette med en giljotin januari 1793.
 
 ###### **Välfärdsutskottet**
 
