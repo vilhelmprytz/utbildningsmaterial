@@ -160,35 +160,43 @@ De politiska begreppen "vänster" och "höger" kommer från franska revolutionen
 
 #### **Den andra revolutionen**
 
-Tog fart igen 1792.
+Revolutionen tog fart igen april 1792 då nationalförsamlingen förklarar krig mot Österrike för att kort därefter befinna sig i krig mot nästan hela Europa. Nationalförsamlingen förväntade sig att soldaterna skulle ses som befriare, men endat ett fåtal mottog soldaterna som befriare.
 
-* April - nationalförsamlingen förklarar krig mot Österrike, befann sig snart i krig mot nästan hela Europa.
-* Nationalförsamlingen förväntade sig att de franska soldaterna skulle hälsas som befriare, men på de flesta ställen var det inte så.
-* Det feodala samhällssystemet sopades undan där de franska arméerna drog fram, kyrkojorden togs i beslag och aristokratins (adelns) privilegier avskaffades.
-* Borgerskapts författning blev modell i ett tiotal länder (alltså upplysningens idéer?).
+Där soldaterna tog över sopades det feodala samhällssystemet undan, aristokratins (adeln) privilegier avskaffades och kyrkojorden rogs i beslag. Den franska författningen (inslag av upplysningens idéer) blev snart modell i ett tiotal länder.
 
 ##### **Skräckväldet**
 
-* Allmän värnplikt för att sprida revolutionens idéer (efter något år bestod den franska armén av 1 miljon man).
-* Oro - höjda matpriser, rädda för österrikarna och preussarna.
-* Hösten 1792 - kommunen avskaffar kungadömet och inför republik.
-* Januari 1793 - Kung Ludvig XVI halshöggs, på hösten halshöggs Marie Antoinette (giljotin).
-* Ny riksdag - allmän rösträtt för män.
-* Riksdagen 1793 - "välfärdsutskottet", krossa motrevolutionen.
-* Robespierre - en ledare, påverkad av Rousseaus idéer om allmänviljan.
-* Välfärdsutskottet beslöt sig för att inte kompensera de aristokrater (adeln) som skulle få ersättning.
-* Emigrerade adelsmän och prästers mark skänktes till jordlösa.
-* Maximipriser på bröd fastställdes.
-* Robespierre - en dyrkan av "ett högsta väsen".
-* Sansculotterna (utan knäbyxor) - stödde välfärdsutskottet
-* Misstänka för kontrarevolutionära åsikter ställdes inför specialinrättade domstolar (inga försvarare).
-* Ungefär 40 000 människor miste livet sommaren 1793 till sommaren 1794 (skräckväldet, människor som hade kontrarevolutionära åsikter).
-* De flesta som avrättades var arbetare och bönder.
-* När Robespierre arresterades och avrättades var skräckväldets tid slut.
+Nationalförsamlingen införde allmän värnplikt för att sprida revolutionens idéer. De franska arméerna bestod av en miljon man bara ett år senare.
+
+De stigande matpriserna, utskrivningen av soldater samt rykten om att preusserna och österrikarna skulle invadera frankrike ledde till ökad oro.
+
+*Kommunen* i Paris blev mer radikal, avskaffade kungadömmet 1792 och införde en republik. Avrättade Kung Ludvig XVI och Marie Antoinette med en giljotin januari 1793.
+
+###### **Välfärdsutskottet**
+
+En ny riksdag med allmän rösträtt för män infördes och den nya riksdagen utsåg ett *välfärdsutskott* vars uppdrag var att krossa motrevolutionen (Robespierre, påverkad av Rousseaus idéer, blev ledare för detta utskott).
+
+Det nya utskottet beslöt att ta bort ersättningen till adeln som förlorat sina privilegier och de skänkte bort jord som tillhört adelsmän, präster och emigranter till jordlösa.
+
+Maximipriser på brödfastställdes och en ny författning med allmän rösträtt för män utformades. Robespierre införde en kult med dyrkan av "ett högsta väsen".
+
+###### **Ökat motstånd och sansculotterna**
+
+Motståndet mot revolutionen ökade, flera revolterade mot den kyrkofientliga politiken.
+
+*Sansculotterna*, de som bar arbetarnas långa byxor istället för överklassens knäbyxor, stödde välfärdsutskottet. De flesta sansculotter var butiksägare, hantverkare och deras hustrur.
+
+###### **Skräckväldets tid**
+
+Alla som misstänktes för kontrarevolutionära åsikter ställdes inför specialinrättade domstolar som snabbades på (åtalade fick inte ha försvarare eller inkalla vittnen).
+
+Cirka 40 000 människor miste livet åren 1793-1794, det som kallas för skräckväldets tid. De flesta som avrättades var bönder och arbetare.
+
+Den 24 juli 1794 arresterades även Robespierre och avrättades dagen därpå tillsammans med 18 anhängare. Sansculotternas och skräckväldets tid var förbi, revolutionen gick tillbaka till 1789 och borgerskapet tog makten åter.
 
 #### **Resultatet av den franska revolutionen**
 
-* Avskaffandet av feodala privilegier för adeln och kyrkan ledde till att sådana privilegier började ifrågasättas i andra länder.
-* Politisk debatt om hur samhället borde styras, franska författningen som efterliknades i flera länder gav medelklassen mer makt.
-* Mänskliga fri- och rättigheter, slavhandel över Atlanten och slaveriet ifrågasättas.
+* Avskaffandet av feodala privilegier för adeln och kyrkan ledde till att sådana privilegier började kritiseras i andra länder i Europa.
+* Väckte politisk debatt om hur samhället borde styras, franska författningen som efterliknades i flera länder gav medelklassen mer makt.
+* Öppnade ögonen för mänskliga fri- och rättigheter, slavhandel över Atlanten och slaveriet började ifrågasättas.
 * Kyrkans roll minskade i Frankrike och andra katolska länder (äktenskap blev en civil angelägenhet och möjligheten att skilja sig skapades). Ifrågasättning av religionens koppling till staten.
