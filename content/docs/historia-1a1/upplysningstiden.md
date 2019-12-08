@@ -37,7 +37,7 @@ Detta skapade en övertygan om att det inte fanns någon gräns för förnuftet 
 
 ##### **Naturrätt och tolerans**
 
-Antik filosofi och kristendom hade hävdat att människan har "naturliga rättigheter". Denna idé utvecklades av upplysningsfilosoferna till det som kallas för naturätt. Alla människor föds fria och lika, alla har rätt till liv, frihet och egendom. Slaveri, livsegenskap och tortyr kritiserades som förhörsmetod och straff.
+Antik filosofi och kristendom hade hävdat att människan har "naturliga rättigheter". Denna idé utvecklades av upplysningsfilosoferna till det som kallas för naturätt. Alla människor föds fria och lika, alla har rätt till liv, frihet och egendom. Slaveri, livegenskap och tortyr kritiserades som förhörsmetod och straff.
 
 Upplysningens förespråkare engagerade sig i kampen för religiös tolerans, att fritt förkunna religiösa och politiska åsikter. Man såg kritiskt på kyrkan. Franske filosofen *Voltaire* sa "krossa den skändliga!" om den katolska kyrkan (Voltaire menade att präster och munkar var skojare som lurade folket).
 
@@ -85,7 +85,7 @@ Mitt under kriget, den 4 juli år 1776, samlades representanter för 13 kolonier
 
 USA vart ett omtalat ämne i Europa, en före detta koloni som lyckades bryta sig ut från moderlandet.
 
-### **Franska revolutionen och Napoleontiden**
+### **Franska revolutionen**
 
 Den franska statens kassakista var tom. Kung Ludvig XVI samlade därför de sammanlagt 1 200 representanterna från de samtliga tre stånden i Versailles (utanför Paris) år 1789. 300 präster, 300 adelsmän och 600 från det tredje ståndet.
 
