@@ -1,6 +1,6 @@
 ---
 title: Värme
-weight: 1
+weight: 3
 ---
 
 # Värme

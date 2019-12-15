@@ -1,6 +1,6 @@
 ---
 title: Den nya tidens början
-weight: 0
+weight: 1
 ---
 
 # Den nya tidens början

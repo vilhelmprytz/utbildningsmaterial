@@ -1,6 +1,6 @@
 ---
 title: Revolutionernas tid
-weight: 2
+weight: 3
 ---
 
 # **Revolutionernas tid**
