@@ -1,13 +1,27 @@
 ---
-title: Kemiska beräkningar
+title: Stökiometri
 weight: 3
 ---
 
-# Kemiska beräkningar
+# Stökiometri
 
 Kapitel 6 i kemiboken (se kursinfo).
 
 ## Länkar
+
+## Begreppslista
+
+* **Atommassa**:
+* **Avogadros tal**:
+* **Empirisk formel**:
+* **Koncentration**:
+* **Kristallvatten**:
+* **Masshalt**:
+* **Molekylformel**:
+* **Molekylmassa**:
+* **Molmassa**:
+* **Substansmängd**:
+* **Volymhalt**
 
 ## Formler
 
@@ -39,4 +53,10 @@ Förhållande mellan substansmängden (n) och antal atomer (N).
 
 {{< katex >}}
 N = n \cdot N_A
+{{< /katex >}}
+
+### Koncentration
+
+{{< katex >}}
+C = \frac{n}{V}
 {{< /katex >}}
