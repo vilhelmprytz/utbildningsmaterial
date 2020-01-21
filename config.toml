@@ -6,8 +6,6 @@ title = "Vilhelm Prytz - Utbildningsmaterial"
 theme = "book"
 
 [params]
-    BookSearch = false
-
     BookRepo = 'https://github.com/VilhelmPrytz/utbildningsmaterial'
     BookEditPath = 'edit/master/content'
 
