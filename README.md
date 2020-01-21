@@ -1,7 +1,6 @@
 # Vilhelm Prytz - Utbildningsmaterial
 
 [![Build Status](https://travis-ci.com/VilhelmPrytz/utbildningsmaterial.svg?branch=master)](https://travis-ci.com/VilhelmPrytz/utbildningsmaterial)
-[![License: GPL v3](https://img.shields.io/github/license/VilhelmPrytz/utbildningsmaterial)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/VilhelmPrytz/utbildningsmaterial)](https://github.com/VilhelmPrytz/utbildningsmaterial/issues)
 
 Innehåller dokument med diverse begreppslistor och andra utbildningsmaterial. Uppdelat i varje gymnasiekurs och arbetsområde (några enstaka grundskolematerial finns även).
@@ -26,7 +25,7 @@ När du har installerat Hugo kan du sedan köra sidan lokalt på din dator med h
 
 Om du precis har klonat git-projektet kommer inte temat (som är lagrat som submodul) att finnas på din dator. Detta kommer leda till att `hugo` returnerar felmeddelanden. Du kan hämta alla submoduler med hjälp av git.
 
-```
+```bash
 git submodule update --init
 ```
 
