@@ -17,7 +17,7 @@ E = m \cdot c \cdot \Delta T
 {{< /katex >}}
 <--->
 {{< katex >}}
-c \text{är den specifika värmekapaciteten}
+c \ \text{är den specifika värmekapaciteten}
 {{< /katex >}}
 {{< /columns >}}
 
