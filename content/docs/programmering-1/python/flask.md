@@ -85,3 +85,47 @@ client_routes = Blueprint(
 def client():
     return "Detta kommer från client_routes!`
 ```
+
+## Rendera HTML
+
+Flask kan rendera HTML-filer med Python data.
+
+```python
+from flask import render_template
+
+version = "v1.0"
+
+@app.route("/demo")
+def demo():
+    return render_template("index.html", version=version)
+```
+
+Alla HTML filer måste finnas i `templates` mappen (som standard).
+
+Genom att definera variabler som argument till `render_template` funktionen kommer dessa att vara tillgängliga från HTML-filen, se exemplet nedan (`templates/index.html`). Det går att skicka in variabler, listor och dictionaries.
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Demo</title>
+    </head>
+    <body>
+        <p>{{ version }}</p>
+    </body>
+</html>
+```
+
+För att använda variabler används `{{ variablens_namn }}`. Det går också att göra for-loopar eller if-statements.
+
+```html
+{% if error %}
+<p>Detta visas endast om "error" variablen är definierad (alltså inte None).</p>
+{% endif %}
+```
+
+```html
+{% for user in users %}
+<p>Användare {{ user }}</p>
+{% endfor %}
+```
