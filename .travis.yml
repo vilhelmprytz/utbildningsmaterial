@@ -1,6 +1,6 @@
 ---
 install:
-  - curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.63.1/hugo_extended_0.63.1_Linux-64bit.deb
+  - curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.63.2/hugo_extended_0.63.2_Linux-64bit.deb
   - sudo dpkg -i hugo.deb
   - hugo version
   - gem install mdl
