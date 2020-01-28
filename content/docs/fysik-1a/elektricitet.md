@@ -61,3 +61,16 @@ l \text{ är trådens längd} \\
 A \text{ är tvärsnittsarean}
 {{< /katex >}}
 {{< /columns >}}
+
+### Elektrisk effekt
+
+{{< columns >}}
+{{< katex >}}
+P = U \cdot I = R \cdot I^2 = \frac{U^2}{R}
+{{< /katex >}}
+<--->
+{{< katex >}}
+\text{Effektutvecklingen i en} \\
+\text{resistor med resistansen} \ R
+{{< /katex >}}
+{{< /columns >}}
