@@ -9,6 +9,13 @@ weight: 4
 
 ## Fysikformler
 
+### Elementarladdning
+
+{{< katex >}}
+\text{Elektronens laddning är } -e = -1,602 \cdot 10^{-19} \ C \\
+\text{Protonens laddning är } e = +1,602 \cdot 10^{-19} \ C
+{{< /katex >}}
+
 ### Coulombs lag
 
 {{< columns >}}
