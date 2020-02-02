@@ -7,6 +7,8 @@ weight: 4
 
 ## Begreppslista
 
+- **Kirchhoffs första lag**: Summan av de strömmar som går in mot en viss förgreningspunkt är lika stor som summan av de strömmar som går därifrån.
+
 ## Fysikformler
 
 ### Elementarladdning
@@ -28,6 +30,21 @@ Q \text{ är laddningen som på tiden} \ t \\
 \text{passerar genom ett tvärsnitt av ledaren} \\
 \text{enhet för ström är ampere} \ A \\
 1 \ A = 1 \ C/s
+{{< /katex >}}
+{{< /columns >}}
+
+### Spänning
+
+{{< columns >}}
+{{< katex >}}
+U = \frac{E}{Q}
+{{< /katex >}}
+<--->
+{{< katex >}}
+Q \ \text{är laddningen} \\
+U \ \text{är spänningen mellan två punkter} \\
+E \ \text{är energiskillnaden mellan dessa punkter} \\
+1 \ V = 1 \ J/C
 {{< /katex >}}
 {{< /columns >}}
 
