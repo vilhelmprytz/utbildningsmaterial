@@ -16,6 +16,21 @@ weight: 4
 \text{Protonens laddning är } e = +1,602 \cdot 10^{-19} \ C
 {{< /katex >}}
 
+### Ström
+
+{{< columns >}}
+{{< katex >}}
+I = \frac{Q}{t}
+{{< /katex >}}
+<--->
+{{< katex >}}
+Q \text{ är laddningen som på tiden} \ t \\
+\text{passerar genom ett tvärsnitt av ledaren} \\
+\text{enhet för ström är ampere} \ A \\
+1 \ A = 1 \ C/s
+{{< /katex >}}
+{{< /columns >}}
+
 ### Coulombs lag
 
 {{< columns >}}
