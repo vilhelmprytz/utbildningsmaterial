@@ -8,6 +8,7 @@ weight: 4
 ## Begreppslista
 
 - **Kirchhoffs första lag**: Summan av de strömmar som går in mot en viss förgreningspunkt är lika stor som summan av de strömmar som går därifrån.
+- **Kirchhoffs andra lag**: Summan av alla potentialförändringar i en sluten krets är noll.
 
 ## Fysikformler
 
@@ -45,6 +46,16 @@ Q \ \text{är laddningen} \\
 U \ \text{är spänningen mellan två punkter} \\
 E \ \text{är energiskillnaden mellan dessa punkter} \\
 1 \ V = 1 \ J/C
+{{< /katex >}}
+{{< /columns >}}
+
+{{< columns >}}
+{{< katex >}}
+U = | V_A - V_b |
+{{< /katex >}}
+<--->
+{{< katex >}}
+\text{Absolutbeloppet av potentialdifferensen}
 {{< /katex >}}
 {{< /columns >}}
 
