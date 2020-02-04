@@ -51,7 +51,7 @@ E \ \text{är energiskillnaden mellan dessa punkter} \\
 
 {{< columns >}}
 {{< katex >}}
-U = | V_A - V_b |
+U = | V_A - V_B |
 {{< /katex >}}
 <--->
 {{< katex >}}
