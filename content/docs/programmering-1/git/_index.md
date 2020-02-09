@@ -31,3 +31,21 @@ Använder du en tjänst som t.ex. GitHub eller GitLab behöver du också publice
 ```bash
 git push
 ```
+
+## Koppla ett lokalt repository mot GitHub
+
+Om du skapat en repository på din dator och vill länka mot den till t.ex. GitHub behöver du först kopiera `.git`-länken för ditt repository.
+
+Lägg till den i git.
+
+```bash
+git remote add origin https://github.com/VilhelmPrytz/utbildningsmaterial.git
+```
+
+Länka din lokala branch mot den som finns på GitHub.
+
+```bash
+git branch --set-upstream-to=origin/master master
+```
+
+Nu kan du använda `git pull` eller `git push` för att hämta respektive ladda upp ändringar.
