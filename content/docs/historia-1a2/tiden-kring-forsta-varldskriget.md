@@ -26,7 +26,7 @@ Kris i Österrike-Ungern. Är landet på väg att splittras? Eller är det Serbi
 - Förlorade området Alsace-Lorraine i det fransk-tyska kriget 1870-1871.
   - Till följd av detta har Frankrike svårt att komma överens med Tyskland.
 - Nära samarbete med Ryssland.
-- Storbritannien en ptentiell vän då Frankrike gjorde eftergifter i Afrika.
+- Storbritannien en potentiell vän då Frankrike gjorde eftergifter i Afrika.
 - Flertalet kolonier i olika världsdelar, riktning mot världsimperium.
 - Industriellt på efterkälken (jämfört med USA och Tyskland)
 - Politiskt instabilt, flera olika regeringar under kort tid.
@@ -95,7 +95,7 @@ Kris i Österrike-Ungern. Är landet på väg att splittras? Eller är det Serbi
 
 - Vill växa snabbt, samla alla serber i ett "Storserbien". Ännu bättre med ett sydslaviskt rike.
 - Österike-Ungern är en alldeles för stark motståndare.
-- Arbete för att förena serber bedrivs bäde i Österike-Ungern och Serbien.
+- Arbete för att förena serber bedrivs både i Österike-Ungern och Serbien.
 - En organisation i Serbien tycker inte att serberna ska avstå från Bosnien-Hercegovina.
 - Oroligt, varit med om flera politiska mord och krig på relativt kort tid.
 - Stöd från och till Ryssland.
