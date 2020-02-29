@@ -1,6 +1,8 @@
 ---
 install:
-  - curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.65.3/hugo_extended_0.65.3_Linux-64bit.deb
+  - LATEST_VERSION=`curl --silent "https://api.github.com/repos/gohugoio/hugo/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/'`
+  - VERSION_NO_PREFIX=`echo $LATEST_VERSION | cut -c 2-`
+  - curl -L -o hugo.deb "https://github.com/gohugoio/hugo/releases/download/$LATEST_VERSION/hugo_extended_${VERSION_NO_PREFIX}_Linux-64bit.deb"
   - sudo dpkg -i hugo.deb
   - hugo version
   - gem install mdl
