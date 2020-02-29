@@ -38,7 +38,7 @@ Kris i Österrike-Ungern. Är landet på väg att splittras? Eller är det Serbi
   - Tsaren rustade upp militären istället för att genomföra reformer.
   - Efterblivet jordbruk och liten industrikapacitet.
 - Inte en av de riktiga stormakterna, klarar sig inte på egen hand.
-  - Allians med Frankrike som stöd, men hjälper inte i kamp om asien (Storbritannien konkurrent).
+  - Allians med Frankrike som stöd, men hjälper inte i kamp om Asien (Storbritannien konkurrent).
 - Haft spänning mot britterna, men som lättade efter ett avtal 1907 (neutral zon mellan rikenas intressesfärer).
 - Inte överens med österrikare angående hur Balkan bör se ut efter att turkarna förlorat mycket inflytande där.
 - Spänning gentemot Österrike-Ungern
@@ -64,12 +64,12 @@ Kris i Österrike-Ungern. Är landet på väg att splittras? Eller är det Serbi
 - Land i kris, drabbat riket sedan nationalismens framgång under 1800-talet. Alliansen mellan Tyskland och Italien skedde delvis på landets bekostnad.
 - Inte längre ledaren för den tyskspråkiga världen.
 - Splittrat styre.
-  - Styrs av tyskar, stark magyarisk (domnierande etniska gruppen i Ungern) minoritet.
+  - Styrs av tyskar, stark magyarisk (dominerande etniska gruppen i Ungern) minoritet.
   - Splittrad slavisk majoritet men med begränsat inflytande.
 - 1908 blev Bosnien-Hercegovina en del av Österrike-Ungern.
   - Konsekvens: ökad spänning gentemot Serbien.
 - Eftersträvan för gamla tider där den härskande tyska klassens dominans inte stördes av ideologier.
-- Långt efter industriellt och hopplöst förhåldrad byråkrati.
+- Långt efter industriellt och hopplöst föråldrad byråkrati.
 
 ### Italien
 
@@ -77,7 +77,7 @@ Kris i Österrike-Ungern. Är landet på väg att splittras? Eller är det Serbi
 - Avtal med Frankrike om att dela på Nordafrika.
 - Österrike-Ungern är annars landets "naturliga motståndare".
   - Italiensk minoritet på österrikiskt område.
-  - Österike-Ungern mot Italiens försök att etablera sig på Balkanhalvön.
+  - Österrike-Ungern mot Italiens försök att etablera sig på Balkanhalvön.
 - Söker starka samarbetspartners.
 
 ### Storbritannien
@@ -94,8 +94,8 @@ Kris i Österrike-Ungern. Är landet på väg att splittras? Eller är det Serbi
 ### Serbien
 
 - Vill växa snabbt, samla alla serber i ett "Storserbien". Ännu bättre med ett sydslaviskt rike.
-- Österike-Ungern är en alldeles för stark motståndare.
-- Arbete för att förena serber bedrivs både i Österike-Ungern och Serbien.
+- Österrike-Ungern är en alldeles för stark motståndare.
+- Arbete för att förena serber bedrivs både i Österrike-Ungern och Serbien.
 - En organisation i Serbien tycker inte att serberna ska avstå från Bosnien-Hercegovina.
 - Oroligt, varit med om flera politiska mord och krig på relativt kort tid.
 - Stöd från och till Ryssland.
@@ -104,5 +104,5 @@ Kris i Österrike-Ungern. Är landet på väg att splittras? Eller är det Serbi
 
 - "Europas sjuke man", ligger efter industriellt, föråldrat statsskick och splittrande nationalistiska och kulturella krafter.
 - Har tvingats släppa ifrån sig stora landområden i Europa under de senaste hundra åren.
-- Upprustning av militär, lyckade ta landområden från Bulgarien 1913.
+- Upprustning av militär, lyckades ta landområden från Bulgarien 1913.
 - Strategiskt viktigt sund mellan svarta havet och medelhavet fortfarande i rikets ägo.
