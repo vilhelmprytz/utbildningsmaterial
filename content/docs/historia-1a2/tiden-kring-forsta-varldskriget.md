@@ -15,6 +15,15 @@ Först utsätts prinsen för ett bombattentat den 28 juni 1914 klockan 10, men s
 
 Kris i Österrike-Ungern. Är landet på väg att splittras? Eller är det Serbien som hetsar serber till terrordåd utanför landets gränser? Skotten i Sarajevo sägs vara en av de utlösande faktorerna för första världskriget.
 
+### Svarta veckan
+
+- 30 juli. Ryssland mobiliserar 2 miljoner man.
+- 1 augusti. Tyskland mobiliserar och förklarar krig mot Ryssland. Mobilisering i Frankrike och Storbritannien.
+- 3 augusti. Tyskland förklarar krig mot Frankrike, ockpuerar Belgien.
+- 4 augusti. Storbritannien förklarar krig mot Tyskland.
+
+Italien ställde sig neutrala först (trots trippelalliansen) men gick 1915 med på Frankrikes och Storbritanniens sida.
+
 ## Europa år 1914
 
 - *Dubbelalliansen*: Frankrike och Ryssland.
