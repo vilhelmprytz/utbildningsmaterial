@@ -1,6 +1,8 @@
+{{ if .GitInfo }} 
 <div class="flex justify-end">
   {{ i18n "Last modified by" }} {{ .GitInfo.AuthorName }} (<a class="flex align-center" href="{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>)
 </div>
 <div class="flex justify-end">
   <i>{{ .GitInfo.Subject }}</i>
 </div>
+{{ end }}
