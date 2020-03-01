@@ -9,7 +9,7 @@ Kortare sammanfattning av tiden kring första världskriget.
 
 ## Detta har hänt
 
-Den österrikiska-ungerska tronföljaren Frans Ferdinand visar upp sig i Sarajevo på grund av det oroliga läget i staden (Bosnien har haft problem sedan det införlivades i riket). Många bosnier är serber och vill hellre tillhöra Serbien.
+Den österrikiska-ungerska tronföljaren Franz Ferdinand och hans hustru visar upp sig i Sarajevo på grund av det oroliga läget i staden (Bosnien har haft problem sedan det införlivades i riket). För många invånare framstår paret som symbolen för utländskt förtryck. Flera bosnier är serber och vill hellre tillhöra Serbien.
 
 Först utsätts prinsen för ett bombattentat den 28 juni 1914 klockan 10, men som pareras. Senare på dagen blir prinsen och hans hustru skjutna av en ung man vid namn Gavrilo Princip (bosnien-serbisk nationalist).
 
