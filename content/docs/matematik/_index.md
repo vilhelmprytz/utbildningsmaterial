@@ -40,6 +40,22 @@ f'(x) = \lim\limits_{h \to 0} \frac{f(x+h)-f(x)}{h}
 | {{< katex >}}k * f(x){{< /katex >}}                                      | {{< katex >}}k * f'(x){{< /katex >}}       |
 | {{< katex >}}f(x) + g(x){{< /katex >}}                                   | {{< katex >}}f'(x) + g'(x){{< /katex >}}   |
 
+### Integralens definition
+
+{{< katex >}}
+\int_{a}^{b}f(x)dx = \left [ F(x) \right ]_a^b
+{{< /katex >}}
+
+### Primitiva funktioner
+
+| Funktion                                             | Primitiv funktion                                |
+| :--------------------------------------------------: | :----------------------------------------------: |
+| {{< katex >}}k{{< /katex >}}                         | {{< katex >}}kx+C{{< /katex >}}                  |
+| {{< katex >}}x^n \ (n \neq -1){{< /katex >}}         | {{< katex >}}\frac{x^{n+1}}{n+1}+C{{< /katex >}} |
+| {{< katex >}}e^x{{< /katex >}}                       | {{< katex >}}e^x+C{{< /katex >}}                 |
+| {{< katex >}}e^{kx}{{< /katex >}}                    | {{< katex >}}\frac{e^{kx}}{k}+C{{< /katex >}}    |
+| {{< katex >}}a^x \ (a \gt 0, a \neq 1){{< /katex >}} | {{< katex >}}\frac{a^x}{\ln a}+C{{< /katex >}}   |
+
 ## Matematik 4
 
 Saknas innehåll.
