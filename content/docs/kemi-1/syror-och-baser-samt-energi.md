@@ -12,12 +12,12 @@ Kapitel 7 och kapitel 8.
 ### Syror och baser
 
 * **Protolysreaktion**: En kemisk reaktion mellan en syra och en bas.
-* **Bas/basisk lösning**:
-* **Indikator**:
+* **Bas/basisk lösning**: Lösning med pH över 7.
+* **Indikator**: Tar reda på surheten i en lösning (t.ex. BTB eller fenolftalein).
 * **Jämviktskonstant**:
-* **Neutral lösning**:
+* **Neutral lösning**: Lösning med pH = 7.
 * **pH**: Oxoniumjonkoncentrationen {{< katex >}}H_3O^+{{< /katex >}} är ett mått på surheten i en lösning.
-* **Syra/sur lösning**:
+* **Syra/sur lösning**: Lösning med pH mindre än 7.
 * **Stark/svag bas**:
 * **Stark/svag syra**:
 * **Titrering/titerkurva**:
@@ -40,6 +40,12 @@ Kapitel 7 och kapitel 8.
 * **Oxoniumjon**: {{< katex >}}H_3O^+{{< /katex >}}
 * **Ammoniumjon**: {{< katex >}}NH_4^+{{< /katex >}}
 * **Hydroxidjon**: {{< katex >}}OH^-{{< /katex >}}
+
+## Sammanfattning
+
+### BUSA-regeln
+
+**B**aser **U**pptar, **S**yror **A**vger (protoner {{< katex >}}H^+{{< /katex >}})
 
 ## Formler
 
