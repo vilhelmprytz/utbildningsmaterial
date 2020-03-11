@@ -11,6 +11,7 @@ Kapitel 7 och kapitel 8.
 
 ### Syror och baser
 
+* **Protolysreaktion**: En kemisk reaktion mellan en syra och en bas.
 * **Bas/basisk lösning**:
 * **Indikator**:
 * **Jämviktskonstant**:
@@ -29,10 +30,16 @@ Kapitel 7 och kapitel 8.
 * **Entropi (S)**: Storhet som går att mätas, beskriver oordning (desto högre entropi desto högre oordning).
 * **De två naturlagarna**
   1. Naturen strävar efter så låg energi (entalpi) som möjligt.
-  2. Naturen strävar efter så hög oordning (entropi) som möjligt.
+  1. Naturen strävar efter så hög oordning (entropi) som möjligt.
 * **Exoterm**:
 * **Gibbs friga energi**:
 * **Reaktionshastighet**:
+
+### Övrigt
+
+* **Oxoniumjon**: {{< katex >}}H_3O^+{{< /katex >}}
+* **Ammoniumjon**: {{< katex >}}NH_4^+{{< /katex >}}
+* **Hydroxidjon**: {{< katex >}}OH^-{{< /katex >}}
 
 ## Formler
 
@@ -56,10 +63,10 @@ pH = -\lg [H_3O^+] \\
 q = c \cdot m \cdot \Delta T
 {{< /katex >}}
 <--->
-q = energi (J)  
-c = specifik värmekapacitet (J/(kg*K))  
-m = massa (kg)  
-T = temperaturförändring (kelvin)  
+q = energi (J)\
+c = specifik värmekapacitet (J/(kg*K))\
+m = massa (kg)\
+T = temperaturförändring (kelvin)
 {{< /columns >}}
 
 ### Entalpi
