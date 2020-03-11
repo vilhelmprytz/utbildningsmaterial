@@ -25,13 +25,13 @@ Kapitel 7 och kapitel 8.
 ### Energi
 
 * **Aktiveringsenergi**:
-* **Endoterm**:
+* **Endoterm**: En endoterm reaktion kräver tillförsel av energi (t.ex. fotosyntes).
 * **Entalpi (H)**: Storhet som beskriver ett ämnes värmeinnehåll.
 * **Entropi (S)**: Storhet som går att mätas, beskriver oordning (desto högre entropi desto högre oordning).
 * **De två naturlagarna**
   1. Naturen strävar efter så låg energi (entalpi) som möjligt.
   1. Naturen strävar efter så hög oordning (entropi) som möjligt.
-* **Exoterm**:
+* **Exoterm**: Under en exoterm reaktion avges energi och värmer omgivningen (t.ex. cellandning).
 * **Gibbs friga energi**:
 * **Reaktionshastighet**:
 
