@@ -7,6 +7,11 @@ weight: 40
 
 Kapitel 7 och kapitel 8.
 
+## Länkar
+
+* [Quizlet - Starka syror](https://quizlet.com/496269137/kemi-1-starka-syror-flash-cards/)
+* [Quizlet - Svaga syror](https://quizlet.com/496269862/kemi-1-svaga-syror-flash-cards/)
+
 ## Begreppslista
 
 ### Syror och baser
