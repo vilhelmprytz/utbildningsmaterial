@@ -16,7 +16,7 @@ Saknas innehåll.
 
 ## Matematik 2c
 
-Saknas innehåll.
+[Formelblad Matematik 3c](http://www5.edusci.umu.se/np/np-2-4-prov/Formelblad_matematik_2.pdf)
 
 ## Matematik 3c
 
