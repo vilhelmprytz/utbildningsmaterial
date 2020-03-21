@@ -2,7 +2,9 @@
 install:
   - LATEST_VERSION=`curl --silent "https://api.github.com/repos/gohugoio/hugo/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/'`
   - VERSION_NO_PREFIX=`echo $LATEST_VERSION | cut -c 2-`
-  - curl -L -o hugo.tar.gz "https://github.com/gohugoio/hugo/releases/download/$LATEST_VERSION/hugo_extended_${VERSION_NO_PREFIX}_Linux-64bit.tar.gz"
+  - DOWNLOAD_URL="https://github.com/gohugoio/hugo/releases/download/$LATEST_VERSION/hugo_extended_${VERSION_NO_PREFIX}_Linux-64bit.tar.gz"
+  - echo $DOWNLOAD_URL
+  - curl -L -o hugo.tar.gz $DOWNLOAD_URL
   - tar -xf hugo.tar.gz
   - ./hugo version
   - gem install mdl
