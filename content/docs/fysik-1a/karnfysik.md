@@ -48,3 +48,10 @@ A \ \text{är aktiviteten} \\
 N \ \text{är antalet radioaktiva kärnor}
 {{< /katex >}}
 {{< /columns >}}
+
+### Massdefekt
+
+{{< katex >}}
+m_{VL} \neq m_{HL} \\
+\Delta m = m_{VL} - m_{HL}
+{{< /katex >}}
