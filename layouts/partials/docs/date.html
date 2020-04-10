@@ -1,0 +1,2 @@
+{{- $month := default .Date.Month (i18n .Date.Month) -}}
+{{- return (printf "%d %s, %d" .Date.Day $month .Date.Year) -}}
