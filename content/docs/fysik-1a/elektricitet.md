@@ -5,6 +5,12 @@ weight: 4
 
 # Elektricitet
 
+## Översikt
+
+**Seriekoppling av resistorer**: Strömmen {{< katex >}}I{{< /katex >}} är lika stor överallt i kretsen. Spänningen kommer delas upp över resistorerna så att {{< katex >}}U = U_1 + U_2{{< /katex >}}.
+
+**Parallellkoppling av resistorer**: Strömmen {{< katex >}}I{{< /katex >}} kommer delas upp genom resistorerna så att {{< katex >}}I = I_1 + I_2{{< /katex >}}. Hela batterispänningen {{< katex >}}U{{< /katex >}} ligger över vart och en av resistorerna.
+
 ## Begreppslista
 
 - **Kirchhoffs första lag**: Summan av de strömmar som går in mot en viss förgreningspunkt är lika stor som summan av de strömmar som går därifrån.
