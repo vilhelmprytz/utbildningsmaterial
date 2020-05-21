@@ -1,6 +1,6 @@
 ---
 title: Atomer håller ihop
-weight: 2
+weight: 20
 ---
 
 # Atomer håller ihop

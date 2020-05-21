@@ -1,6 +1,6 @@
 ---
 title: Materia
-weight: 1
+weight: 10
 ---
 
 # Materia och det periodiska systemet
