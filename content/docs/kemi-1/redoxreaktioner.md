@@ -41,6 +41,10 @@ Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu
 
 Två elektroner från {{< katex >}}Zn{{< /katex >}} (oxidation) till kopparn.
 
+#### Cellschemat för ett zink-koppar-element
+
+{{< katex >}}- \ Zn(s) \ | \ Zn^{2+}(aq) \ || \ Cu^{2+}(aq) \ | \ Cu(s) \ + {{< /katex >}}
+
 ### Beräkna elektromotorisk kraft, emk
 
 Går att beräkna om båda halvcellernas normalpotentialer är kända. {{< katex >}}e^0{{< /katex >}} är normalpotentialen.
