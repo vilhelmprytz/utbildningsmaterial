@@ -20,6 +20,9 @@ Kapitel 9.
 * **Elektrokemiska spänningsserien**: Avtagande förmåga att reducera andra ämnen, svagare reduktionsmedel, till höger. De mest ädla metallerna står längst till höger. Alltså är det starkaste reduktionsmedlet längst till vänster.
 * **Galvaniskt element**: Annordningar som omvandlar kemisk energi till elektrisk energi.
 * **Halvceller**: Ett galvaniskt element består av två halvceller, en där reduktionen sker (pluspolen) och en där oxidationen sker (minuspolen).
+* **Cellschema**: Beskriver ett galvaniskt element på ett överblickbart sätt. T.ex. ser cellschemat för zink-koppar-elementet ut så här: {{< katex >}}- \ Zn(s) \ | \ Zn^{2+}(aq) \ || \ Cu^{2+}(aq) \ | \ Cu(s) \ + {{< /katex >}}. Cellschemat anger vilken elektrod som är positiv pol respektive negativ pol. {{< katex >}}||{{< /katex >}} är saltbryggan.
+* **Elektroder**: Metallstavarna i ett galvaniskt element.
+* **Elektrolyter**: Elektroderna omges av elektrolyter i ett galvaniskt element, en elektrolyt är ett ämne som i löst eller smält form leder elektrisk ström (jonvandring).
 * **Elektrodpotential**: Potentiallskillnaden mellan en elektrod och omgivande lösning. Betecknas med {{< katex >}}e{{< /katex >}}.
 * **Elektromotorisk kraft**: Skillnaden mellan två halvcellers elektrodpotentialer kallas "emk", betecknas {{< katex >}}E{{< /katex >}}.
 * **Normalpotentialen**: Nomralpotentialen, {{< katex >}}e^0{{< /katex >}}, är halvcellens emk för ett galvaniskt element där ena halvcellen är det aktuella elmentet och den andra polen är en vätgaselektrod i saltsyra.
