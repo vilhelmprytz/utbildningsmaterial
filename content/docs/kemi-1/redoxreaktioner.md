@@ -17,7 +17,7 @@ Kapitel 9.
 * **Redoxreaktion**: En reaktion där ett ämne oxideras och ett annat reduceras. Om oxidationstalet inte förändras för något atomslag i en kemisk reaktion är reaktionen inte en redoxreaktion (OT måste förändras för att det ska vara en redoxreaktion).
 * **Oxidationsmedel**: Ett ämne som är oxidationsmedel oxiderar ett annat ämne samtidigt som det själv reduceras.
 * **Reduktionsmedel**: Ett ämne som är reduktionsmedel reducerar ett annat ämne samtidigt som det själv oxideras.
-* **Elektrokemiska spänningsserien**: Avtagande förmåga att reducera andra ämnen, svagare reduktionsmedel, till höger. De mest ädla metallerna står längst till höger.
+* **Elektrokemiska spänningsserien**: Avtagande förmåga att reducera andra ämnen, svagare reduktionsmedel, till höger. De mest ädla metallerna står längst till höger. Alltså är det starkaste reduktionsmedlet längst till vänster.
 * **Galvaniskt element**: Annordningar som omvandlar kemisk energi till elektrisk energi.
 * **Halvceller**: Ett galvaniskt element består av två halvceller, en där reduktionen sker (pluspolen) och en där oxidationen sker (minuspolen).
 * **Elektrodpotential**: Potentiallskillnaden mellan en elektrod och omgivande lösning. Betecknas med {{< katex >}}e{{< /katex >}}.
