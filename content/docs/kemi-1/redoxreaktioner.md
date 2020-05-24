@@ -24,7 +24,7 @@ Kapitel 9.
 * **Elektroder**: Metallstavarna i ett galvaniskt element.
 * **Elektrolyter**: Elektroderna omges av elektrolyter i ett galvaniskt element, en elektrolyt är ett ämne som i löst eller smält form leder elektrisk ström (jonvandring).
 * **Elektrodpotential**: Potentiallskillnaden mellan en elektrod och omgivande lösning. Betecknas med {{< katex >}}e{{< /katex >}}.
-* **Elektromotorisk kraft**: Skillnaden mellan två halvcellers elektrodpotentialer kallas "emk", betecknas {{< katex >}}E{{< /katex >}}.
+* **Elektromotorisk kraft**: Skillnaden mellan två halvcellers elektrodpotentialer kallas "emk", betecknas {{< katex >}}E{{< /katex >}} och har enheten volt (V).
 * **Normalpotentialen**: Nomralpotentialen, {{< katex >}}e^0{{< /katex >}}, är halvcellens emk för ett galvaniskt element där ena halvcellen är det aktuella elmentet och den andra polen är en vätgaselektrod i saltsyra.
 * **Korrosion**: Korrosion av metall leder till att metallen "förstörs" till följd av påverkan av den omgivande kemiska miljön. Korrosion av t.ex. järn som har kontakt med en ädlare metall (koppar) sker snabbt då det fungerar som ett galvaniskt element.
 * **Elektrolys**: Elektrisk energi utnyttjas för att få en redoxreaktion. Används vid förkromning, förzinkning och förnickling av t.ex. järnspikar.
