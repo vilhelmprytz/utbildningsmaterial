@@ -12,6 +12,7 @@ Kapitel 9.
 ## Begreppslista
 
 * **Oxidationstal**: Avslöjar hur stort överskott eller underskott av elektroner respektive atomslag har i förhållande till sitt oladdade (neutrala) tillstånd. Skrivs med romerska siffror. I en reaktion skrivs oxidationstalet ovanför respektive grundämne.
+* **Oxidationstalsmetoden**: En metod för att balansera ekvationer med hjälp av oxidationstal.
 * **Oxidation**: Avgivande av elektroner. Ökning av oxidationstal.
 * **Reduktion**: Upptagande av elektroner. Minskning av oxidationstal.
 * **Redoxreaktion**: En reaktion där ett ämne oxideras och ett annat reduceras. Om oxidationstalet inte förändras för något atomslag i en kemisk reaktion är reaktionen inte en redoxreaktion (OT måste förändras för att det ska vara en redoxreaktion).
@@ -25,6 +26,7 @@ Kapitel 9.
 * **Elektrolyter**: Elektroderna omges av elektrolyter i ett galvaniskt element, en elektrolyt är ett ämne som i löst eller smält form leder elektrisk ström (jonvandring).
 * **Elektrodpotential**: Potentiallskillnaden mellan en elektrod och omgivande lösning. Betecknas med {{< katex >}}e{{< /katex >}}.
 * **Elektromotorisk kraft**: Skillnaden mellan två halvcellers elektrodpotentialer kallas "emk", betecknas {{< katex >}}E{{< /katex >}} och har enheten volt (V).
+* **Vätgaselektrod**: Används som refersnhalvcell. Består av metalltråd som överdragits med ren platina, nedsänkt i saltsyra med koncentrationen {{< katex >}}1 \ mol/dm^3{{< /katex >}}. Runt platinablecket strömmar vätgas med trycket {{< katex >}}101,3 \ kPa{{< /katex >}}.
 * **Normalpotentialen**: Nomralpotentialen, {{< katex >}}e^0{{< /katex >}}, är halvcellens emk för ett galvaniskt element där ena halvcellen är det aktuella elmentet och den andra polen är en vätgaselektrod i saltsyra.
 * **Korrosion**: Korrosion av metall leder till att metallen "förstörs" till följd av påverkan av den omgivande kemiska miljön. Korrosion av t.ex. järn som har kontakt med en ädlare metall (koppar) sker snabbt då det fungerar som ett galvaniskt element.
 * **Elektrolys**: Elektrisk energi utnyttjas för att få en redoxreaktion. Används vid förkromning, förzinkning och förnickling av t.ex. järnspikar.
