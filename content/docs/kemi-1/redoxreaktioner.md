@@ -19,6 +19,7 @@ Kapitel 9.
 * **Ofullständig elektronövergång/fullständig elektronövergång**: Vid redoxreaktioner där det bildas en jonförening har det skett en fullständig elektronövergång. Vid redoxreaktioner där det bildas en molekyl har det i regel skett en ofullständig elektronövergång, men ändå är det en redoxreaktion! Redoxreaktioner sker alltså även vid bildning av polärkovalenta bindningar. Elektronerna har förskjutits lite men har inte helt gått över till den andra atomen.
 * **Oxidationsmedel**: Ett ämne som är oxidationsmedel oxiderar ett annat ämne samtidigt som det själv reduceras.
 * **Reduktionsmedel**: Ett ämne som är reduktionsmedel reducerar ett annat ämne samtidigt som det själv oxideras.
+* **Antioxidanter**: Motverkar oxidationer. En antioxidant kan t.ex. vara ett reduktionsmedel.
 * **Elektrokemiska spänningsserien**: Avtagande förmåga att reducera andra ämnen, svagare reduktionsmedel, till höger. De mest ädla metallerna står längst till höger. Alltså är det starkaste reduktionsmedlet längst till vänster.
 * **Galvaniskt element**: Annordningar som omvandlar kemisk energi till elektrisk energi.
 * **Halvceller**: Ett galvaniskt element består av två halvceller, en där reduktionen sker (pluspolen) och en där oxidationen sker (minuspolen).
