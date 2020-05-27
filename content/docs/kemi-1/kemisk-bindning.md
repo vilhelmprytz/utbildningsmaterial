@@ -1,9 +1,9 @@
 ---
-title: Atomer håller ihop
+title: Kemisk bindning
 weight: 20
 ---
 
-# Atomer håller ihop
+# Kemisk bindning
 
 Kapitel 4 i kemiboken (se kursinfo).
 
