@@ -18,6 +18,7 @@ Kapitel 4 i kemiboken (se kursinfo).
 * **Intermolekylära bindningar**: bindningar mellan molekyler. T.ex. Van der Waals, dipol-dipol och vätebindningar.
 * **Jonbindning**: kemiska bindningen mellan två joner, en positiv och en negativ
 * **Kovalent bindning**: Kallas även elektronparbindning, en eller flera atomer delar ett eller flera elektronpar mellan sig.
+* **Joniseringsenergi**: Den energi det krävs för att jonisera en atom.
 * **Polär kovalent bindning**:
 * **Metallbindning**: atomernas valenselektroner bildar ett gemensamt elektronmoln.
 * **Intramolekylära bindningar**: kemiska bindningar som verkar mellan atomerna i en och samma molekyl (kovalent, polär kovalent eller jonbindning).
