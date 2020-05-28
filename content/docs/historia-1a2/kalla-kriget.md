@@ -7,6 +7,17 @@ weight: 20
 
 ## Begreppslista
 
+## Översikt
+
+Ideologiska skillnader.
+
+|                   | Östblocket (Sovjetunionen) | Västblocket (USA)         |
+| ----------------- | -------------------------- | ------------------------- |
+| Ekonomiskt system | Planekonomi                | Marknadsekonomi           |
+| Ägande            | Statligt                   | Privat                    |
+| Politiskt system  | Enpartisystem              | Flerpartisystem           |
+| Media             | Knutet till parti och stat | Yttrandefrihet, fri media |
+
 ## Tidsperioder
 
 ### **Två supermakter**
