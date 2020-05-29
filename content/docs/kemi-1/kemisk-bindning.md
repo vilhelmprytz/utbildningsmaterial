@@ -33,8 +33,8 @@ Kapitel 4 i kemiboken (se kursinfo).
 * **Salt**:
 * **Atomjon**:
 * **Elektronpar**:
-* **Strukturformel**:
-* **Summaformel**:
+* **Strukturformel**: t.ex. {{< katex >}}H-H{{< /katex >}}
+* **Summaformel**: t.ex. {{< katex >}}H_2{{< /katex >}}
 * **Ytspänning**:
 * **Elektronmoln**: "molnet" där elektronerna åker runt atomen/molekylen. Finns vissa områden där elektronerna är mer sannolika att finnas, så kallade elektronskal.
 * **Legering**: ett material med metalliska egenskaper som består av en eller flera grundämnen, varav minst ett grundämne är metall.
