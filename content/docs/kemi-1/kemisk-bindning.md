@@ -5,6 +5,10 @@ weight: 20
 
 # Kemisk bindning
 
+{{< hint danger >}}
+Denna artikel är inte färdigskriven och saknar väsentlig information.
+{{< /hint >}}
+
 Kapitel 4 i kemiboken (se kursinfo).
 
 ## Länkar
@@ -58,7 +62,7 @@ Atomernas valenselektroner bildar ett gemensamt elektronmoln.
 * Vid smältning bryts metallbindningen.
 * Höga smältpunkter och kokpunkter.
 
-#### **Metallens eenskaper**
+#### **Metallens egenskaper**
 
 * Metallglans
 * Ledningsförmåga
