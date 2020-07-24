@@ -9,6 +9,8 @@ Välkommen till min utbildningssida! Här lägger jag ut diverse anteckningar oc
 
 Dessutom finns det lite äldre presentationer från diverse grundskoleämnen.
 
+<iframe src="https://github.com/sponsors/vilhelmprytz/card" title="Sponsor vilhelmprytz" height="225" width="600" style="border: 0;"></iframe>
+
 ## Bidrag
 
 Källkoden till detta projekt finns på [GitHub](https://github.com/VilhelmPrytz/utbildningsmaterial).
