@@ -12,4 +12,4 @@ install:
 
 script:
   - ./hugo --minify
-  - mdl content --rules "~MD013~,~MD033"
+  - mdl content --rules "~MD013,~MD033"
