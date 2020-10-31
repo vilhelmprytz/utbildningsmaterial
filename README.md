@@ -1,7 +1,7 @@
 # Vilhelm Prytz - Utbildningsmaterial
 
-[![Build Status](https://travis-ci.com/VilhelmPrytz/utbildningsmaterial.svg?branch=master)](https://travis-ci.com/VilhelmPrytz/utbildningsmaterial)
-[![Issues](https://img.shields.io/github/issues/VilhelmPrytz/utbildningsmaterial)](https://github.com/VilhelmPrytz/utbildningsmaterial/issues)
+[![Build Status](https://travis-ci.com/vilhelmprytz/utbildningsmaterial.svg?branch=master)](https://travis-ci.com/vilhelmprytz/utbildningsmaterial)
+[![Issues](https://img.shields.io/github/issues/vilhelmprytz/utbildningsmaterial)](https://github.com/vilhelmprytz/utbildningsmaterial/issues)
 
 Innehåller dokument med diverse begreppslistor och andra utbildningsmaterial. Uppdelat i varje gymnasiekurs och arbetsområde (några enstaka grundskolematerial finns även).
 

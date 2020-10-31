@@ -39,7 +39,7 @@ Om du skapat en repository på din dator och vill länka mot den till t.ex. GitH
 Lägg till den i git.
 
 ```bash
-git remote add origin https://github.com/VilhelmPrytz/utbildningsmaterial.git
+git remote add origin https://github.com/vilhelmprytz/utbildningsmaterial.git
 ```
 
 Länka din lokala branch mot den som finns på GitHub.

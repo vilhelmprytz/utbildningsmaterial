@@ -8,7 +8,7 @@ theme = "book"
 enableGitInfo = true
 
 [params]
-    BookRepo = 'https://github.com/VilhelmPrytz/utbildningsmaterial'
+    BookRepo = 'https://github.com/vilhelmprytz/utbildningsmaterial'
     BookEditPath = 'edit/master/content'
 
 [markup]
