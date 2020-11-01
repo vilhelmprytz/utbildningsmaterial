@@ -5,7 +5,22 @@ title: Miljöhistoria
 
 # Miljöhistoria
 
-## Konservativ orientering
+## Begreppslista
+
+* **Försörjning**:
+* **Globala risksamhället**:
+* **Jorderosion**:
+* **MIljöförstöring**:
+* **Miljöpåverkan**:
+* **Miljöutrymme**:
+* **Politiska styrmedel**:
+* **Resurser**:
+* **Den stora accelerationen**:
+* **Urbanisering**:
+
+## Sammanfattning
+
+### Konservativ orientering
 
 * Tidigt 1900-tal.
 * Skydda naturen från mänsklig aktivitet.
@@ -13,7 +28,7 @@ title: Miljöhistoria
 * Skydd av orörd natur → Nationalparker.
 * Bildandet av miljörörelser.
 
-## Ekologisk orientering
+### Ekologisk orientering
 
 * 1960-talet.
 * Ekologisk helhetssyn.
@@ -26,7 +41,7 @@ title: Miljöhistoria
 * Miljöarbete kommer igång på allvar → statlig myndighet i Sverige.
 * Luftfiltrering (partiklar, svavel, tungmetaller från frabriker) och vattenrening.
 
-## Ekologisk modernisering
+### Ekologisk modernisering
 
 * 1990-talet.
 * Beskriva miljöpolitik i Tyskland, Nederländerna och Norden.

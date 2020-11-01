@@ -7,7 +7,24 @@ title: Ekologi och planetens hållbara gränser
 
 ## Begreppslista
 
+* **Antropocen**:
+* **Biologisk mångfald**:
 * **Ekologi**:
+* **Ekologisk nisch**:
+* **Ekosystem**:
+* **Ekosystems bärkraft**
+* **Ekosystemtjänster**:
+* **Försiktighetsprincipen**:
+* **Holocen**:
+* **Humanekologi**:
+* **IPPC**:
+* **Klimatförändringar**:
+* **Koldioxidekvivalenter**:
+* **Planetära gränser**:
+* **Population**:
+* **Resiliens**:
+* **Tipping point**:
+* **Växthuseffekt**:
 
 ## Sammanfattning
 
@@ -28,7 +45,7 @@ graph LR
     Utvinning --> Produktion --> Konsumtion --> Avfall
 {{< /mermaid >}}
 
-Cirkulär ekonomi.
+Cirkulär ekonomi - efterlikna naturens kretslopp.
 
 {{< mermaid >}}
 graph LR
@@ -37,3 +54,15 @@ graph LR
     Återanvändning-->Produktion;
     Produktion-->Konsumtion;
 {{< /mermaid >}}
+
+### Ekosystemtjänster
+
+#### Försörjande ekosystemtjänster
+
+#### Reglerande ekosystemtjänster
+
+#### Kulturella ekosystemtjänster
+
+#### Stödjande ekosystemtjänster
+
+### Planetens hållbara gränser
