@@ -78,11 +78,11 @@ graph LR
 Se ['planetära gränser' under begreppslistan](#begreppslista). Se [bilden på Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html).
 
 1. Klimatförändring
-2. Förlust av biologisk mångfald
-3. Ozonskiktets uttunning i stratosfären
-4. Havsförsurning
-5. Biogeokemiska flöden
-6. Förändrad markanvändning
-7. Färskvattenanvändning
-8. Aerosoler i atmosfären
-9. Nya kemiska substanser
+1. Förlust av biologisk mångfald
+1. Ozonskiktets uttunning i stratosfären
+1. Havsförsurning
+1. Biogeokemiska flöden
+1. Förändrad markanvändning
+1. Färskvattenanvändning
+1. Aerosoler i atmosfären
+1. Nya kemiska substanser
