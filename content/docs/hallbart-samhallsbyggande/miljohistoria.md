@@ -7,16 +7,12 @@ title: Miljöhistoria
 
 ## Begreppslista
 
-* **Försörjning**:
-* **Globala risksamhället**:
-* **Jorderosion**:
-* **MIljöförstöring**:
-* **Miljöpåverkan**:
-* **Miljöutrymme**:
-* **Politiska styrmedel**:
-* **Resurser**:
-* **Den stora accelerationen**:
-* **Urbanisering**:
+* **Globala risksamhället**: Miljöproblem var tidigare oftast lokala. Nu har miljöproblemen blivit globala, vi lever i ett globalt risksamhälle.
+* **Jorderosion**: Erosionsskador som drabbar betesmarker/åkrar. Erosion är yttre krafters påverkan på jordytan, t.ex. genom vind, rinnande vatten, glaciäris eller vågor.
+* **Politiska styrmedel**: När politiken används för att styra något, i detta fall för att lösa miljöproblem.
+* **Resurser**: Tillgång på något.
+* **Den stora accelerationen**: Den period från 1950-talet och framåt där det mänskliga trycket på den globala miljön accelererar på ett aldrig tidigare skådat sätt.
+* **Urbanisering**: När människor flyttar in till städerna.
 
 ## Sammanfattning
 
