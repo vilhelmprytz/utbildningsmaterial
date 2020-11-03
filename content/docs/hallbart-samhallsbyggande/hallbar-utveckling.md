@@ -19,5 +19,5 @@ title: Hållbar utveckling
 * **klimatkonventionen**: 1994, förhindra mänsklig påverkan som hotar att allvarligt förändra klimatsystemet.
 * **klimatlagen**: I Sverige: varje regering har skyldighet att driva politik som stämmer överens med de klimatmål som riksdagen beslutar.
 * **Kyotoprotokollet**: 1997, att utsläpp ska minska med 5,2% senast 2012 (jämfört med 1990). USA godkände det inte och Ryssland inte förens 2004.
-* **segregation**: I textens fall (bostadssegregation): att t.ex. människor med hög utbildning och inkomst bosätter sig i populära områden, låg inkomst och utbildning i mindre eftertraktade. 
+* **segregation**: I textens fall (bostadssegregation): att t.ex. människor med hög utbildning och inkomst bosätter sig i populära områden, låg inkomst och utbildning i mindre eftertraktade.
 * **Sveriges 16 miljömål**: Syfte att nå ekologisk hållbarhet till 2020 (antogs 1999).
