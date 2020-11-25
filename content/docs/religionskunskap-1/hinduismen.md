@@ -7,7 +7,7 @@ weight: 100
 ## Begreppslista
 
 * **Sanatana dharma**: Den eviga världsordningen.
-* **Samsara**: Det eviga kretsloppet.
+* **Samsara**: Det eviga kretsloppet. Målet är att befria sig från samsara genom att nå moksha.
 * **Karma**: Människans liv är summan av tidigare handlingar och val. Har betydelse för hur vi återföds och som vad vi återföds.
 * **Dharma - ordning/lära**: Ordningen och lagbundenheten i tillvaron. dhri = upprätthålla.
 * **Dharma - plikt, rent, orent**: Människans dharma är de plikter varje människa har i livet. Kopplade till kön, kast och livsstadium. Varnashram dharma.
