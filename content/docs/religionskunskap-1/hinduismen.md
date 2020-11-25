@@ -16,3 +16,5 @@ weight: 100
 * **Moksha**: När atman återförenas med Brahman (målet är att nå moksha).
 * **Dalit**: Utanför kastsystemet. 1/7 av Indiens befolkning är daliter.
 * **Kast**: Fyra huvudkategorier. Brahmaner (prästerskapet, vit), Kshatriyas (polis och militär, röd), Vaishyas (hantverkare/köpmän/bönder, gul), Shudras (tjänare/konstnärer/arbetare/musiker, svart). Tusentals kastgrupper och underkaster.
+* **Gärningarnas väg**: Följa sina plikter (varnashram dharma). Osjälvisk. Vanlig väg bland daliter och lägre kast.
+* **Kunskapens väg**: Människan ska förstå att atman och brahman hör samman och att allt annat är illusion (maya). Vanligt bland högsta kastet, brahmanerna.
