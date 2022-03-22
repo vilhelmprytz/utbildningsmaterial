@@ -35,7 +35,7 @@ Med hjälp av GitHub går det att skapa en s.k. `fork` av projektet. Där kan du
 
 ## Licens
 
-Copyright (C) 2019-2020, Vilhelm Prytz <[vilhelm@prytznet.se](mailto:vilhelm@prytznet.se)>
+Copyright (C) 2019-2022, Vilhelm Prytz <[vilhelm@prytznet.se](mailto:vilhelm@prytznet.se)>
 
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
