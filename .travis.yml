@@ -1,7 +1,7 @@
 ---
 install:
   -  # LATEST_VERSION=`curl --silent "https://api.github.com/repos/gohugoio/hugo/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/'`
-  - LATEST_VERSION="v0.83.1"
+  - LATEST_VERSION="v0.95.0"
   - VERSION_NO_PREFIX=`echo $LATEST_VERSION | cut -c 2-`
   - DOWNLOAD_URL="https://github.com/gohugoio/hugo/releases/download/$LATEST_VERSION/hugo_extended_${VERSION_NO_PREFIX}_Linux-64bit.tar.gz"
   - echo $DOWNLOAD_URL
